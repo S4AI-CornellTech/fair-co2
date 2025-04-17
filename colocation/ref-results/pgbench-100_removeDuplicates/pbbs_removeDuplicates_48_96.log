@@ -1,0 +1,14 @@
+HOSTNAME: leo-clr-1
+running on 48 threads
+
+cd benchmarks/removeDuplicates/parlayhash ; make -s
+cd benchmarks/removeDuplicates/parlayhash ; numactl -i all ./testInputs -r 30 -p 48 -x -s 1739750189
+cd ../sequenceData/data; make randomSeq_2G_int
+randomSeq_2G_int :  -r 30 -s 1739750189 : '7.073', '7.32', '7.096', '7.357', '7.241', '7.166', '7.125', '7.354', '7.287', '7.279', '7.31', '7.298', '7.363', '7.357', '7.296', '7.255', '7.486', '7.288', '7.362', '7.433', '7.303', '7.63', '7.516', '7.191', '7.309', '7.306', '7.361', '7.38', '7.372', '7.233', geomean = 7.311, start = 2025-02-16 23:56:30.164300, end = 2025-02-17 00:00:20.630300, startup = 120.4716, shutdown = 4.592448
+parlayhash : 48 : geomean of mins = 7.073, geomean of geomeans = 7.311
+Running only:  [['removeDuplicates/parlayhash', True, 0]]
+Extended Benchmarks
+Not Checking
+Running each test 30 times
+Running on at most 48 threads
+Starting at 1739750189

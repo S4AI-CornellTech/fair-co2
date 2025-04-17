@@ -1,0 +1,1273 @@
+2025-02-17 01:37:26.278259
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:37:28.010251
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:37:30.015930
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:37:32.021548
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:37:34.027694
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:37:36.033357
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:37:38.040079
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:37:40.045495
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:37:42.051584
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:37:44.057243
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:37:46.063948
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   4866.70%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+c014487b9ed7   faiss        75.34%     64.95MiB / 96GiB    0.07%     0B / 0B         51.8MB / 4.1kB    3
+2025-02-17 01:37:48.076563
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        91.78%     98.42MiB / 96GiB    0.10%     0B / 0B         81.3MB / 4.1kB    3
+7fbd3caa67b9   pgbench-50   4979.59%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:37:50.086275
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        56.55%     988.4MiB / 96GiB    1.01%     0B / 0B         474MB / 4.1kB     19
+7fbd3caa67b9   pgbench-50   4978.32%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:37:52.097847
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        103.69%    4.51GiB / 96GiB     4.70%     0B / 0B         474MB / 4.1kB     19
+7fbd3caa67b9   pgbench-50   4986.46%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:37:54.107037
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        104.06%    8.084GiB / 96GiB    8.42%     0B / 0B         474MB / 4.1kB     19
+7fbd3caa67b9   pgbench-50   5010.33%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:37:56.117290
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        103.68%    11.65GiB / 96GiB    12.13%    0B / 0B         474MB / 4.1kB     19
+7fbd3caa67b9   pgbench-50   4966.13%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:37:58.123358
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        104.02%    15.21GiB / 96GiB    15.84%    0B / 0B         474MB / 4.1kB     19
+7fbd3caa67b9   pgbench-50   4975.74%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:00.129965
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        103.62%    18.77GiB / 96GiB    19.55%    0B / 0B         474MB / 4.1kB     19
+7fbd3caa67b9   pgbench-50   4975.87%   15.4GiB / 96GiB     16.05%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:02.136994
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        104.26%    22.4GiB / 96GiB     23.34%    0B / 0B         474MB / 4.1kB     19
+7fbd3caa67b9   pgbench-50   4992.82%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:04.145618
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        103.86%    26.01GiB / 96GiB    27.09%    0B / 0B         474MB / 4.1kB     19
+7fbd3caa67b9   pgbench-50   5001.13%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:06.155130
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        104.07%    29.61GiB / 96GiB    30.85%    0B / 0B         474MB / 4.1kB     19
+7fbd3caa67b9   pgbench-50   5009.54%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:08.164714
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        104.01%    33.19GiB / 96GiB    34.57%    0B / 0B         474MB / 4.1kB     19
+7fbd3caa67b9   pgbench-50   5004.31%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:10.176593
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        104.07%    36.75GiB / 96GiB    38.28%    0B / 0B         474MB / 4.1kB     19
+7fbd3caa67b9   pgbench-50   4996.88%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:12.187906
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        104.09%    40.3GiB / 96GiB     41.98%    0B / 0B         474MB / 4.1kB     19
+7fbd3caa67b9   pgbench-50   4970.88%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:14.196705
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        103.58%    43.87GiB / 96GiB    45.70%    0B / 0B         474MB / 4.1kB     19
+7fbd3caa67b9   pgbench-50   4982.26%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:16.207140
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        104.05%    47.44GiB / 96GiB    49.41%    0B / 0B         474MB / 4.1kB     19
+7fbd3caa67b9   pgbench-50   5007.13%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:18.216816
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        104.23%    51.02GiB / 96GiB    53.14%    0B / 0B         474MB / 4.1kB     19
+7fbd3caa67b9   pgbench-50   5006.57%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:20.224521
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        103.25%    54.62GiB / 96GiB    56.90%    0B / 0B         474MB / 4.1kB     19
+7fbd3caa67b9   pgbench-50   4940.21%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:22.232032
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        104.09%    58.29GiB / 96GiB    60.72%    0B / 0B         474MB / 4.1kB     19
+7fbd3caa67b9   pgbench-50   4991.84%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:24.243818
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        103.45%    61.87GiB / 96GiB    64.45%    0B / 0B         474MB / 4.1kB     19
+7fbd3caa67b9   pgbench-50   4948.32%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:26.254504
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        104.13%    65.32GiB / 96GiB    68.04%    0B / 0B         474MB / 4.1kB     19
+7fbd3caa67b9   pgbench-50   4980.42%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:28.264674
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        103.78%    68.71GiB / 96GiB    71.58%    0B / 0B         474MB / 4.1kB     19
+7fbd3caa67b9   pgbench-50   4993.62%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:30.275337
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        103.88%    72.03GiB / 96GiB    75.03%    0B / 0B         474MB / 4.1kB     19
+7fbd3caa67b9   pgbench-50   5000.29%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:32.285036
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        39.51%     72.89GiB / 96GiB    75.93%    0B / 0B         1.05GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   5002.99%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:34.296774
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        41.32%     72.89GiB / 96GiB    75.93%    0B / 0B         1.78GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   4995.56%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:36.307403
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        49.18%     72.89GiB / 96GiB    75.93%    0B / 0B         2.63GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   4974.78%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:38.319656
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        41.24%     72.9GiB / 96GiB     75.93%    0B / 0B         3.36GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   4970.10%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:40.327217
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        45.36%     72.9GiB / 96GiB     75.93%    0B / 0B         4.15GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   4952.33%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:42.334051
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        49.80%     72.9GiB / 96GiB     75.93%    0B / 0B         4.98GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   4997.56%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:44.344697
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        40.86%     72.9GiB / 96GiB     75.94%    0B / 0B         5.67GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   5036.71%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:46.362805
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        42.34%     72.9GiB / 96GiB     75.94%    0B / 0B         6.41GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   4995.15%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:48.372498
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        43.20%     72.9GiB / 96GiB     75.94%    0B / 0B         7.2GB / 4.1kB     19
+7fbd3caa67b9   pgbench-50   4998.47%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:50.381655
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        41.40%     72.9GiB / 96GiB     75.94%    0B / 0B         7.91GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   5037.02%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:52.391267
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        45.33%     72.91GiB / 96GiB    75.94%    0B / 0B         8.68GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   4969.85%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:54.401021
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        41.82%     72.91GiB / 96GiB    75.94%    0B / 0B         9.44GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   4993.37%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:56.413368
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        42.15%     72.91GiB / 96GiB    75.95%    0B / 0B         10.2GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   4986.00%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:38:58.421741
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        48.05%     72.91GiB / 96GiB    75.95%    0B / 0B         11GB / 4.1kB      19
+7fbd3caa67b9   pgbench-50   4999.50%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:39:00.428999
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        47.26%     72.91GiB / 96GiB    75.95%    0B / 0B         11.8GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   4976.29%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:39:02.436611
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        47.20%     72.91GiB / 96GiB    75.95%    0B / 0B         12.6GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   4989.08%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:39:04.446703
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        48.99%     72.92GiB / 96GiB    75.95%    0B / 0B         13.4GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   5021.73%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:39:06.457893
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        45.48%     72.92GiB / 96GiB    75.96%    0B / 0B         14.2GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   5001.43%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:39:08.467784
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        34.25%     72.92GiB / 96GiB    75.96%    0B / 0B         14.9GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   4989.62%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:39:10.477738
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        39.29%     72.92GiB / 96GiB    75.96%    0B / 0B         15.7GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   4981.23%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:39:12.487294
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        36.26%     72.92GiB / 96GiB    75.96%    0B / 0B         16.5GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   4984.16%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:39:14.497036
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        35.21%     72.92GiB / 96GiB    75.96%    0B / 0B         17.2GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   4977.83%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:39:16.508322
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        39.06%     72.93GiB / 96GiB    75.96%    0B / 0B         18.1GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   4960.80%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:39:18.519066
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        37.06%     72.93GiB / 96GiB    75.97%    0B / 0B         18.9GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   4984.58%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:39:20.525221
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        39.96%     72.93GiB / 96GiB    75.97%    0B / 0B         19.7GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   4969.05%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:39:22.532585
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        35.10%     72.93GiB / 96GiB    75.97%    0B / 0B         20.5GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   4978.72%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:39:24.540383
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        36.84%     72.93GiB / 96GiB    75.97%    0B / 0B         21.3GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   5007.62%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:39:26.550649
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        35.38%    72.93GiB / 96GiB    75.97%    0B / 0B         22.1GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.87%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:39:28.565039
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        36.37%    72.93GiB / 96GiB    75.97%    0B / 0B         22.9GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.87%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:39:30.579299
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        35.23%    72.93GiB / 96GiB    75.97%    0B / 0B         23.7GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.87%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:39:32.588428
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        35.67%    72.94GiB / 96GiB    75.98%    0B / 0B         24.5GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.87%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:39:34.600798
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        34.77%    72.94GiB / 96GiB    75.98%    0B / 0B         25.3GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.87%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:39:36.614107
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        40.13%    72.94GiB / 96GiB    75.98%    0B / 0B         26.1GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.87%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:39:38.623399
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        39.37%    72.94GiB / 96GiB    75.98%    0B / 0B         26.8GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.87%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:39:40.634751
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        41.19%    72.94GiB / 96GiB    75.98%    0B / 0B         27.6GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.87%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:39:42.645189
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        39.06%    72.94GiB / 96GiB    75.98%    0B / 0B         28.4GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.87%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:39:44.657724
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        40.63%    72.95GiB / 96GiB    75.99%    0B / 0B         29.1GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:39:46.674888
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        42.49%    72.95GiB / 96GiB    75.99%    0B / 0B         30GB / 4.1kB      19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:39:48.685359
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        45.39%    72.95GiB / 96GiB    75.99%    0B / 0B         30.7GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:39:50.695376
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        48.39%    72.95GiB / 96GiB    75.99%    0B / 0B         31.5GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:39:52.707192
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        45.43%    72.95GiB / 96GiB    75.99%    0B / 0B         32.2GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:39:54.718082
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        41.28%    72.95GiB / 96GiB    75.99%    0B / 0B         32.9GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:39:56.727814
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        43.00%    72.96GiB / 96GiB    76.00%    0B / 0B         33.6GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:39:58.739450
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        44.18%    72.96GiB / 96GiB    76.00%    0B / 0B         34.3GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:00.748827
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        44.98%    72.96GiB / 96GiB    76.00%    0B / 0B         35GB / 4.1kB      19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:02.759903
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        43.60%    72.96GiB / 96GiB    76.00%    0B / 0B         35.6GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:04.770304
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        44.29%    72.96GiB / 96GiB    76.00%    0B / 0B         36.4GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:06.782718
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        46.90%    72.96GiB / 96GiB    76.00%    0B / 0B         37.2GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:08.795141
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        46.30%    72.97GiB / 96GiB    76.01%    0B / 0B         37.9GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:10.806083
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        47.97%    72.97GiB / 96GiB    76.01%    0B / 0B         38.7GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:12.815470
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        48.98%    72.97GiB / 96GiB    76.01%    0B / 0B         39.5GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:14.827181
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        43.50%    72.97GiB / 96GiB    76.01%    0B / 0B         40.2GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:16.835879
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        46.63%    72.97GiB / 96GiB    76.01%    0B / 0B         40.8GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:18.848402
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        46.16%    72.97GiB / 96GiB    76.01%    0B / 0B         41.6GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:20.855689
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        46.39%    72.97GiB / 96GiB    76.01%    0B / 0B         42.3GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.01%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:22.866015
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        49.26%    72.97GiB / 96GiB    76.02%    0B / 0B         43.1GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.03%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:24.878051
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        45.56%    72.98GiB / 96GiB    76.02%    0B / 0B         43.8GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.01%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:26.887911
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        46.83%    72.98GiB / 96GiB    76.02%    0B / 0B         44.5GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.01%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:28.898183
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        49.11%    72.98GiB / 96GiB    76.02%    0B / 0B         45.2GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.01%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:30.906821
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        47.97%    72.98GiB / 96GiB    76.02%    0B / 0B         46GB / 4.1kB      19
+7fbd3caa67b9   pgbench-50   0.64%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:32.917575
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        47.80%    72.98GiB / 96GiB    76.02%    0B / 0B         46.7GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:34.929555
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        47.95%    72.98GiB / 96GiB    76.02%    0B / 0B         47.4GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:36.938633
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        45.98%    72.98GiB / 96GiB    76.03%    0B / 0B         48.2GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:38.949800
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        46.40%    72.99GiB / 96GiB    76.03%    0B / 0B         48.9GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:40.962947
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        47.47%    72.99GiB / 96GiB    76.03%    0B / 0B         49.6GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:42.973324
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        47.44%    72.99GiB / 96GiB    76.03%    0B / 0B         50.3GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.01%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:44.984548
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        47.75%    72.99GiB / 96GiB    76.03%    0B / 0B         51.1GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:46.994865
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        48.79%    72.99GiB / 96GiB    76.03%    0B / 0B         51.8GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:49.006414
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        50.12%    73GiB / 96GiB       76.04%    0B / 0B         52.6GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:51.018766
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        48.42%    73GiB / 96GiB       76.04%    0B / 0B         53.4GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:53.026825
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        50.12%    73GiB / 96GiB       76.04%    0B / 0B         54.2GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:55.035586
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        47.99%    73GiB / 96GiB       76.04%    0B / 0B         54.9GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:57.048024
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        51.10%    73GiB / 96GiB       76.04%    0B / 0B         55.7GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:40:59.055240
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        48.86%    73GiB / 96GiB       76.05%    0B / 0B         56.5GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:01.065283
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        49.31%    73.01GiB / 96GiB    76.05%    0B / 0B         57.3GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.62%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:03.075842
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        46.59%    73.01GiB / 96GiB    76.05%    0B / 0B         58GB / 4.1kB      19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:05.087376
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        50.08%    73.01GiB / 96GiB    76.05%    0B / 0B         58.8GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:07.100108
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        47.48%    73.01GiB / 96GiB    76.05%    0B / 0B         59.5GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:09.111970
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        50.18%    73.02GiB / 96GiB    76.06%    0B / 0B         60.2GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:11.121066
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        47.21%    73.02GiB / 96GiB    76.06%    0B / 0B         61GB / 4.1kB      19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:13.132512
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        47.03%    73.02GiB / 96GiB    76.06%    0B / 0B         61.7GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:15.144481
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        45.64%    73.03GiB / 96GiB    76.08%    0B / 0B         62.4GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:17.153014
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        47.23%    73.04GiB / 96GiB    76.08%    0B / 0B         63.1GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:19.163203
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        47.89%    73.04GiB / 96GiB    76.09%    0B / 0B         63.8GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:21.173384
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        46.94%    73.08GiB / 96GiB    76.12%    0B / 0B         64.5GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:23.183415
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        45.73%    73.11GiB / 96GiB    76.15%    0B / 0B         65.2GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:25.195108
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        44.57%    73.11GiB / 96GiB    76.15%    0B / 0B         65.8GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:27.204587
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        44.39%    73.11GiB / 96GiB    76.16%    0B / 0B         66.5GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:29.216013
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        45.65%    73.11GiB / 96GiB    76.16%    0B / 0B         67.2GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:31.228348
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        45.88%    73.14GiB / 96GiB    76.18%    0B / 0B         67.9GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.63%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:33.238040
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        47.74%    73.19GiB / 96GiB    76.24%    0B / 0B         68.5GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:35.247046
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        46.76%    73.22GiB / 96GiB    76.27%    0B / 0B         69.2GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:37.260289
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        47.06%    73.22GiB / 96GiB    76.27%    0B / 0B         69.9GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:39.269423
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        47.53%    73.22GiB / 96GiB    76.27%    0B / 0B         70.6GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:41.282075
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        48.19%    73.22GiB / 96GiB    76.27%    0B / 0B         71.3GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:43.293247
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        46.67%    73.23GiB / 96GiB    76.28%    0B / 0B         72GB / 4.1kB      19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:45.302927
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        47.36%    73.23GiB / 96GiB    76.28%    0B / 0B         72.7GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:47.316854
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        45.29%    73.23GiB / 96GiB    76.28%    0B / 0B         73.4GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:49.327020
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        46.41%    73.23GiB / 96GiB    76.28%    0B / 0B         74.1GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:51.337977
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        47.19%    73.23GiB / 96GiB    76.29%    0B / 0B         74.7GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:53.349235
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        47.46%    73.24GiB / 96GiB    76.29%    0B / 0B         75.4GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:55.358732
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        47.71%    73.24GiB / 96GiB    76.29%    0B / 0B         76.1GB / 4.1kB    19
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:57.369203
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4791.08%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:41:59.382778
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4847.93%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:42:01.400921
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4778.14%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.50%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:42:03.410848
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4802.25%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:42:05.421031
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4800.87%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:42:07.428590
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4800.87%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.01%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:42:09.436952
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4807.40%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:42:11.448675
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4790.33%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:42:13.458429
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4762.77%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:42:15.476005
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4851.59%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:42:17.494603
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4833.30%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.01%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:42:19.510342
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4870.64%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:42:21.515272
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4802.55%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:42:23.522475
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4789.06%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:42:25.530160
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4804.94%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:42:27.536536
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4779.35%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:42:29.551905
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4831.17%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:42:31.575265
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4782.55%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   1.15%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:42:33.590221
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4723.44%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:42:35.604701
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4754.50%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.01%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:42:37.615285
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4809.43%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:42:39.623733
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4808.09%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:42:41.630030
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4808.72%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:42:43.638063
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        0.00%     73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:42:45.648039
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4864.73%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   2274.20%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:42:47.669367
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        2999.52%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3715.70%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:42:49.687032
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4518.10%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3332.29%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:42:51.708116
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        3740.21%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3496.32%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:42:53.719594
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4547.74%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3353.94%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:42:55.730631
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4820.01%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   2985.47%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:42:57.745338
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4902.92%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3030.53%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:42:59.761031
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4876.70%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3101.96%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:01.781780
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4844.23%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3193.41%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:03.806486
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4914.91%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3014.50%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:05.824224
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4845.50%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3079.98%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:07.833594
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4818.07%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3021.16%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:09.855804
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4857.50%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3016.91%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:11.882588
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4760.89%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3050.88%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:13.900971
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4928.07%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3006.31%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:15.913697
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4786.58%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3326.07%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:17.925586
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4775.55%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3194.21%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:19.933776
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4831.57%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3049.95%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:21.947977
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4795.95%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3117.84%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:23.973399
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4932.73%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3001.19%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:26.001113
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4805.54%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3024.60%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:28.019635
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4741.49%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3070.87%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:30.030709
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4822.53%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3002.44%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:32.043594
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4842.25%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3060.41%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:34.060709
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4808.49%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3053.06%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:36.083216
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4860.49%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3029.68%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:38.105168
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4885.39%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3093.76%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:40.122063
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4840.69%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3046.34%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:42.131021
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4832.69%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3047.83%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:44.143098
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4812.78%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   2999.94%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:46.190988
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4862.41%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3112.15%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:48.214535
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4847.91%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3199.18%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:50.227083
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4855.70%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3238.58%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:52.236701
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4865.80%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3199.00%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:54.256225
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4740.94%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3383.49%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:56.283963
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4933.91%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3292.87%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:43:58.307182
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4679.76%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3378.86%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:00.322782
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4887.37%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3239.17%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:02.335117
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4826.91%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3329.92%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:04.350581
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4879.64%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3319.71%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:06.361866
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4848.70%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3380.16%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:08.379076
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4814.22%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3335.92%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:10.401097
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4829.16%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3353.61%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:12.419881
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4620.30%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3407.56%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:14.431826
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4830.41%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3370.56%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:16.446099
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4845.80%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3479.29%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:18.464225
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4777.73%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3514.65%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:20.478406
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4884.74%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3224.06%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:22.489798
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4886.16%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3370.27%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:24.507919
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4798.85%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3289.81%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:26.524406
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4662.21%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3363.27%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:28.532829
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4628.36%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3500.01%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:30.547365
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4840.41%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3409.21%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:32.568530
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4847.75%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3379.90%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:34.586906
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4796.74%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3304.57%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:36.612015
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4763.11%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3252.00%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:38.626378
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4752.91%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3503.67%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:40.642734
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4741.22%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3376.51%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:42.652476
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4685.13%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3463.13%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:44.662747
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4834.12%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3360.31%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:46.693036
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4909.51%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3365.71%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:48.704694
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4891.66%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3249.49%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:50.719270
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4768.15%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3384.58%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:52.731362
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4739.88%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3308.46%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:54.738987
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4827.99%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3296.96%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:56.757864
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4826.18%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3139.07%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:44:58.780284
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4786.63%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3570.27%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:00.801294
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4763.65%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3379.73%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:02.817100
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4783.07%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3464.42%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:04.829966
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4785.48%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3495.67%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:06.843862
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4863.81%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3485.91%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:08.855253
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4723.02%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3662.16%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:10.881935
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4897.48%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3450.95%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:12.910991
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4762.92%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3658.04%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:14.923396
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4673.64%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3577.70%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:16.934495
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4631.87%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3580.64%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:18.953090
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4758.50%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3555.08%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:20.968837
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4785.39%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3562.60%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:22.992414
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4781.27%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3650.52%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:25.012181
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4673.62%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3846.84%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:27.028129
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4773.16%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3575.43%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:29.040750
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4821.88%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3561.67%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:31.051324
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4865.71%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3580.21%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:33.066936
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4838.39%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3489.73%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:35.091989
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4789.26%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3723.35%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:37.104376
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4712.80%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3510.85%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:39.120307
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4831.61%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3453.60%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:41.130834
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4808.62%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3641.42%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:43.144890
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4680.05%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3523.86%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:45.156833
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4842.24%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3511.93%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:47.177253
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4819.55%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3596.20%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:49.197594
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4829.13%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3445.81%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:51.209893
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4775.26%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3536.18%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:53.224434
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4763.69%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3737.13%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:55.234502
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4694.74%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3683.61%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:57.242381
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4582.29%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3739.88%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:45:59.265361
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4845.53%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3528.26%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:01.286149
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4688.60%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3619.16%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:03.301110
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4769.72%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3587.54%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:05.319213
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4846.51%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3428.89%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:07.331281
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4727.59%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3553.75%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:09.343114
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4812.13%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3606.89%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:11.357069
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4832.30%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3495.28%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:13.374376
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4876.29%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3359.66%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:15.386471
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4581.74%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3636.83%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:17.396964
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4789.94%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3498.04%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:19.417000
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4747.13%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3570.54%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:21.431997
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4677.16%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3610.10%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:23.452714
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4773.45%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3474.30%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:25.468668
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4715.44%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3635.44%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:27.490491
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4698.99%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3739.68%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:29.505996
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4788.89%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3573.17%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:31.525262
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4628.04%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3846.03%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:33.541064
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4805.91%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3638.27%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:35.553532
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4708.23%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3459.29%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:37.565965
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4742.06%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3528.92%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:39.584519
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4796.85%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3590.63%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:41.607663
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4704.78%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3578.80%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:43.622825
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4703.28%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3699.15%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:45.635755
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4759.27%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3537.06%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:47.648185
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4695.89%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3400.82%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:49.659425
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4816.53%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3537.85%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:51.670843
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4743.19%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3651.21%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:53.687303
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4674.23%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   3508.66%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:46:55.710558
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4813.80%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   581.31%    15.23GiB / 96GiB    15.87%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:46:57.719028
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4802.79%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.87%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:46:59.727151
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4799.79%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.87%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:01.735570
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4810.15%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   1.26%      15.23GiB / 96GiB    15.87%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:03.749959
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4817.57%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.87%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:05.772495
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4834.80%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.01%      15.23GiB / 96GiB    15.87%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:07.792741
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4844.78%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.87%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:09.814684
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4798.93%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.87%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:11.823059
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4793.55%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.87%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:13.828497
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4785.84%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.87%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:15.837607
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4805.32%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.01%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:17.858501
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4805.22%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:19.878823
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4827.68%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:21.903657
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4865.49%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:23.914577
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4801.80%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:25.921750
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4796.91%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:27.929843
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4802.57%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:29.936349
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4785.65%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:31.953669
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4849.66%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   1.28%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:33.976342
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4736.11%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:35.989569
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4806.50%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:37.997889
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4827.80%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:40.012107
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4815.15%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:42.020319
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4708.38%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:44.027782
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4733.34%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:46.036677
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4749.11%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:48.055228
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4806.37%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:50.080406
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4801.53%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:52.097848
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4860.95%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:54.112430
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4710.84%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:56.119798
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4780.42%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:47:58.127287
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4797.99%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:48:00.135376
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4823.93%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.01%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:48:02.150971
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4832.77%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:48:04.175639
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4859.34%   73.25GiB / 96GiB    76.30%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:48:06.184028
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        4604.03%   72.94GiB / 96GiB    75.98%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:48:08.198464
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+c014487b9ed7   faiss        100.16%   37.95GiB / 96GiB    39.53%    0B / 0B         76.1GB / 4.1kB    114
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:48:10.211203
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6

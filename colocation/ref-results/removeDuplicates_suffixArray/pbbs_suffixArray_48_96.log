@@ -1,0 +1,14 @@
+HOSTNAME: pbbs-sweep-clr-0
+running on 48 threads
+
+cd benchmarks/suffixArray/parallelKS ; make -s
+cd benchmarks/suffixArray/parallelKS ; numactl -i all ./testInputs -r 3 -p 48 -x -s 1731533773
+cd ../sequenceData/data; make trigramString_500000000000
+trigramString_500000000000 :  -r 3 -s 1731533773 : '52.42', '51.896', '52.616', geomean = 52.31, start = 2024-11-13 21:36:13.629300, end = 2024-11-13 21:38:51.802700, startup = 69.99871, shutdown = 2.817429
+parallelKS : 48 : geomean of mins = 51.896, geomean of geomeans = 52.31
+Running only:  [['suffixArray/parallelKS', True, 1]]
+Extended Benchmarks
+Not Checking
+Running each test 3 times
+Running on at most 48 threads
+Starting at 1731533773

@@ -1,0 +1,2 @@
+,workload,label,rounds,cpus,memory,times,geomean,start,end,start_seconds,end_seconds,duration
+0,quickHull,convexHull,3,48,96,"[32.445, 32.318]",32.381437738309266,2024-11-13 20:51:51.764100,2024-11-13 20:52:56.527100,0.0,64.763,64.763

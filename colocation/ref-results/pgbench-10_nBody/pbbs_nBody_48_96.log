@@ -1,0 +1,14 @@
+HOSTNAME: leo-clr-1
+running on 48 threads
+
+cd benchmarks/nBody/parallelCK ; make -s
+cd benchmarks/nBody/parallelCK ; numactl -i all ./testInputs -r 10 -p 48 -x -s 1739767128
+cd ../geometryData/data; make 3Dplummer_10000000
+3Dplummer_10000000 :  -r 10 -s 1739767128 : '21.512', '21.836', '22.255', '22.139', '21.81', '21.658', '21.63', '21.773', '22.263', '42.304', geomean = 23.365, start = 2025-02-17 04:38:48.843700, end = 2025-02-17 04:42:48.026900, startup = 120.498383, shutdown = 9.161055
+parallelCK : 48 : geomean of mins = 21.512, geomean of geomeans = 23.365
+Running only:  [['nBody/parallelCK', True, 0]]
+Extended Benchmarks
+Not Checking
+Running each test 10 times
+Running on at most 48 threads
+Starting at 1739767128

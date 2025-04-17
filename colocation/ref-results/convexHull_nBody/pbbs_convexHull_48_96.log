@@ -1,0 +1,14 @@
+HOSTNAME: pbbs-sweep-clr-0
+running on 48 threads
+
+cd benchmarks/convexHull/quickHull ; make -s
+cd benchmarks/convexHull/quickHull ; numactl -i all ./testInputs -r 3 -p 48 -x -s 1731547623
+cd ../geometryData/data; make 2DonSphere_1000000000
+2DonSphere_1000000000 :  -r 3 -s 1731547623 : '44.765', '45.364', '45.148', geomean = 45.091, start = 2024-11-14 01:27:14.329000, end = 2024-11-14 01:29:29.608700, startup = 185.934381, shutdown = 3.650055
+quickHull : 48 : geomean of mins = 44.764, geomean of geomeans = 45.091
+Running only:  [['convexHull/quickHull', True, 0]]
+Extended Benchmarks
+Not Checking
+Running each test 3 times
+Running on at most 48 threads
+Starting at 1731547623

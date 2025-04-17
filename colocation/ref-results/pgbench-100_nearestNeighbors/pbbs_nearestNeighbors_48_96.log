@@ -1,0 +1,14 @@
+HOSTNAME: leo-clr-1
+running on 48 threads
+
+cd benchmarks/nearestNeighbors/octTree ; make -s
+cd benchmarks/nearestNeighbors/octTree ; numactl -i all ./testInputs -r 30 -p 48 -x -s 1739753098
+cd ../geometryData/data; make 3Dplummer_50000000
+3Dplummer_50000000 : -d 3 -k 10 -r 30 -s 1739753098 : '8.107', '7.894', '8.256', '8.149', '8.379', '8.19', '8.075', '8.462', '8.252', '8.318', '8.348', '8.362', '8.282', '8.256', '8.271', '8.337', '8.382', '8.17', '8.242', '8.281', '8.428', '8.387', '8.432', '8.355', '8.481', '8.154', '8.352', '8.18', '8.318', '8.618', geomean = 8.289, start = 2025-02-17 00:44:58.685000, end = 2025-02-17 00:49:07.420400, startup = 120.294081, shutdown = 5.015236
+octTree : 48 : geomean of mins = 7.894, geomean of geomeans = 8.289
+Running only:  [['nearestNeighbors/octTree', True, 0]]
+Extended Benchmarks
+Not Checking
+Running each test 30 times
+Running on at most 48 threads
+Starting at 1739753098

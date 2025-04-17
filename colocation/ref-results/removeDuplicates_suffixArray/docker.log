@@ -1,0 +1,537 @@
+2024-11-13 21:34:13.419250
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:14.059758
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:14.693407
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:15.329248
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:15.963638
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:16.596248
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:17.228397
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:17.861226
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:18.494434
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:19.127847
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:19.760180
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:20.393888
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:21.025888
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:21.658490
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:22.292068
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:22.924871
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:23.557046
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:24.190468
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:24.822081
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:25.456434
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:26.088115
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:26.720208
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:27.353204
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:27.984694
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:28.617208
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:29.249198
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:29.882043
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:30.515461
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:31.147579
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:31.781362
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:32.413575
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:33.046732
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2024-11-13 21:34:33.681006
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+eae68e17151e   pbbs_suffixArray        100.67%   296.7MiB / 96GiB    0.30%     0B / 0B   20.5kB / 0B   5
+fc977b401dd7   pbbs_removeDuplicates   100.12%   173MiB / 96GiB      0.18%     0B / 0B   0B / 0B       5
+2024-11-13 21:34:36.339737
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+eae68e17151e   pbbs_suffixArray        100.15%   353.8MiB / 96GiB    0.36%     0B / 0B   20.5kB / 0B   5
+fc977b401dd7   pbbs_removeDuplicates   100.24%   404.6MiB / 96GiB    0.41%     0B / 0B   0B / 0B       5
+2024-11-13 21:34:38.353989
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+eae68e17151e   pbbs_suffixArray        100.20%   400.2MiB / 96GiB    0.41%     0B / 0B   20.5kB / 0B   5
+fc977b401dd7   pbbs_removeDuplicates   100.17%   421.3MiB / 96GiB    0.43%     0B / 0B   0B / 0B       5
+2024-11-13 21:34:40.368194
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+eae68e17151e   pbbs_suffixArray        99.98%    180.2MiB / 96GiB    0.18%     0B / 0B   53.2kB / 16.6MB   5
+fc977b401dd7   pbbs_removeDuplicates   100.03%   423.2MiB / 96GiB    0.43%     0B / 0B   0B / 0B           5
+2024-11-13 21:34:42.384376
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+eae68e17151e   pbbs_suffixArray        99.28%    360.6MiB / 96GiB    0.37%     0B / 0B   53.2kB / 16.6MB   5
+fc977b401dd7   pbbs_removeDuplicates   99.29%    473.3MiB / 96GiB    0.48%     0B / 0B   0B / 0B           5
+2024-11-13 21:34:44.397305
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+eae68e17151e   pbbs_suffixArray        99.14%    410.5MiB / 96GiB    0.42%     0B / 0B   53.2kB / 16.6MB   5
+fc977b401dd7   pbbs_removeDuplicates   93.46%    127.6MiB / 96GiB    0.13%     0B / 0B   0B / 26.9MB       5
+2024-11-13 21:34:46.414271
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+eae68e17151e   pbbs_suffixArray        99.98%    416.7MiB / 96GiB    0.42%     0B / 0B   53.2kB / 16.6MB   5
+fc977b401dd7   pbbs_removeDuplicates   100.06%   276.5MiB / 96GiB    0.28%     0B / 0B   0B / 39.7MB       7
+2024-11-13 21:34:48.426949
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+eae68e17151e   pbbs_suffixArray        99.30%    417.6MiB / 96GiB    0.42%     0B / 0B   53.2kB / 16.6MB   5
+fc977b401dd7   pbbs_removeDuplicates   99.37%    331.8MiB / 96GiB    0.34%     0B / 0B   0B / 39.7MB       7
+2024-11-13 21:34:50.442357
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+eae68e17151e   pbbs_suffixArray        99.57%    451MiB / 96GiB      0.46%     0B / 0B   53.2kB / 16.6MB   5
+fc977b401dd7   pbbs_removeDuplicates   95.70%    8.07MiB / 96GiB     0.01%     0B / 0B   0B / 60.3MB       7
+2024-11-13 21:34:52.454299
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+eae68e17151e   pbbs_suffixArray        99.57%     492.7MiB / 96GiB    0.50%     0B / 0B   53.2kB / 16.6MB   5
+fc977b401dd7   pbbs_removeDuplicates   4770.92%   8.042GiB / 96GiB    8.38%     0B / 0B   0B / 60.3MB       52
+2024-11-13 21:34:54.469926
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+eae68e17151e   pbbs_suffixArray        99.33%     122.6MiB / 96GiB    0.12%     0B / 0B   61.4kB / 48.7MB   7
+fc977b401dd7   pbbs_removeDuplicates   4770.31%   23.34GiB / 96GiB    24.31%    0B / 0B   0B / 60.3MB       52
+2024-11-13 21:34:56.479968
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+eae68e17151e   pbbs_suffixArray        99.80%    312.9MiB / 96GiB    0.32%     0B / 0B   61.4kB / 48.7MB   7
+fc977b401dd7   pbbs_removeDuplicates   468.58%   30.48GiB / 96GiB    31.75%    0B / 0B   0B / 60.3MB       52
+2024-11-13 21:34:58.492695
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+eae68e17151e   pbbs_suffixArray        100.06%    343.8MiB / 96GiB    0.35%     0B / 0B   61.4kB / 48.7MB   7
+fc977b401dd7   pbbs_removeDuplicates   4784.91%   42.99GiB / 96GiB    44.79%    0B / 0B   0B / 60.3MB       52
+2024-11-13 21:35:00.508402
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+eae68e17151e   pbbs_suffixArray        100.29%    375.3MiB / 96GiB    0.38%     0B / 0B   61.4kB / 48.7MB   7
+fc977b401dd7   pbbs_removeDuplicates   4492.10%   46.54GiB / 96GiB    48.48%    0B / 0B   0B / 60.3MB       52
+2024-11-13 21:35:02.523055
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        792.88%    1.681GiB / 96GiB    1.75%     0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   2207.76%   50.4GiB / 96GiB     52.50%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:04.535477
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4802.92%   18.6GiB / 96GiB     19.37%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.12%      47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:06.547175
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4774.03%   27.74GiB / 96GiB    28.90%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.08%      47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:08.561123
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        1367.50%   23.27GiB / 96GiB    24.24%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.13%      47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:10.572760
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4791.32%   23.8GiB / 96GiB     24.80%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.17%      47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:12.591381
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4221.10%   23.72GiB / 96GiB    24.71%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.06%      47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:14.600699
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4792.32%   39.55GiB / 96GiB    41.19%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.07%      47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:16.614733
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        3489.20%   34.5GiB / 96GiB     35.93%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.07%      47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:18.626687
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        2523.87%   24.95GiB / 96GiB    25.99%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.13%      47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:20.653069
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4709.53%   37.73GiB / 96GiB    39.30%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.07%      47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:22.666654
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        3028.23%   34.21GiB / 96GiB    35.64%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.07%      47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:24.675749
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4795.31%   30.96GiB / 96GiB    32.25%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.06%      47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:26.689869
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4781.01%   34.22GiB / 96GiB    35.64%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.07%      47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:28.705473
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4778.09%   37.32GiB / 96GiB    38.88%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.09%      47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:30.711936
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4787.73%   40.7GiB / 96GiB     42.40%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.08%      47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:32.724304
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4799.15%   38.82GiB / 96GiB    40.44%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.06%      47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:34.741999
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4289.25%   46.35GiB / 96GiB    48.28%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.08%      47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:36.755223
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4795.17%   41.16GiB / 96GiB    42.88%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.07%      47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:38.765500
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4799.77%   44.47GiB / 96GiB    46.32%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.08%      47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:40.775935
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        99.41%    29.7GiB / 96GiB     30.94%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.15%     47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:42.788915
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        0.00%     27.74GiB / 96GiB    28.89%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.14%     47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:44.800787
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        0.00%     27.74GiB / 96GiB    28.89%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.13%     47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:46.811289
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        0.00%     27.74GiB / 96GiB    28.89%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.13%     47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:48.825058
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        0.00%     27.74GiB / 96GiB    28.89%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.13%     47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:50.837361
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        0.00%     27.74GiB / 96GiB    28.89%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.13%     47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:52.851691
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        0.00%     27.74GiB / 96GiB    28.89%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.13%     47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:54.860922
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        0.00%     27.74GiB / 96GiB    28.89%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.13%     47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:56.872349
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        0.00%     27.74GiB / 96GiB    28.89%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.13%     47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:35:58.883374
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        0.00%     27.74GiB / 96GiB    28.89%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.12%     47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:36:00.896406
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        0.00%     27.74GiB / 96GiB    28.89%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.12%     47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:36:02.907573
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        0.00%     27.74GiB / 96GiB    28.89%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.13%     47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:36:04.918979
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        0.00%     27.74GiB / 96GiB    28.89%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.13%     47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:36:06.931354
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        0.00%     27.74GiB / 96GiB    28.89%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.13%     47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:36:08.942266
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        0.00%     27.74GiB / 96GiB    28.89%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.13%     47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:36:10.953971
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        0.00%     27.74GiB / 96GiB    28.89%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   0.13%     47.19GiB / 96GiB    49.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:36:12.968540
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        3552.02%   26.92GiB / 96GiB    28.04%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   3394.71%   47.83GiB / 96GiB    49.83%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:36:14.984097
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4790.43%   45.52GiB / 96GiB    47.42%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4811.01%   49.8GiB / 96GiB     51.87%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:36:18.244766
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        2673.85%   43.94GiB / 96GiB    45.77%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4294.82%   54.06GiB / 96GiB    56.31%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:36:20.255475
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4820.70%   41.09GiB / 96GiB    42.80%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   645.71%    42.47GiB / 96GiB    44.24%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:36:22.273273
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        1411.14%   34.25GiB / 96GiB    35.68%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4776.99%   49.48GiB / 96GiB    51.55%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:36:24.295228
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4709.03%   47.61GiB / 96GiB    49.60%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4661.60%   49.94GiB / 96GiB    52.02%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:36:26.310840
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4815.82%   55.88GiB / 96GiB    58.21%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   1187.59%   50.52GiB / 96GiB    52.62%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:36:28.319086
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        1225.55%   50.83GiB / 96GiB    52.95%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4813.82%   47.86GiB / 96GiB    49.85%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:36:30.339896
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        2006.26%   39.26GiB / 96GiB    40.90%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4715.76%   49.94GiB / 96GiB    52.02%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:36:32.351619
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4797.62%   35.77GiB / 96GiB    37.26%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4688.71%   54.52GiB / 96GiB    56.79%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:36:34.365417
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4797.63%   47.99GiB / 96GiB    49.99%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   100.01%    42.98GiB / 96GiB    44.77%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:36:36.377988
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        98.93%     40.32GiB / 96GiB    42.00%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4815.44%   49.23GiB / 96GiB    51.28%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:36:38.392757
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        3038.10%   32.21GiB / 96GiB    33.55%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4593.03%   49.94GiB / 96GiB    52.03%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:36:40.405415
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4795.37%   32.21GiB / 96GiB    33.55%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   663.82%    50.15GiB / 96GiB    52.24%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:36:42.414850
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4770.98%   36.65GiB / 96GiB    38.17%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   3454.53%   46.77GiB / 96GiB    48.72%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:36:44.441879
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4783.93%   38.21GiB / 96GiB    39.80%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4788.57%   49.6GiB / 96GiB     51.66%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:36:47.809452
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4809.96%   40.29GiB / 96GiB    41.96%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4777.49%   50.41GiB / 96GiB    52.51%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:36:49.827557
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        1247.67%   33.29GiB / 96GiB    34.68%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   829.88%    43.07GiB / 96GiB    44.86%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:36:51.841059
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4760.37%   38.87GiB / 96GiB    40.49%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4786.47%   48.92GiB / 96GiB    50.96%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:36:55.453804
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        506.69%    39.26GiB / 96GiB    40.89%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4637.25%   49.95GiB / 96GiB    52.03%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:36:57.460551
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4803.62%   43.3GiB / 96GiB     45.11%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   109.82%    49.28GiB / 96GiB    51.33%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:37:00.697264
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4802.56%   45.2GiB / 96GiB     47.08%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4791.71%   49.3GiB / 96GiB     51.36%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:37:04.072618
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        98.51%     35.31GiB / 96GiB    36.79%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4748.23%   53.01GiB / 96GiB    55.22%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:37:06.078713
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        3773.53%   27.89GiB / 96GiB    29.05%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   1544.73%   45.21GiB / 96GiB    47.10%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:37:08.095871
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4783.86%   45.53GiB / 96GiB    47.43%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4779.56%   49.68GiB / 96GiB    51.75%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:37:11.401109
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        2285.38%   42.54GiB / 96GiB    44.32%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4798.24%   52.83GiB / 96GiB    55.03%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:37:13.411950
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4777.57%   41.1GiB / 96GiB     42.81%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   543.36%    42.48GiB / 96GiB    44.25%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:37:15.443260
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        1512.34%   34.36GiB / 96GiB    35.79%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4796.78%   49GiB / 96GiB       51.04%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:37:17.461575
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4722.58%   47.44GiB / 96GiB    49.42%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4573.01%   49.95GiB / 96GiB    52.03%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:37:19.478879
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4774.77%   55.89GiB / 96GiB    58.22%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   2437.34%   52.08GiB / 96GiB    54.25%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:37:21.493025
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        1392.09%   49.84GiB / 96GiB    51.92%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4153.05%   48.16GiB / 96GiB    50.17%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:37:23.506214
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        1222.83%   39.81GiB / 96GiB    41.47%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4744.75%   49.95GiB / 96GiB    52.03%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:37:25.519512
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4798.63%   35.18GiB / 96GiB    36.64%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4767.12%   52.31GiB / 96GiB    54.49%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:37:27.534485
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4784.58%   48GiB / 96GiB       50.00%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   99.73%     43.64GiB / 96GiB    45.46%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:37:29.545641
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        1632.99%   38.25GiB / 96GiB    39.84%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4832.83%   49.46GiB / 96GiB    51.52%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:37:32.569723
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4785.20%   32.22GiB / 96GiB    33.56%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4787.34%   52.36GiB / 96GiB    54.54%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:37:34.586030
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4811.80%   36.66GiB / 96GiB    38.19%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   98.37%     47.02GiB / 96GiB    48.98%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:37:36.600501
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4802.42%   37.24GiB / 96GiB    38.79%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   3243.41%   47.72GiB / 96GiB    49.71%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:37:38.621927
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4787.55%   38.36GiB / 96GiB    39.96%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4802.88%   49.52GiB / 96GiB    51.58%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:37:40.640442
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        3634.14%   39.6GiB / 96GiB     41.25%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4466.64%   49.95GiB / 96GiB    52.03%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:37:43.928410
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4792.46%   38.88GiB / 96GiB    40.50%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   637.91%    42.49GiB / 96GiB    44.26%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:37:45.945052
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4784.14%   42.43GiB / 96GiB    44.20%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4788.94%   47.46GiB / 96GiB    49.44%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:37:47.976074
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        592.77%    41.5GiB / 96GiB     43.23%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4802.33%   49.9GiB / 96GiB     51.98%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:37:49.987474
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4811.75%   43.04GiB / 96GiB    44.83%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   3461.20%   53.23GiB / 96GiB    55.45%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:37:53.443639
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4811.31%   44.91GiB / 96GiB    46.78%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4757.59%   48.13GiB / 96GiB    50.14%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:37:55.465758
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        99.93%     32.07GiB / 96GiB    33.41%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4720.31%   49.95GiB / 96GiB    52.03%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:37:58.703502
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4375.51%   29.97GiB / 96GiB    31.22%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   99.21%     43.47GiB / 96GiB    45.28%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:38:00.717782
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4770.70%   45.54GiB / 96GiB    47.43%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4792.29%   48.33GiB / 96GiB    50.34%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:38:02.743339
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        98.63%     39.62GiB / 96GiB    41.27%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4508.07%   49.95GiB / 96GiB    52.03%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:38:04.752636
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        455.72%   36.66GiB / 96GiB    38.19%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   99.76%    46.54GiB / 96GiB    48.48%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:38:07.898587
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        667.14%    33.11GiB / 96GiB    34.49%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4779.25%   48.67GiB / 96GiB    50.70%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:38:09.915634
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4670.21%   46.36GiB / 96GiB    48.29%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4660.39%   49.95GiB / 96GiB    52.04%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:38:11.928683
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4782.55%   55.9GiB / 96GiB     58.22%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   3271.93%   53.16GiB / 96GiB    55.37%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:38:15.197268
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        2187.24%   41.05GiB / 96GiB    42.76%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4817.83%   49.24GiB / 96GiB    51.29%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:38:17.213289
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        3447.76%   32.22GiB / 96GiB    33.56%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4667.70%   49.96GiB / 96GiB    52.04%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:38:19.229856
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4688.76%   45.46GiB / 96GiB    47.35%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   2017.89%   51.72GiB / 96GiB    53.87%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:38:21.244677
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        2937.99%   46.49GiB / 96GiB    48.42%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   3486.91%   46.5GiB / 96GiB     48.43%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:38:23.256435
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        1152.83%   35.46GiB / 96GiB    36.94%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4793.51%   49.96GiB / 96GiB    52.04%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:38:25.279677
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4798.79%   32.22GiB / 96GiB    33.56%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4752.81%   54.11GiB / 96GiB    56.36%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:38:28.332640
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4770.21%   36.66GiB / 96GiB    38.19%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4281.66%   46.6GiB / 96GiB     48.54%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:38:30.361304
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4808.06%   37.8GiB / 96GiB     39.37%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4785.57%   49.96GiB / 96GiB    52.04%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:38:33.891203
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        488.48%    33.93GiB / 96GiB    35.34%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4344.49%   54.2GiB / 96GiB     56.46%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:38:37.166569
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4779.51%   38.88GiB / 96GiB    40.50%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4789.67%   48.34GiB / 96GiB    50.35%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:38:40.439032
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        3131.12%   46.21GiB / 96GiB    48.14%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4693.55%   49.96GiB / 96GiB    52.04%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:38:43.583266
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4810.80%   43.1GiB / 96GiB     44.90%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   99.37%     50.33GiB / 96GiB    52.43%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:38:46.627622
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        4792.72%   44.9GiB / 96GiB     46.77%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4785.41%   48.16GiB / 96GiB    50.16%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:38:48.650816
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        99.42%     40.25GiB / 96GiB    41.92%    0B / 0B   69.6kB / 72MB   52
+fc977b401dd7   pbbs_removeDuplicates   4803.56%   49.96GiB / 96GiB    52.04%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:38:51.911527
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+eae68e17151e   pbbs_suffixArray        101.06%   11.31GiB / 96GiB    11.78%    0B / 0B   69.6kB / 72MB   5
+fc977b401dd7   pbbs_removeDuplicates   98.28%    43.79GiB / 96GiB    45.62%    0B / 0B   0B / 60.3MB     52
+2024-11-13 21:38:53.927910
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+fc977b401dd7   pbbs_removeDuplicates   99.07%    18.08GiB / 96GiB    18.84%    0B / 0B   0B / 60.3MB   52
+2024-11-13 21:38:55.940317
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS

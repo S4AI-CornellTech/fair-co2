@@ -1,0 +1,14 @@
+HOSTNAME: pbbs-sweep-clr-0
+running on 48 threads
+
+cd benchmarks/minSpanningForest/parallelFilterKruskal ; make -s
+cd benchmarks/minSpanningForest/parallelFilterKruskal ; numactl -i all ./testInputs -r 14 -p 48 -x -s 1731629485
+cd ../graphData/data; make randLocalGraph_WE_10_120000000
+randLocalGraph_WE_10_120000000 :  -r 14 -s 1731629485 : '11.224', '11.224', '11.194', '11.225', '11.171', '11.168', '11.15', '11.145', '11.227', '11.12', '11.132', '11.231', '10.98', '11.094', geomean = 11.163, start = 2024-11-15 00:11:25.140000, end = 2024-11-15 00:14:01.431000, startup = 767.926479, shutdown = 3.520567
+parallelFilterKruskal : 48 : geomean of mins = 10.98, geomean of geomeans = 11.163
+Running only:  [['minSpanningForest/parallelFilterKruskal', True, 0]]
+Extended Benchmarks
+Not Checking
+Running each test 14 times
+Running on at most 48 threads
+Starting at 1731629485

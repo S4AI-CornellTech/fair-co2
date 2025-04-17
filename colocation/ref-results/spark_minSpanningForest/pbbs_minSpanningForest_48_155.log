@@ -1,0 +1,14 @@
+HOSTNAME: leo-clr-1
+running on 48 threads
+
+cd benchmarks/minSpanningForest/parallelFilterKruskal ; make -s
+cd benchmarks/minSpanningForest/parallelFilterKruskal ; numactl -i all ./testInputs -r 30 -p 48 -x -s 1739789200
+cd ../graphData/data; make randLocalGraph_WE_10_120000000
+randLocalGraph_WE_10_120000000 :  -r 30 -s 1739789200 : '7.605', '7.681', '7.686', '7.723', '7.686', '7.714', '7.698', '7.656', '7.69', '7.743', '7.678', '7.699', '7.674', '7.727', '7.755', '7.844', '7.795', '7.835', '7.849', '7.81', '7.83', '7.813', '7.724', '7.771', '7.806', '7.788', '7.808', '7.777', '7.713', '7.735', geomean = 7.743, start = 2025-02-17 10:46:40.228400, end = 2025-02-17 10:50:32.554200, startup = 239.124305, shutdown = 2.446929
+parallelFilterKruskal : 48 : geomean of mins = 7.605, geomean of geomeans = 7.743
+Running only:  [['minSpanningForest/parallelFilterKruskal', True, 0]]
+Extended Benchmarks
+Not Checking
+Running each test 30 times
+Running on at most 48 threads
+Starting at 1739789200

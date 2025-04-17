@@ -1,0 +1,1045 @@
+2025-02-17 07:17:46.225910
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:17:46.847027
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:17:47.464568
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:17:48.084068
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:17:48.703999
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:17:49.325331
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:17:49.944421
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:17:50.563377
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:17:51.180577
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:17:51.799712
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:17:52.417078
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:17:53.035253
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:17:53.652514
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:17:54.273211
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:17:54.892944
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:17:55.513007
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:17:56.131111
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:17:56.749236
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:17:57.368733
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:17:57.988839
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:17:58.606954
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:17:59.224347
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:17:59.845231
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:18:00.463180
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:18:01.080347
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:18:01.698739
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:18:02.316971
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:18:02.935625
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:18:03.554053
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:18:04.171138
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:18:04.789191
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:18:05.408386
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:18:06.027420
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+               --        0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+               --        0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+2025-02-17 07:18:06.645658
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   287.44%    28.45MiB / 96GiB    0.03%     0B / 0B   995MB / 0B   52
+402446b9bd7d   llama                     3948.04%   118MiB / 96GiB      0.12%     0B / 0B   0B / 0B      48
+2025-02-17 07:18:08.976478
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   239.39%    40.98MiB / 96GiB    0.04%     0B / 0B   1.98GB / 0B   52
+402446b9bd7d   llama                     4778.48%   119.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:18:10.999740
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   280.49%    52.41MiB / 96GiB    0.05%     0B / 0B   2.97GB / 0B   52
+402446b9bd7d   llama                     4813.06%   118.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:18:13.020618
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   281.06%    63.88MiB / 96GiB    0.06%     0B / 0B   3.96GB / 0B   52
+402446b9bd7d   llama                     4794.89%   118.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:18:15.040582
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   289.29%    75.39MiB / 96GiB    0.08%     0B / 0B   4.95GB / 0B   52
+402446b9bd7d   llama                     4812.47%   117.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:18:17.054678
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   291.22%    86.9MiB / 96GiB     0.09%     0B / 0B   5.94GB / 0B   52
+402446b9bd7d   llama                     4779.14%   117.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:18:19.076291
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   286.75%    98MiB / 96GiB       0.10%     0B / 0B   6.93GB / 0B   52
+402446b9bd7d   llama                     4786.57%   117.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:18:21.091615
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   282.12%    110.3MiB / 96GiB    0.11%     0B / 0B   7.92GB / 0B   52
+402446b9bd7d   llama                     4790.33%   117MiB / 96GiB      0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:18:23.110294
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   277.46%    121.8MiB / 96GiB    0.12%     0B / 0B   8.89GB / 0B   52
+402446b9bd7d   llama                     4812.06%   116.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:18:25.124680
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   273.88%    132.6MiB / 96GiB    0.13%     0B / 0B   9.87GB / 0B   52
+402446b9bd7d   llama                     4778.84%   116.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:18:27.144702
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   289.04%    144.9MiB / 96GiB    0.15%     0B / 0B   10.9GB / 0B   52
+402446b9bd7d   llama                     4795.70%   116.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:18:29.166262
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   294.74%    155.6MiB / 96GiB    0.16%     0B / 0B   11.9GB / 0B   52
+402446b9bd7d   llama                     4779.81%   116.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:18:31.182820
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   289.75%    168.1MiB / 96GiB    0.17%     0B / 0B   12.9GB / 0B   52
+402446b9bd7d   llama                     4785.96%   116.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:18:33.203014
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   303.58%    180MiB / 96GiB      0.18%     0B / 0B   13.9GB / 0B   52
+402446b9bd7d   llama                     4781.33%   116.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:18:35.222523
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   293.00%    191.2MiB / 96GiB    0.19%     0B / 0B   14.9GB / 0B   52
+402446b9bd7d   llama                     4813.27%   116.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:18:37.243617
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   281.47%    203.2MiB / 96GiB    0.21%     0B / 0B   15.9GB / 0B   52
+402446b9bd7d   llama                     4778.25%   116MiB / 96GiB      0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:18:39.268191
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   304.02%    215.5MiB / 96GiB    0.22%     0B / 0B   16.9GB / 0B   52
+402446b9bd7d   llama                     4815.91%   115.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:18:41.284318
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   297.24%    227MiB / 96GiB      0.23%     0B / 0B   17.9GB / 0B   52
+402446b9bd7d   llama                     4789.26%   115.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:18:43.311601
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   280.96%    239.1MiB / 96GiB    0.24%     0B / 0B   18.9GB / 0B   52
+402446b9bd7d   llama                     4809.29%   115.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:18:45.326466
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   289.23%    250.3MiB / 96GiB    0.25%     0B / 0B   19.9GB / 0B   52
+402446b9bd7d   llama                     4817.77%   115.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:18:47.343758
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   284.36%    261.5MiB / 96GiB    0.27%     0B / 0B   20.9GB / 0B   52
+402446b9bd7d   llama                     4783.33%   117.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:18:49.363293
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   290.15%    272.4MiB / 96GiB    0.28%     0B / 0B   21.9GB / 0B   52
+402446b9bd7d   llama                     4821.98%   117.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:18:51.380604
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   298.31%    283.8MiB / 96GiB    0.29%     0B / 0B   22.9GB / 0B   52
+402446b9bd7d   llama                     4812.40%   117.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:18:53.404935
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   289.08%    296.2MiB / 96GiB    0.30%     0B / 0B   23.9GB / 0B   52
+402446b9bd7d   llama                     4843.06%   116.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:18:55.428126
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   286.75%    307.6MiB / 96GiB    0.31%     0B / 0B   24.9GB / 0B   52
+402446b9bd7d   llama                     4808.32%   116.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:18:57.449167
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   290.99%    319.6MiB / 96GiB    0.33%     0B / 0B   25.8GB / 0B   52
+402446b9bd7d   llama                     4813.78%   116.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:18:59.464723
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   296.28%    331.3MiB / 96GiB    0.34%     0B / 0B   26.8GB / 0B   52
+402446b9bd7d   llama                     4828.57%   116.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:19:01.483895
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   294.36%    343.4MiB / 96GiB    0.35%     0B / 0B   27.8GB / 0B   52
+402446b9bd7d   llama                     4820.67%   116MiB / 96GiB      0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:19:03.505902
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   288.99%    355.5MiB / 96GiB    0.36%     0B / 0B   28.9GB / 0B   52
+402446b9bd7d   llama                     4785.88%   116MiB / 96GiB      0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:19:05.530250
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   286.55%    366MiB / 96GiB      0.37%     0B / 0B   29.9GB / 0B   52
+402446b9bd7d   llama                     4806.98%   118.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:19:07.548596
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   277.95%    378.3MiB / 96GiB    0.38%     0B / 0B   30.9GB / 0B   52
+402446b9bd7d   llama                     4805.52%   117.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:19:09.567078
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   295.68%    390.5MiB / 96GiB    0.40%     0B / 0B   31.9GB / 0B   52
+402446b9bd7d   llama                     4824.24%   117.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:19:11.584599
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   288.35%    402.2MiB / 96GiB    0.41%     0B / 0B   32.9GB / 0B   52
+402446b9bd7d   llama                     4816.69%   116.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:19:13.606661
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   279.60%    414.2MiB / 96GiB    0.42%     0B / 0B   33.9GB / 0B   52
+402446b9bd7d   llama                     4798.20%   116.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:19:15.625187
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   296.08%    424.9MiB / 96GiB    0.43%     0B / 0B   34.9GB / 0B   52
+402446b9bd7d   llama                     4815.94%   116.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:19:17.647700
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   285.05%    437.4MiB / 96GiB    0.44%     0B / 0B   35.9GB / 0B   52
+402446b9bd7d   llama                     4804.25%   116.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:19:19.675350
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   280.07%    449.2MiB / 96GiB    0.46%     0B / 0B   36.9GB / 0B   52
+402446b9bd7d   llama                     4784.87%   115.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:19:21.695770
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   271.93%    460.8MiB / 96GiB    0.47%     0B / 0B   37.9GB / 0B   52
+402446b9bd7d   llama                     4771.71%   115.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:19:23.717129
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   270.63%    472.4MiB / 96GiB    0.48%     0B / 0B   38.8GB / 0B   52
+402446b9bd7d   llama                     4784.89%   115.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:19:25.735689
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   278.16%    483.5MiB / 96GiB    0.49%     0B / 0B   39.8GB / 0B   52
+402446b9bd7d   llama                     4768.45%   115.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:19:27.751619
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   264.88%    495.3MiB / 96GiB    0.50%     0B / 0B   40.8GB / 0B   52
+402446b9bd7d   llama                     4798.38%   115.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:19:29.767336
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   265.06%    507.3MiB / 96GiB    0.52%     0B / 0B   41.8GB / 0B   52
+402446b9bd7d   llama                     4771.32%   115.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:19:31.785080
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   251.21%    520.2MiB / 96GiB    0.53%     0B / 0B   42.8GB / 0B   52
+402446b9bd7d   llama                     4786.45%   115.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:19:33.800942
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   272.35%    531.6MiB / 96GiB    0.54%     0B / 0B   43.8GB / 0B   52
+402446b9bd7d   llama                     4813.48%   115.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:19:35.820475
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   2425.07%   3.498GiB / 96GiB    3.64%     0B / 0B   44.6GB / 0B   52
+402446b9bd7d   llama                     4703.67%   115.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:19:37.846031
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   4818.94%   12.33GiB / 96GiB    12.85%    0B / 0B   44.6GB / 0B   52
+402446b9bd7d   llama                     4770.61%   116.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:19:41.067867
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   4792.28%   24.01GiB / 96GiB    25.01%    0B / 0B   44.6GB / 0B   52
+402446b9bd7d   llama                     4756.58%   116MiB / 96GiB      0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:19:43.082946
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   4718.28%   31.91GiB / 96GiB    33.24%    0B / 0B   44.6GB / 0B   52
+402446b9bd7d   llama                     4498.94%   115.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 07:19:45.091791
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   4791.71%   41.52GiB / 96GiB    43.25%    0B / 0B   44.6GB / 0B   52
+402446b9bd7d   llama                     4486.87%   133.8MiB / 96GiB    0.14%     0B / 0B   30.9MB / 0B   48
+2025-02-17 07:19:47.102855
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   4827.21%   51.46GiB / 96GiB    53.60%    0B / 0B   44.6GB / 0B   52
+402446b9bd7d   llama                     4531.90%   142.7MiB / 96GiB    0.15%     0B / 0B   64.3MB / 0B   48
+2025-02-17 07:19:49.115810
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   4766.99%   55GiB / 96GiB       57.29%    0B / 0B   44.6GB / 0B   52
+402446b9bd7d   llama                     4527.77%   157.4MiB / 96GiB    0.16%     0B / 0B   123MB / 0B    48
+2025-02-17 07:19:51.123117
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   4769.38%   60.37GiB / 96GiB    62.88%    0B / 0B   44.6GB / 0B   52
+402446b9bd7d   llama                     4417.02%   175.2MiB / 96GiB    0.18%     0B / 0B   161MB / 0B    48
+2025-02-17 07:19:53.133602
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   4808.21%   65.98GiB / 96GiB    68.73%    0B / 0B   44.6GB / 0B   52
+402446b9bd7d   llama                     4483.37%   178.9MiB / 96GiB    0.18%     0B / 0B   173MB / 0B    48
+2025-02-17 07:19:55.141917
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   100.38%    76.2GiB / 96GiB     79.38%    0B / 0B   44.6GB / 0B   52
+402446b9bd7d   llama                     4779.94%   178.4MiB / 96GiB    0.18%     0B / 0B   173MB / 0B    48
+2025-02-17 07:19:57.165621
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   4767.93%   80.09GiB / 96GiB    83.42%    0B / 0B   44.6GB / 0B   52
+402446b9bd7d   llama                     4750.83%   177.9MiB / 96GiB    0.18%     0B / 0B   173MB / 0B    48
+2025-02-17 07:19:59.174735
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   4768.02%   83.07GiB / 96GiB    86.53%    0B / 0B   44.6GB / 0B   52
+402446b9bd7d   llama                     4780.89%   177.6MiB / 96GiB    0.18%     0B / 0B   173MB / 0B    48
+2025-02-17 07:20:01.185043
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   4771.02%   86.01GiB / 96GiB    89.59%    0B / 0B   44.6GB / 0B   52
+402446b9bd7d   llama                     4810.36%   177.8MiB / 96GiB    0.18%     0B / 0B   174MB / 0B    48
+2025-02-17 07:20:03.199248
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   4790.77%   91.31GiB / 96GiB    95.12%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:05.205284
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   1419.37%   86.3GiB / 96GiB     89.89%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:07.215163
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   99.22%    68.28GiB / 96GiB    71.13%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:09.218746
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   99.87%    44.12GiB / 96GiB    45.96%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:11.225162
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   3931.31%   31.23GiB / 96GiB    32.53%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:13.231832
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   4795.77%   31.3GiB / 96GiB     32.60%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:15.238470
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   4798.50%   31.35GiB / 96GiB    32.66%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:17.244936
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   4775.23%   31.35GiB / 96GiB    32.66%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:19.250966
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:21.256161
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:23.261201
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:25.267229
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:27.272935
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:29.277349
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:31.285458
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:33.289037
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:35.293744
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:37.300017
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:39.305245
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:41.311299
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:43.316425
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:45.322754
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:47.329071
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:49.332783
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:51.337903
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:53.342644
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:55.348405
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:57.353782
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:20:59.361043
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:01.364500
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:03.369468
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:05.374832
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:07.379847
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:09.384000
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:11.390233
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:13.394994
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:15.399888
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:17.404533
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:19.409122
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:21.415065
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:23.418912
+CONTAINER ID   NAME                      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   0.00%     33.75GiB / 96GiB    35.15%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:25.426321
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+876c561cf7f5   pbbs_breadthFirstSearch   1294.79%   33.75GiB / 96GiB    35.16%    0B / 0B   44.6GB / 0B   52
+d2764afd4dd4   llama                     84.40%     189.8MiB / 96GiB    0.19%     0B / 0B   146MB / 0B    1
+2025-02-17 07:21:28.440651
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4767.14%   226MiB / 96GiB      0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4809.62%   33.75GiB / 96GiB    35.16%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:30.454637
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4625.00%   226.5MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4814.60%   33.75GiB / 96GiB    35.16%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:32.480610
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4788.65%   227.8MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4798.32%   33.75GiB / 96GiB    35.16%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:34.492786
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4654.24%   227MiB / 96GiB      0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4781.72%   33.75GiB / 96GiB    35.16%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:36.504958
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4736.70%   225.9MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4711.80%   36.15GiB / 96GiB    37.66%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:38.520056
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4694.51%   227.1MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4778.03%   36.15GiB / 96GiB    37.66%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:40.528296
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4740.27%   227.4MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4784.01%   36.15GiB / 96GiB    37.66%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:42.548482
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4745.12%   228.5MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4806.10%   36.15GiB / 96GiB    37.66%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:44.560224
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4773.44%   228MiB / 96GiB      0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4774.85%   36.15GiB / 96GiB    37.66%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:46.574290
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4784.27%   227.3MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4764.72%   36.15GiB / 96GiB    37.66%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:48.590495
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4791.42%   228.8MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4779.70%   36.15GiB / 96GiB    37.66%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:50.609857
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4798.89%   228.1MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4791.09%   36.16GiB / 96GiB    37.66%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:52.626978
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4782.09%   227.4MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4783.52%   36.15GiB / 96GiB    37.66%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:55.729302
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4788.26%   227.7MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4730.11%   36.16GiB / 96GiB    37.66%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:57.764381
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4811.99%   226.8MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4815.16%   36.16GiB / 96GiB    37.66%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:21:59.780834
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4773.57%   226.3MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4772.39%   36.16GiB / 96GiB    37.66%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:01.804328
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4760.61%   226.1MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4790.45%   36.16GiB / 96GiB    37.66%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:03.815251
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4752.09%   225.9MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4787.80%   36.16GiB / 96GiB    37.66%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:05.826775
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4713.22%   225.7MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4772.66%   36.16GiB / 96GiB    37.66%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:07.851596
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4804.25%   225.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4775.73%   36.16GiB / 96GiB    37.66%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:09.867267
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4762.45%   225.2MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4786.33%   36.16GiB / 96GiB    37.66%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:11.885784
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4799.75%   225.2MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4780.91%   36.16GiB / 96GiB    37.66%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:13.900236
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4787.39%   225.1MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4798.62%   36.16GiB / 96GiB    37.66%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:15.914337
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4793.20%   225.2MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4789.87%   36.16GiB / 96GiB    37.66%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:17.930852
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4751.46%   225.1MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4810.54%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:19.947563
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4785.70%   225.1MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4792.50%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:21.967942
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4787.74%   225.1MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4783.07%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:23.982231
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4748.08%   225.1MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4791.20%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:25.996800
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4786.57%   225.2MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4756.97%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:28.013844
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4760.99%   225.1MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4787.96%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:31.184926
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4775.99%   225.1MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4769.35%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:33.199373
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4746.82%   225.2MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4819.26%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:35.216768
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4810.95%   224.9MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4789.42%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:37.248943
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4723.32%   224.9MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4800.71%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:39.262720
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4812.72%   224.9MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4791.27%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:41.280002
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4747.74%   224.8MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4780.13%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:43.291388
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4759.01%   224.8MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4784.37%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:45.307473
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4747.45%   224.8MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4768.88%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:47.315206
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4781.85%   224.8MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4785.70%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:50.351704
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4839.23%   224.7MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4801.40%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:52.374198
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4748.57%   224.7MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4799.26%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:54.385271
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4765.89%   224.8MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4762.37%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:56.400063
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4772.91%   225MiB / 96GiB      0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4801.53%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:22:58.414625
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4744.18%   224.9MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4810.80%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:23:01.488369
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4752.24%   224.9MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4798.39%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:23:03.506081
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4781.77%   224.8MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4780.42%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:23:05.515405
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4788.24%   224.8MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4769.74%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:23:07.529862
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4774.31%   224.8MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4763.23%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:23:09.542905
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4782.74%   224.8MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4787.84%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:23:11.558349
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4808.21%   224.7MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4780.43%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:23:13.569027
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4757.93%   224.8MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4784.04%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:23:16.735420
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4784.12%   224.7MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4782.49%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:23:18.749766
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4783.50%   224.7MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4782.82%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:23:20.761533
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4752.18%   224.7MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4757.72%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:23:22.779326
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4744.46%   224.7MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4750.86%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:23:24.820175
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4771.89%   224.8MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4790.73%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:23:27.924831
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4743.17%   224.7MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4814.53%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:23:30.938698
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4770.86%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4804.47%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:23:32.955666
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4732.98%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4767.85%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:23:35.075898
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4751.17%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4768.19%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:23:37.086784
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4754.79%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4773.34%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:23:39.114808
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4782.29%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4804.09%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:23:41.135383
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4780.83%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4813.67%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:23:43.140915
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4786.71%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4806.20%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:23:45.174779
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4749.08%   224.4MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4780.41%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:23:47.188798
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4777.23%   224.4MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4804.29%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:23:49.201853
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4768.37%   224.4MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4769.56%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:23:51.212968
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4767.87%   224.4MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4784.07%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:23:53.240339
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4771.12%   224.8MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4776.60%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:23:55.239886
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4756.38%   224.7MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4770.87%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:23:58.513811
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4760.97%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4805.31%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:24:00.536978
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4769.16%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4788.98%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:24:02.551422
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4814.91%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4856.36%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:24:04.591280
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4768.89%   224.8MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4786.39%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:24:06.611763
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4781.27%   224.8MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4767.67%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:24:08.624336
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4798.55%   224.7MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4774.72%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:24:10.639390
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4759.57%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4768.26%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:24:13.934512
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4775.37%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4792.54%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:24:15.954646
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4775.91%   224.7MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4790.22%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:24:17.973109
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4768.08%   224.4MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4786.32%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:24:19.985039
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4790.38%   224.4MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4802.51%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:24:21.997841
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4751.15%   224.4MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4737.81%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:24:24.014499
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4774.29%   224.3MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4768.50%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:24:27.124858
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4775.49%   224.8MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4798.59%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:24:30.177559
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4767.48%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4782.30%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:24:33.339707
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4743.83%   224.7MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4772.61%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:24:35.352495
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4724.23%   224.7MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4783.29%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:24:37.361135
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4729.32%   224.7MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4816.26%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:24:39.377772
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4807.72%   224.8MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4769.53%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:24:41.396045
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4763.90%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4774.59%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:24:43.410576
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4761.97%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4783.60%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:24:46.696076
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4769.21%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4771.53%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:24:48.707548
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4751.39%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4786.30%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:24:51.904633
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4750.80%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4786.45%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:24:53.914403
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4749.39%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4785.64%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:24:55.927893
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4766.16%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4796.80%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:24:57.943766
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4788.13%   224.4MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4759.86%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:24:59.956176
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4803.12%   224.4MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4771.44%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:25:01.969671
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4747.04%   224.4MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4783.82%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:25:03.985070
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4773.48%   225.2MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4806.14%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:25:05.997851
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4774.93%   225.2MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4774.62%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:25:08.010139
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4786.56%   225.2MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4784.19%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:25:10.021516
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4768.65%   225.2MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4742.87%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:25:12.037939
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4763.65%   225.2MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4782.90%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:25:14.051442
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4763.77%   225MiB / 96GiB      0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4807.45%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:25:16.062089
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4761.63%   225.5MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4814.92%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:25:18.078535
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4772.36%   225.4MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4777.76%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:25:20.091994
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4752.64%   225.4MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4787.66%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:25:22.109949
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4755.62%   225.3MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4798.70%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:25:24.122988
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4763.72%   225.2MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4788.90%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:25:27.361673
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4759.59%   225.2MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4797.42%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:25:29.375302
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4756.99%   225.2MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4714.04%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:25:31.388572
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4788.05%   224.8MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4794.37%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:25:33.401119
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4765.12%   224.8MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4756.26%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:25:36.504539
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4784.70%   224.7MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4764.30%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:25:39.560633
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4751.80%   224.8MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4783.44%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:25:41.589088
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4741.49%   224.7MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4777.38%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:25:43.600059
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4774.75%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4794.13%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:25:45.616811
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4794.48%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4779.59%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:25:47.634146
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4795.17%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4798.44%   36.16GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:25:49.649909
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4759.52%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4765.78%   36.17GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:25:52.762496
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4772.80%   224.4MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4807.77%   36.17GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:25:54.776998
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4756.57%   224.4MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4780.45%   36.17GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:25:56.790829
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4789.69%   224.4MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4820.82%   36.17GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:25:58.808472
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4785.21%   224.3MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4751.21%   36.17GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:26:00.822630
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4812.99%   224.3MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4792.95%   36.17GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:26:02.842563
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4797.07%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4774.71%   36.17GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:26:04.853292
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4794.55%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4776.07%   36.17GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:26:06.866635
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4753.47%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4799.47%   36.17GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:26:08.876221
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4751.97%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4785.16%   36.17GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:26:10.890552
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4756.74%   224.4MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4782.96%   36.17GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:26:12.904919
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4759.43%   224.4MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4775.00%   36.17GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:26:14.920263
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4774.56%   224.3MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4800.64%   36.17GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:26:16.928006
+CONTAINER ID   NAME                      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+d2764afd4dd4   llama                     4778.52%   224.3MiB / 96GiB    0.23%     0B / 0B   146MB / 0B    48
+876c561cf7f5   pbbs_breadthFirstSearch   4783.91%   36.17GiB / 96GiB    37.67%    0B / 0B   44.6GB / 0B   52
+2025-02-17 07:26:20.060546
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4796.69%   224.3MiB / 96GiB    0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:26:22.073982
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4771.57%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:26:24.079469
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4781.05%   224.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:26:26.087117
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4789.92%   224.8MiB / 96GiB    0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:26:28.095254
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4787.69%   224.8MiB / 96GiB    0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:26:30.100034
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4793.59%   225.7MiB / 96GiB    0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:26:32.109362
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4743.07%   225.7MiB / 96GiB    0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:26:34.116832
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4802.62%   226.9MiB / 96GiB    0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:26:36.125474
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4769.42%   226.9MiB / 96GiB    0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:26:38.131448
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4786.05%   226.7MiB / 96GiB    0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:26:40.140082
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4786.49%   226.7MiB / 96GiB    0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:26:42.144150
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4781.49%   228.1MiB / 96GiB    0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:26:44.151781
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4787.51%   228MiB / 96GiB      0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:26:46.159832
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4786.61%   228MiB / 96GiB      0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:26:48.169364
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4795.09%   227.8MiB / 96GiB    0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:26:50.176325
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4798.80%   227.8MiB / 96GiB    0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:26:52.183906
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4797.06%   228.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:26:54.194142
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4774.55%   228.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:26:56.203014
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4801.36%   228.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:26:58.213455
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4806.00%   228.2MiB / 96GiB    0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:27:00.221846
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4796.39%   228.1MiB / 96GiB    0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:27:02.227597
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4782.23%   228.1MiB / 96GiB    0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:27:04.238765
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4791.60%   229.7MiB / 96GiB    0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:27:06.247693
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4799.48%   229.5MiB / 96GiB    0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:27:08.256874
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4788.17%   229.3MiB / 96GiB    0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:27:10.270802
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4789.19%   228.8MiB / 96GiB    0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:27:12.277826
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4801.90%   229.9MiB / 96GiB    0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:27:14.291509
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+d2764afd4dd4   llama     4778.18%   229.6MiB / 96GiB    0.23%     0B / 0B   146MB / 0B   48
+2025-02-17 07:27:16.296568
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS

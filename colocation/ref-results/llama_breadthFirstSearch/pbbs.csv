@@ -1,0 +1,2 @@
+,workload,label,rounds,cpus,memory,times,geomean,start,end,start_seconds,end_seconds,duration
+0,backForwardBFS,breadthFirstSearch,30,48,96,"[11.211, 9.571, 9.716, 9.706, 9.701, 9.632, 9.586, 9.596, 9.714, 9.759, 9.724, 9.71, 9.726, 9.585, 9.661, 9.712]",9.762694009214883,2025-02-17 07:21:26.553800,2025-02-17 07:24:02.863800,0.0,156.31,156.31

@@ -1,0 +1,1278 @@
+2025-02-17 09:22:28.798804
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:29.421367
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:30.039596
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:30.660334
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:31.281828
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:31.902104
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:32.521330
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:33.140535
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:33.759988
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:34.378516
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:34.997460
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:35.616935
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:36.235301
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:36.855722
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:37.476277
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:38.093598
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:38.710809
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:39.328711
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:39.947301
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:40.564498
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:41.183094
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:41.801759
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:42.421863
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:43.040261
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:43.657281
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:44.276338
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:44.894640
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:45.513657
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:46.132498
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:46.750009
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:47.369092
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:47.987516
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:22:48.606364
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+               --        0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+               --        0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+2025-02-17 09:22:49.225791
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+82c6df6929bb   faiss             2.31%     15.64MiB / 96GiB    0.02%     0B / 0B   10MB / 0B    1
+8eb4bfb00bec   pbbs_wordCounts   284.91%   906.7MiB / 96GiB    0.92%     0B / 0B   945MB / 0B   52
+2025-02-17 09:22:51.600195
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+82c6df6929bb   faiss             23.25%     31.48MiB / 96GiB    0.03%     0B / 0B   19.2MB / 0B   1
+8eb4bfb00bec   pbbs_wordCounts   1156.49%   3.354GiB / 96GiB    3.49%     0B / 0B   1.79GB / 0B   52
+2025-02-17 09:22:53.611992
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             95.40%     79.66MiB / 96GiB    0.08%     0B / 0B   43.7MB / 4.1kB   3
+8eb4bfb00bec   pbbs_wordCounts   3149.76%   11.81GiB / 96GiB    12.30%    0B / 0B   1.79GB / 0B      52
+2025-02-17 09:22:55.623468
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+82c6df6929bb   faiss             77.58%    1.639GiB / 96GiB    1.71%     0B / 0B   438MB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.895GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B     52
+2025-02-17 09:22:57.633711
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+82c6df6929bb   faiss             100.17%   5.61GiB / 96GiB     5.84%     0B / 0B   438MB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.894GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B     52
+2025-02-17 09:22:59.645943
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+82c6df6929bb   faiss             99.99%    9.532GiB / 96GiB    9.93%     0B / 0B   438MB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.894GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B     52
+2025-02-17 09:23:01.654948
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+82c6df6929bb   faiss             100.32%   13.45GiB / 96GiB    14.01%    0B / 0B   438MB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.894GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B     52
+2025-02-17 09:23:03.664492
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+82c6df6929bb   faiss             99.92%    17.43GiB / 96GiB    18.16%    0B / 0B   438MB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.894GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B     52
+2025-02-17 09:23:05.673555
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+82c6df6929bb   faiss             99.44%    21.34GiB / 96GiB    22.23%    0B / 0B   438MB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.893GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B     52
+2025-02-17 09:23:07.684983
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+82c6df6929bb   faiss             100.33%   25.29GiB / 96GiB    26.34%    0B / 0B   438MB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.893GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B     52
+2025-02-17 09:23:09.693887
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+82c6df6929bb   faiss             99.86%    29.25GiB / 96GiB    30.47%    0B / 0B   438MB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.893GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B     52
+2025-02-17 09:23:11.704048
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+82c6df6929bb   faiss             100.04%   33.18GiB / 96GiB    34.56%    0B / 0B   438MB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.893GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B     52
+2025-02-17 09:23:13.714764
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+82c6df6929bb   faiss             100.05%   37.18GiB / 96GiB    38.73%    0B / 0B   438MB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.893GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B     52
+2025-02-17 09:23:15.722633
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+82c6df6929bb   faiss             99.91%    41.19GiB / 96GiB    42.91%    0B / 0B   438MB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.893GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B     52
+2025-02-17 09:23:17.733049
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+82c6df6929bb   faiss             99.91%    45.18GiB / 96GiB    47.07%    0B / 0B   438MB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.893GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B     52
+2025-02-17 09:23:19.744040
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+82c6df6929bb   faiss             99.73%    49.19GiB / 96GiB    51.24%    0B / 0B   438MB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.893GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B     52
+2025-02-17 09:23:21.755452
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+82c6df6929bb   faiss             100.12%   53.23GiB / 96GiB    55.45%    0B / 0B   438MB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.893GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B     52
+2025-02-17 09:23:23.763794
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+82c6df6929bb   faiss             99.95%    57.32GiB / 96GiB    59.71%    0B / 0B   438MB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.893GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B     52
+2025-02-17 09:23:25.771769
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+82c6df6929bb   faiss             99.99%    61.42GiB / 96GiB    63.98%    0B / 0B   438MB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.893GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B     52
+2025-02-17 09:23:27.781825
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+82c6df6929bb   faiss             99.57%    65.36GiB / 96GiB    68.08%    0B / 0B   438MB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.893GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B     52
+2025-02-17 09:23:29.791534
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+82c6df6929bb   faiss             100.18%   68.29GiB / 96GiB    71.14%    0B / 0B   438MB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.893GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B     52
+2025-02-17 09:23:31.802073
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+82c6df6929bb   faiss             99.92%    71.25GiB / 96GiB    74.22%    0B / 0B   438MB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B     52
+2025-02-17 09:23:33.811318
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+82c6df6929bb   faiss             50.33%    72.88GiB / 96GiB    75.92%    0B / 0B   785MB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B     52
+2025-02-17 09:23:35.821505
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             45.29%    72.88GiB / 96GiB    75.92%    0B / 0B   1.55GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:23:37.830583
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             49.71%    72.88GiB / 96GiB    75.92%    0B / 0B   2.36GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:23:39.841423
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             44.95%    72.89GiB / 96GiB    75.92%    0B / 0B   3.16GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:23:41.849552
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+82c6df6929bb   faiss             45.04%    72.89GiB / 96GiB    75.92%    0B / 0B   3.9GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B     52
+2025-02-17 09:23:43.858694
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             46.94%    72.89GiB / 96GiB    75.93%    0B / 0B   4.73GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:23:45.871312
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             43.24%    72.89GiB / 96GiB    75.93%    0B / 0B   5.46GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.08%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:23:47.879509
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             44.28%    72.89GiB / 96GiB    75.93%    0B / 0B   6.19GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:23:49.889253
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             45.56%    72.89GiB / 96GiB    75.93%    0B / 0B   6.97GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:23:51.900140
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             43.89%    72.89GiB / 96GiB    75.93%    0B / 0B   7.71GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:23:53.909526
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             47.15%    72.89GiB / 96GiB    75.93%    0B / 0B   8.52GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:23:55.917967
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             45.13%    72.9GiB / 96GiB     75.93%    0B / 0B   9.29GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:23:57.931057
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             44.68%    72.9GiB / 96GiB     75.93%    0B / 0B   10GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.08%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:23:59.938257
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             44.68%    72.9GiB / 96GiB     75.93%    0B / 0B   10.8GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:24:01.948154
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             45.39%    72.9GiB / 96GiB     75.93%    0B / 0B   11.6GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:24:03.958168
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             46.49%    72.9GiB / 96GiB     75.93%    0B / 0B   12.5GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:24:05.967613
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             47.76%    72.9GiB / 96GiB     75.93%    0B / 0B   13.3GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.08%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:24:07.978093
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             45.04%    72.9GiB / 96GiB     75.93%    0B / 0B   14GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:24:09.989379
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             44.43%    72.9GiB / 96GiB     75.93%    0B / 0B   14.8GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.08%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:24:11.998882
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             44.83%    72.9GiB / 96GiB     75.93%    0B / 0B   15.5GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:24:14.009240
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             44.39%    72.9GiB / 96GiB     75.93%    0B / 0B   16.3GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.08%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:24:16.018430
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             45.39%    72.9GiB / 96GiB     75.93%    0B / 0B   17GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.08%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:24:18.027791
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             44.53%    72.9GiB / 96GiB     75.93%    0B / 0B   17.8GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.08%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:24:20.037911
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             45.88%    72.9GiB / 96GiB     75.93%    0B / 0B   18.6GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:24:22.047994
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             47.24%    72.9GiB / 96GiB     75.93%    0B / 0B   19.5GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.08%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:24:24.059176
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             44.11%    72.9GiB / 96GiB     75.93%    0B / 0B   20.2GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:24:26.070103
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             46.70%    72.9GiB / 96GiB     75.93%    0B / 0B   21GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:24:28.080308
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             46.50%    72.9GiB / 96GiB     75.93%    0B / 0B   21.8GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:24:30.091101
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             46.63%    72.9GiB / 96GiB     75.93%    0B / 0B   22.6GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:24:32.100316
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             43.78%    72.9GiB / 96GiB     75.93%    0B / 0B   23.4GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:24:34.110198
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             43.46%    72.9GiB / 96GiB     75.93%    0B / 0B   24.1GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:24:36.119201
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             47.27%    72.9GiB / 96GiB     75.94%    0B / 0B   24.9GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:24:38.129885
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             48.79%    72.9GiB / 96GiB     75.94%    0B / 0B   25.6GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:24:40.137282
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             48.17%    72.9GiB / 96GiB     75.94%    0B / 0B   26.4GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:24:42.147198
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             63.19%    73.16GiB / 96GiB    76.21%    0B / 0B   27.1GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:24:44.156389
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             84.57%    73.65GiB / 96GiB    76.72%    0B / 0B   27.9GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:24:46.166249
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             54.49%    73.86GiB / 96GiB    76.94%    0B / 0B   28.5GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:24:48.175028
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             51.27%    73.86GiB / 96GiB    76.94%    0B / 0B   29.3GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:24:50.186168
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             51.14%    73.86GiB / 96GiB    76.94%    0B / 0B   30.1GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:24:52.194889
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             49.55%    73.86GiB / 96GiB    76.94%    0B / 0B   30.8GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:24:54.204008
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             49.52%    73.86GiB / 96GiB    76.94%    0B / 0B   31.6GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.06%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:24:56.212645
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             51.41%    73.86GiB / 96GiB    76.94%    0B / 0B   32.4GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.06%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:24:58.221663
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             48.67%    73.86GiB / 96GiB    76.94%    0B / 0B   33.1GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:25:00.231306
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             50.17%    73.86GiB / 96GiB    76.94%    0B / 0B   33.9GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:25:02.243625
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             50.32%    73.86GiB / 96GiB    76.94%    0B / 0B   34.7GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.08%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:25:04.254531
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             50.56%    73.86GiB / 96GiB    76.94%    0B / 0B   35.4GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:25:06.262447
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             50.25%    73.86GiB / 96GiB    76.94%    0B / 0B   36.2GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:25:08.270958
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             49.74%    73.86GiB / 96GiB    76.94%    0B / 0B   37GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:25:10.279784
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             51.05%    73.86GiB / 96GiB    76.94%    0B / 0B   37.8GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.08%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:25:12.290822
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             50.68%    73.86GiB / 96GiB    76.94%    0B / 0B   38.5GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.08%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:25:14.299244
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             51.15%    73.86GiB / 96GiB    76.94%    0B / 0B   39.3GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.08%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:25:16.309536
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             51.53%    73.86GiB / 96GiB    76.94%    0B / 0B   40.1GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.08%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:25:18.320394
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             51.22%    73.86GiB / 96GiB    76.94%    0B / 0B   40.9GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.08%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:25:20.329520
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             51.57%    73.86GiB / 96GiB    76.94%    0B / 0B   41.7GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.08%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:25:22.338859
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             42.69%    73.86GiB / 96GiB    76.94%    0B / 0B   42.5GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:25:24.348444
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             41.23%    73.86GiB / 96GiB    76.94%    0B / 0B   43.2GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:25:26.358273
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             43.33%    73.86GiB / 96GiB    76.94%    0B / 0B   44GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:25:28.367810
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             44.27%    73.86GiB / 96GiB    76.94%    0B / 0B   44.9GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.08%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:25:30.377133
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             41.08%    73.86GiB / 96GiB    76.94%    0B / 0B   45.6GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.08%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:25:32.386164
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             42.77%    73.86GiB / 96GiB    76.94%    0B / 0B   46.4GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:25:34.396305
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             42.05%    73.86GiB / 96GiB    76.94%    0B / 0B   47.2GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:25:36.405193
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             41.03%    73.86GiB / 96GiB    76.94%    0B / 0B   47.9GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:25:38.418418
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             42.27%    73.86GiB / 96GiB    76.94%    0B / 0B   48.6GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.08%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:25:40.425648
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             42.31%    73.86GiB / 96GiB    76.94%    0B / 0B   49.4GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:25:42.434237
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             41.88%    73.86GiB / 96GiB    76.94%    0B / 0B   50.1GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:25:44.445557
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             42.71%    73.86GiB / 96GiB    76.94%    0B / 0B   50.9GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:25:46.455259
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             42.90%    73.86GiB / 96GiB    76.94%    0B / 0B   51.7GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:25:48.465319
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+82c6df6929bb   faiss             49.75%    73.86GiB / 96GiB    76.94%    0B / 0B   52.4GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B      52
+2025-02-17 09:25:50.475573
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             67.35%    73.86GiB / 96GiB    76.94%    0B / 0B   53GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:25:52.481872
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             99.67%    73.86GiB / 96GiB    76.94%    0B / 0B   53GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:25:54.493351
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             100.00%   73.86GiB / 96GiB    76.94%    0B / 0B   53GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:25:56.504435
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             100.35%   73.86GiB / 96GiB    76.94%    0B / 0B   53GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:25:58.511830
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             100.24%   73.86GiB / 96GiB    76.94%    0B / 0B   53GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:00.524230
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             99.96%    73.86GiB / 96GiB    76.94%    0B / 0B   53GB / 4.1kB   19
+8eb4bfb00bec   pbbs_wordCounts   0.07%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:02.532882
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             1114.01%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.07%      4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:04.546689
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4832.26%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.07%      4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:06.565581
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4812.07%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.07%      4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:08.579591
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4794.28%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.08%      4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:10.600825
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4841.23%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.06%      4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:12.617546
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4794.28%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.10%      4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:14.624142
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4814.49%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.07%      4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:16.632610
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4793.32%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.09%      4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:18.646462
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4790.06%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.10%      4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:20.662263
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4896.92%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.07%      4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:22.690748
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4876.55%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.09%      4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:24.698885
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4787.85%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.09%      4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:26.713010
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4738.65%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.08%      4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:28.718164
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4894.50%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.09%      4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:30.726075
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4731.42%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.07%      4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:32.734456
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4788.82%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.04%      4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:34.744859
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4853.44%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.06%      4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:36.766693
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4816.21%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.07%      4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:38.786546
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4854.53%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.09%      4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:40.807843
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4801.88%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.10%      4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:42.819519
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4792.69%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.10%      4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:44.826432
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4791.98%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.07%      4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:46.833306
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4799.35%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.05%      4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:48.846879
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4873.35%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%      4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:50.857209
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4829.06%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%      4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:52.874228
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4967.66%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%      4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:54.887291
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             0.00%     73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:56.902891
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             0.00%     73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:26:58.913429
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             0.00%     73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:00.922121
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             0.00%     73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:02.932312
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             0.00%     73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:04.943025
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             0.00%     73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:06.951213
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             0.00%     73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:08.963851
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             0.00%     73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:10.971474
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             0.00%     73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:12.980496
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             0.00%     73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:14.990887
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             0.00%     73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:16.998950
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             0.00%     73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:19.009897
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             0.00%     73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:21.019298
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             0.00%     73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:23.027867
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             0.00%     73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:25.037035
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             0.00%     73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:27.045539
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             0.00%     73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:29.056253
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             0.00%     73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:31.066920
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             0.00%     73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:33.074538
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             0.00%     73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:35.084243
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             0.00%     73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:37.095196
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             0.00%     73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:39.105871
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             0.00%     73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:41.114225
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             0.00%     73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:43.124035
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             0.00%     73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:45.133607
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             0.00%     73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%     4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:47.145862
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             2826.87%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   0.00%      4.892GiB / 96GiB    5.10%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:49.160617
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             3254.13%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4685.88%   14.72GiB / 96GiB    15.34%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:51.177554
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4934.93%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   553.79%    4.924GiB / 96GiB    5.13%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:53.192477
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4354.32%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4651.57%   14.8GiB / 96GiB     15.42%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:55.216308
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4672.65%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   535.06%    4.937GiB / 96GiB    5.14%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:57.230718
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4679.05%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4489.09%   13.31GiB / 96GiB    13.86%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:27:59.258696
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4708.37%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   135.31%    6.608GiB / 96GiB    6.88%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:01.269957
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4712.83%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4448.42%   11.68GiB / 96GiB    12.16%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:03.299776
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4693.63%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   265.41%    8.928GiB / 96GiB    9.30%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:05.315284
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4724.55%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4528.37%   10.01GiB / 96GiB    10.42%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:07.332209
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4484.76%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   2546.97%   13.46GiB / 96GiB    14.03%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:09.350650
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4701.26%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   3387.98%   7.152GiB / 96GiB    7.45%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:11.364623
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4570.88%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4475.66%   15.07GiB / 96GiB    15.70%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:13.397380
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4493.10%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   2322.84%   6.362GiB / 96GiB    6.63%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:15.413820
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4725.51%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4494.04%   14.57GiB / 96GiB    15.17%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:17.427102
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4789.36%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   317.94%    4.988GiB / 96GiB    5.20%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:19.435612
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4634.96%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4494.47%   12.2GiB / 96GiB     12.71%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:21.455282
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4742.06%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   200.63%    10.95GiB / 96GiB    11.41%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:23.482933
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4629.33%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4407.04%   9.7GiB / 96GiB      10.10%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:25.506378
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4702.16%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4085.45%   14.55GiB / 96GiB    15.16%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:27.518746
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4774.44%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   2365.34%   6.118GiB / 96GiB    6.37%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:29.531236
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4688.85%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4432.73%   14.31GiB / 96GiB    14.91%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:31.545301
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4696.14%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   443.79%    5.017GiB / 96GiB    5.23%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:33.563985
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4510.62%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4565.22%   12.38GiB / 96GiB    12.90%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:35.583024
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4768.73%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   124.42%    7.391GiB / 96GiB    7.70%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:37.597339
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4688.74%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4460.21%   10.85GiB / 96GiB    11.30%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:39.628858
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4720.49%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   1421.58%   10.39GiB / 96GiB    10.82%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:41.636018
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4727.31%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4416.41%   10.08GiB / 96GiB    10.50%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:43.656934
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4659.93%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   2450.28%   13.13GiB / 96GiB    13.68%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:45.671471
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4719.51%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   3656.86%   7.999GiB / 96GiB    8.33%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:47.692584
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4699.80%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4436.45%   15.13GiB / 96GiB    15.76%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:49.718333
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4660.72%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   1370.42%   5.039GiB / 96GiB    5.25%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:51.732291
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4550.77%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4333.66%   13.8GiB / 96GiB     14.37%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:53.765605
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4848.54%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   133.21%    7.495GiB / 96GiB    7.81%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:55.788437
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4843.17%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4482.21%   10.1GiB / 96GiB     10.52%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:57.817371
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4731.74%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   1997.95%   12.3GiB / 96GiB     12.81%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:28:59.818393
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4561.79%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4434.99%   8.285GiB / 96GiB    8.63%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:01.834541
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4654.44%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4512.47%   15.15GiB / 96GiB    15.78%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:03.852696
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4790.53%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   809.64%    5.058GiB / 96GiB    5.27%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:05.865350
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4693.35%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4451.39%   12.86GiB / 96GiB    13.39%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:07.884143
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4842.52%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   129.37%    9.479GiB / 96GiB    9.87%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:09.894473
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4534.32%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4455.05%   10.11GiB / 96GiB    10.53%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:11.916943
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4690.83%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   2455.57%   12.76GiB / 96GiB    13.29%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:13.928448
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4691.96%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   3715.14%   8.016GiB / 96GiB    8.35%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:15.941359
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4690.65%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4365.07%   15.17GiB / 96GiB    15.80%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:17.967893
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4768.56%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   420.94%    5.072GiB / 96GiB    5.28%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:19.994659
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4690.53%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4547.50%   12.46GiB / 96GiB    12.98%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:22.025810
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4803.95%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   383.60%    11.9GiB / 96GiB     12.39%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:24.039403
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4584.86%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4184.09%   8.849GiB / 96GiB    9.22%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:26.059610
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4702.42%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4544.23%   15.18GiB / 96GiB    15.81%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:28.077798
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4776.54%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   2176.84%   5.933GiB / 96GiB    6.18%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:30.089885
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4583.03%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4608.74%   14.55GiB / 96GiB    15.16%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:32.105723
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4752.87%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   334.45%    5.084GiB / 96GiB    5.30%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:34.125878
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4656.42%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4455.22%   12.46GiB / 96GiB    12.98%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:36.164332
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4780.45%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   123.63%    8.328GiB / 96GiB    8.67%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:38.178959
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4521.77%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4471.35%   10.14GiB / 96GiB    10.56%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:40.212195
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4844.31%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   1855.86%   11.19GiB / 96GiB    11.66%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:42.226003
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4682.31%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4560.87%   8.975GiB / 96GiB    9.35%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:44.238626
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4556.59%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4382.85%   15.19GiB / 96GiB    15.82%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:46.266995
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4797.32%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   1671.02%   5.392GiB / 96GiB    5.62%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:48.290947
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4480.94%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4495.13%   14.21GiB / 96GiB    14.80%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:50.310937
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4747.05%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   133.53%    5.793GiB / 96GiB    6.03%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:52.322047
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4588.58%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4454.03%   12.2GiB / 96GiB     12.71%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:54.339577
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4683.46%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   731.71%    10.29GiB / 96GiB    10.72%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:56.351574
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4669.14%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4284.18%   10.15GiB / 96GiB    10.57%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:29:58.377953
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4607.62%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   2850.49%   13.17GiB / 96GiB    13.71%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:00.395116
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4572.64%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   3876.03%   8.42GiB / 96GiB     8.77%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:02.414291
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4597.60%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4517.96%   15.2GiB / 96GiB     15.84%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:04.426839
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4760.54%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   3092.44%   7.204GiB / 96GiB    7.50%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:06.439561
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4564.37%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4596.25%   15.21GiB / 96GiB    15.84%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:08.478829
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4609.41%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   2933.38%   7.555GiB / 96GiB    7.87%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:10.501557
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4669.48%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4225.52%   14.88GiB / 96GiB    15.50%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:12.511423
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4547.05%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   3527.20%   8.174GiB / 96GiB    8.51%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:14.530288
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4612.51%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4494.07%   15.22GiB / 96GiB    15.85%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:16.547064
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4783.36%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   2474.24%   6.256GiB / 96GiB    6.52%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:18.560950
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4540.38%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4476.75%   14.53GiB / 96GiB    15.14%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:20.571524
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4762.23%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   279.40%    5.123GiB / 96GiB    5.34%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:22.596847
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4703.73%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4471.81%   12.55GiB / 96GiB    13.07%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:24.634053
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4773.28%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   343.22%    9.809GiB / 96GiB    10.22%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:26.654692
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4602.18%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4533.08%   10.18GiB / 96GiB    10.60%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:28.668961
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4655.17%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   2953.99%   13.59GiB / 96GiB    14.16%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:30.676120
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4613.94%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4056.25%   8.408GiB / 96GiB    8.76%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:32.691333
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4478.54%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4335.76%   15.23GiB / 96GiB    15.86%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:34.718461
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4631.07%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   1927.22%   5.775GiB / 96GiB    6.02%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:36.733334
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4361.66%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4681.17%   14.74GiB / 96GiB    15.36%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:38.752076
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4741.17%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   126.48%    5.169GiB / 96GiB    5.38%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:40.761160
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4535.34%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4357.35%   11.97GiB / 96GiB    12.47%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:42.790929
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4775.48%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   130.66%    11.63GiB / 96GiB    12.12%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:44.815729
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4682.91%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4065.64%   8.716GiB / 96GiB    9.08%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:46.830182
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4688.36%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4219.49%   14.88GiB / 96GiB    15.50%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:48.845891
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4771.77%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   2955.56%   6.74GiB / 96GiB     7.02%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:50.857082
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4655.22%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4572.26%   15.23GiB / 96GiB    15.87%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:52.869696
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4715.78%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   728.56%    5.144GiB / 96GiB    5.36%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:54.891250
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4696.52%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4512.43%   12.66GiB / 96GiB    13.19%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:56.906865
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4839.55%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   129.69%    9.383GiB / 96GiB    9.77%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:30:58.923265
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4675.12%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4569.43%   10.19GiB / 96GiB    10.62%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:00.943427
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4865.12%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   1998.96%   11.89GiB / 96GiB    12.39%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:02.961863
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4583.92%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4428.86%   9.408GiB / 96GiB    9.80%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:04.987715
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4641.75%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4354.73%   14.91GiB / 96GiB    15.53%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:07.004141
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4790.73%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   2038.58%   5.929GiB / 96GiB    6.18%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:09.018181
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4622.25%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4402.95%   14.08GiB / 96GiB    14.67%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:11.026705
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4796.13%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   129.26%    8.647GiB / 96GiB    9.01%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:13.032655
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4735.96%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4394.89%   10.2GiB / 96GiB     10.63%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:15.047325
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4638.80%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   2192.35%   13GiB / 96GiB       13.54%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:17.060393
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4652.94%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4008.29%   8.096GiB / 96GiB    8.43%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:19.076979
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4681.02%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4426.04%   15.25GiB / 96GiB    15.89%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:21.093313
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4752.05%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   1697.63%   5.525GiB / 96GiB    5.76%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:23.122489
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4737.05%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4513.79%   14.17GiB / 96GiB    14.76%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:25.142059
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4789.66%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   134.52%    10.08GiB / 96GiB    10.50%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:27.144508
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4648.79%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4487.45%   9.885GiB / 96GiB    10.30%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:29.163697
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4531.95%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4059.59%   14.8GiB / 96GiB     15.41%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:31.180538
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4658.45%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   2385.55%   6.272GiB / 96GiB    6.53%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:33.209784
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4655.39%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4560.37%   14.7GiB / 96GiB     15.31%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:35.232815
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4781.68%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   171.93%    5.165GiB / 96GiB    5.38%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:37.241377
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4653.22%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4296.00%   12.71GiB / 96GiB    13.24%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:39.268866
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4840.47%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   99.80%     11.62GiB / 96GiB    12.10%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:41.279886
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4528.26%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4425.20%   10.21GiB / 96GiB    10.64%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:43.302603
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4918.32%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   3441.17%   13.9GiB / 96GiB     14.48%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:45.314630
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4488.63%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   3807.85%   8.337GiB / 96GiB    8.68%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:47.332071
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4580.93%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4440.02%   15.27GiB / 96GiB    15.90%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:49.347403
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4806.61%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   2578.43%   6.844GiB / 96GiB    7.13%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:51.357569
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4685.00%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4370.07%   15.27GiB / 96GiB    15.90%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:53.372346
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4722.29%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   1452.92%   5.174GiB / 96GiB    5.39%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:55.383115
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4642.21%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4461.45%   14.48GiB / 96GiB    15.09%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:57.406083
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4836.11%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   136.62%    7.123GiB / 96GiB    7.42%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:31:59.421009
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4610.36%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4517.38%   10.93GiB / 96GiB    11.38%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:32:01.439919
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4854.53%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   1451.95%   11.28GiB / 96GiB    11.75%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:32:03.461309
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4765.84%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4340.63%   9.091GiB / 96GiB    9.47%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:32:05.494577
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4614.18%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4496.17%   15.28GiB / 96GiB    15.91%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:32:07.520692
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4722.30%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   1267.91%   5.176GiB / 96GiB    5.39%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:32:09.536660
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4754.72%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4469.44%   13.64GiB / 96GiB    14.20%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:32:12.595601
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4601.92%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   3106.24%   7.167GiB / 96GiB    7.47%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:32:14.615720
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4731.19%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4497.24%   15.12GiB / 96GiB    15.75%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:32:16.635525
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4807.41%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   287.84%    5.183GiB / 96GiB    5.40%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:32:18.654069
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4609.26%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   4583.57%   12.97GiB / 96GiB    13.51%    0B / 0B   1.79GB / 0B    52
+2025-02-17 09:32:20.663460
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss             4879.38%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+8eb4bfb00bec   pbbs_wordCounts   144.91%    9.488GiB / 96GiB    9.88%     0B / 0B   1.79GB / 0B    52
+2025-02-17 09:32:22.681504
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss     4846.83%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+2025-02-17 09:32:24.697016
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss     4822.80%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+2025-02-17 09:32:26.707634
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss     4835.82%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+2025-02-17 09:32:28.717978
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss     4817.12%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+2025-02-17 09:32:30.723154
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss     4795.26%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+2025-02-17 09:32:32.727910
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss     4807.93%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+2025-02-17 09:32:34.732964
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss     4799.81%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+2025-02-17 09:32:36.741853
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss     4793.57%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+2025-02-17 09:32:38.749527
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss     4818.61%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+2025-02-17 09:32:40.762195
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss     4823.34%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+2025-02-17 09:32:42.774416
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss     4852.13%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+2025-02-17 09:32:44.784657
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss     4808.28%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+2025-02-17 09:32:46.797257
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss     4837.84%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+2025-02-17 09:32:48.808873
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss     4824.88%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+2025-02-17 09:32:50.817733
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss     4807.70%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+2025-02-17 09:32:52.823526
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss     4802.14%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+2025-02-17 09:32:54.828726
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss     4801.86%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+2025-02-17 09:32:56.833418
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss     4802.35%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+2025-02-17 09:32:58.838137
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss     4796.15%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+2025-02-17 09:33:00.850064
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss     4689.53%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+2025-02-17 09:33:02.864219
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss     4855.23%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+2025-02-17 09:33:04.882811
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss     4840.61%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+2025-02-17 09:33:06.888843
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss     4833.73%   73.87GiB / 96GiB    76.95%    0B / 0B   53GB / 4.1kB   114
+2025-02-17 09:33:08.898349
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+82c6df6929bb   faiss     112.09%   51.89GiB / 96GiB    54.05%    0B / 0B   53GB / 4.1kB   114
+2025-02-17 09:33:10.900564
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS

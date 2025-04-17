@@ -1,0 +1,14 @@
+HOSTNAME: pbbs-sweep-clr-0
+running on 48 threads
+
+cd benchmarks/wordCounts/histogram ; make -s
+cd benchmarks/wordCounts/histogram ; numactl -i all ./testInputs -r 42 -p 48 -x -s 1731530614
+cd ../sequenceData/data; make trigramString_500000000000
+trigramString_500000000000 :  -r 42 -s 1731530614 : '2.431', '2.423', '2.405', '2.414', '2.422', '2.414', '2.412', '2.397', '2.398', '2.39', '2.391', '2.427', '2.432', '2.418', '2.411', '2.41', '2.405', '2.442', '2.446', '2.441', '2.412', '2.425', '2.428', '2.398', '2.387', '2.453', '2.443', '2.415', '2.422', '2.408', '2.413', '2.439', '2.439', '2.45', '2.467', '2.443', '2.428', '2.477', '2.452', '2.472', '2.446', '2.427', geomean = 2.425, start = 2024-11-13 20:44:09.299400, end = 2024-11-13 20:45:51.680100, startup = 3.139564, shutdown = 0.428565
+histogram : 48 : geomean of mins = 2.387, geomean of geomeans = 2.425
+Running only:  [['wordCounts/histogram', True, 0]]
+Extended Benchmarks
+Not Checking
+Running each test 42 times
+Running on at most 48 threads
+Starting at 1731530614

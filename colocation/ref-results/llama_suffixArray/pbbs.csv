@@ -1,0 +1,2 @@
+,workload,label,rounds,cpus,memory,times,geomean,start,end,start_seconds,end_seconds,duration
+0,parallelKS,suffixArray,8,48,96,"[51.916, 51.686, 51.377, 52.548, 51.805]",51.86497244955965,2025-02-17 07:48:08.286500,2025-02-17 07:52:27.618500,0.0,259.332,259.332

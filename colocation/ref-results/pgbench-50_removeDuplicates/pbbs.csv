@@ -1,0 +1,2 @@
+,workload,label,rounds,cpus,memory,times,geomean,start,end,start_seconds,end_seconds,duration
+0,parlayhash,removeDuplicates,30,48,96,"[6.709, 7.288, 7.122, 7.197, 7.172, 7.142, 7.218, 7.046, 7.089, 7.144, 7.193, 7.09, 7.106, 7.361, 7.189, 7.043]",7.1304901840607355,2025-02-17 01:58:18.966800,2025-02-17 02:00:13.075800,0.0,114.109,114.109

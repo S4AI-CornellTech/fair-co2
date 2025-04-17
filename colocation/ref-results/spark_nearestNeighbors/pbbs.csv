@@ -1,0 +1,2 @@
+,workload,label,rounds,cpus,memory,times,geomean,start,end,start_seconds,end_seconds,duration
+0,octTree,nearestNeighbors,30,48,96,"[6.034, 6.014, 6.028, 5.942, 6.021, 5.995, 5.94, 5.902, 5.964, 6.012, 6.082, 6.045, 6.035, 5.981, 5.968, 6.004]",5.997770920562276,2025-02-17 11:18:23.409300,2025-02-17 11:19:59.376300,0.0,95.967,95.967

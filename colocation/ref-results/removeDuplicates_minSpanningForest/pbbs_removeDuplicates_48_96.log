@@ -1,0 +1,14 @@
+HOSTNAME: pbbs-sweep-clr-0
+running on 48 threads
+
+cd benchmarks/removeDuplicates/parlayhash ; make -s
+cd benchmarks/removeDuplicates/parlayhash ; numactl -i all ./testInputs -r 21 -p 48 -x -s 1731533214
+cd ../sequenceData/data; make randomSeq_2G_int
+randomSeq_2G_int :  -r 21 -s 1731533214 : '7.604', '7.567', '7.318', '8.137', '8.106', '7.897', '7.938', '8.091', '7.886', '7.634', '7.748', '7.74', '8.087', '8.042', '7.808', '7.855', '6.754', '5.192', '5.154', '5.107', '5.048', geomean = 7.177, start = 2024-11-13 21:26:54.947500, end = 2024-11-13 21:29:39.734100, startup = 780.601055, shutdown = 3.250571
+parlayhash : 48 : geomean of mins = 5.048, geomean of geomeans = 7.177
+Running only:  [['removeDuplicates/parlayhash', True, 0]]
+Extended Benchmarks
+Not Checking
+Running each test 21 times
+Running on at most 48 threads
+Starting at 1731533214

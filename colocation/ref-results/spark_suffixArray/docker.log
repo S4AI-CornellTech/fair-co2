@@ -1,0 +1,900 @@
+2025-02-17 10:59:44.510794
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 10:59:45.134147
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 10:59:45.753792
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 10:59:46.374049
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 10:59:46.991452
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 10:59:47.611190
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 10:59:48.228032
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 10:59:48.846096
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 10:59:49.462504
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 10:59:50.079969
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 10:59:50.700841
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 10:59:51.319493
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 10:59:51.937993
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 10:59:52.557834
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 10:59:53.176786
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 10:59:53.794733
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 10:59:54.411144
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 10:59:55.028367
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 10:59:55.648897
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 10:59:56.267094
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 10:59:56.884564
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 10:59:57.503085
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 10:59:58.122279
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 10:59:58.740093
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 10:59:59.357188
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 10:59:59.975759
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 11:00:00.593329
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 11:00:01.213426
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 11:00:01.830465
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 11:00:02.447882
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 11:00:03.064559
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 11:00:03.682906
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 11:00:04.300119
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+               --        0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+               --        0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+2025-02-17 11:00:04.923691
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+6ba72c8725b9   pbbs_suffixArray   4811.14%   14.87GiB / 96GiB    15.49%    0B / 0B   664kB / 0B        52
+880831c04658   spark              356.69%    265.5MiB / 96GiB    0.27%     0B / 0B   8.19kB / 32.8kB   58
+2025-02-17 11:00:07.255227
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+6ba72c8725b9   pbbs_suffixArray   4796.31%   23.94GiB / 96GiB    24.93%    0B / 0B   664kB / 0B        52
+880831c04658   spark              417.52%    474MiB / 96GiB      0.48%     0B / 0B   20.5kB / 32.8kB   117
+2025-02-17 11:00:09.268485
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+6ba72c8725b9   pbbs_suffixArray   114.42%   20.32GiB / 96GiB    21.17%    0B / 0B   664kB / 0B        52
+880831c04658   spark              257.99%   639.9MiB / 96GiB    0.65%     0B / 0B   20.5kB / 32.8kB   117
+2025-02-17 11:00:11.280233
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+6ba72c8725b9   pbbs_suffixArray   2255.84%   23.8GiB / 96GiB     24.79%    0B / 0B   672kB / 0B        52
+880831c04658   spark              371.98%    942.6MiB / 96GiB    0.96%     0B / 0B   20.5kB / 32.8kB   117
+2025-02-17 11:00:13.298435
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+6ba72c8725b9   pbbs_suffixArray   1297.58%   15.08GiB / 96GiB    15.70%    0B / 0B   672kB / 0B        52
+880831c04658   spark              629.09%    1.048GiB / 96GiB    1.09%     0B / 0B   49.2kB / 32.8kB   126
+2025-02-17 11:00:15.310888
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+6ba72c8725b9   pbbs_suffixArray   4735.62%   33.18GiB / 96GiB    34.57%    0B / 0B   672kB / 0B        52
+880831c04658   spark              886.01%    2.475GiB / 96GiB    2.58%     0B / 0B   69.6kB / 32.8kB   131
+2025-02-17 11:00:17.321901
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4789.69%   39.74GiB / 96GiB    41.39%    0B / 0B   672kB / 0B       52
+880831c04658   spark              842.24%    2.524GiB / 96GiB    2.63%     0B / 0B   102kB / 32.8kB   134
+2025-02-17 11:00:19.332083
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   2071.03%   31.97GiB / 96GiB    33.30%    0B / 0B   672kB / 0B       52
+880831c04658   spark              850.78%    2.496GiB / 96GiB    2.60%     0B / 0B   131kB / 32.8kB   135
+2025-02-17 11:00:21.345546
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4814.59%   25.25GiB / 96GiB    26.30%    0B / 0B   672kB / 0B       52
+880831c04658   spark              866.54%    2.497GiB / 96GiB    2.60%     0B / 0B   139kB / 32.8kB   135
+2025-02-17 11:00:23.354548
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4797.36%   41.05GiB / 96GiB    42.76%    0B / 0B   672kB / 0B       52
+880831c04658   spark              911.08%    2.502GiB / 96GiB    2.61%     0B / 0B   139kB / 32.8kB   135
+2025-02-17 11:00:25.373369
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   1723.46%   34.99GiB / 96GiB    36.44%    0B / 0B   672kB / 0B       52
+880831c04658   spark              879.80%    2.512GiB / 96GiB    2.62%     0B / 0B   152kB / 32.8kB   135
+2025-02-17 11:00:27.383666
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4794.75%   32.14GiB / 96GiB    33.48%    0B / 0B   672kB / 0B       52
+880831c04658   spark              874.33%    2.514GiB / 96GiB    2.62%     0B / 0B   152kB / 32.8kB   135
+2025-02-17 11:00:29.396272
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4797.55%   32.14GiB / 96GiB    33.48%    0B / 0B   672kB / 0B       52
+880831c04658   spark              844.38%    2.52GiB / 96GiB     2.62%     0B / 0B   152kB / 32.8kB   135
+2025-02-17 11:00:31.408954
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4769.96%   36.74GiB / 96GiB    38.27%    0B / 0B   672kB / 0B       52
+880831c04658   spark              893.31%    2.522GiB / 96GiB    2.63%     0B / 0B   156kB / 32.8kB   135
+2025-02-17 11:00:33.421197
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4793.40%   39.61GiB / 96GiB    41.26%    0B / 0B   672kB / 0B       52
+880831c04658   spark              921.66%    2.524GiB / 96GiB    2.63%     0B / 0B   156kB / 32.8kB   135
+2025-02-17 11:00:35.431826
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   408.10%   32.15GiB / 96GiB    33.49%    0B / 0B   672kB / 0B       52
+880831c04658   spark              832.03%   2.516GiB / 96GiB    2.62%     0B / 0B   164kB / 32.8kB   135
+2025-02-17 11:00:37.443769
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4818.06%   38.81GiB / 96GiB    40.43%    0B / 0B   672kB / 0B       52
+880831c04658   spark              852.80%    2.517GiB / 96GiB    2.62%     0B / 0B   168kB / 32.8kB   135
+2025-02-17 11:00:39.456652
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   1600.16%   39.05GiB / 96GiB    40.68%    0B / 0B   672kB / 0B       52
+880831c04658   spark              834.81%    2.52GiB / 96GiB     2.62%     0B / 0B   168kB / 32.8kB   135
+2025-02-17 11:00:41.475083
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4792.87%   41.83GiB / 96GiB    43.57%    0B / 0B   672kB / 0B       52
+880831c04658   spark              856.58%    2.521GiB / 96GiB    2.63%     0B / 0B   168kB / 32.8kB   135
+2025-02-17 11:00:43.486738
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4803.81%   44.59GiB / 96GiB    46.45%    0B / 0B   672kB / 0B       52
+880831c04658   spark              854.41%    2.521GiB / 96GiB    2.63%     0B / 0B   168kB / 32.8kB   135
+2025-02-17 11:00:45.498135
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   99.51%    31.76GiB / 96GiB    33.08%    0B / 0B   672kB / 0B       52
+880831c04658   spark              842.67%   2.526GiB / 96GiB    2.63%     0B / 0B   168kB / 32.8kB   135
+2025-02-17 11:00:47.510118
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.73GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              863.83%   2.527GiB / 96GiB    2.63%     0B / 0B   168kB / 32.8kB   135
+2025-02-17 11:00:49.522398
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.73GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              830.03%   2.528GiB / 96GiB    2.63%     0B / 0B   168kB / 32.8kB   135
+2025-02-17 11:00:51.532814
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.72GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              820.67%   2.529GiB / 96GiB    2.63%     0B / 0B   168kB / 32.8kB   135
+2025-02-17 11:00:53.547232
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.72GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              824.53%   2.529GiB / 96GiB    2.63%     0B / 0B   168kB / 32.8kB   135
+2025-02-17 11:00:55.558007
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.72GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              817.82%   2.53GiB / 96GiB     2.64%     0B / 0B   168kB / 32.8kB   135
+2025-02-17 11:00:57.571335
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.72GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              822.37%   2.531GiB / 96GiB    2.64%     0B / 0B   168kB / 32.8kB   135
+2025-02-17 11:00:59.582838
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.72GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              856.22%   2.532GiB / 96GiB    2.64%     0B / 0B   168kB / 32.8kB   135
+2025-02-17 11:01:01.593272
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.72GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              831.60%   2.533GiB / 96GiB    2.64%     0B / 0B   168kB / 32.8kB   135
+2025-02-17 11:01:03.612638
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.72GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              823.23%   2.536GiB / 96GiB    2.64%     0B / 0B   168kB / 32.8kB   135
+2025-02-17 11:01:05.624672
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.72GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              821.56%   2.539GiB / 96GiB    2.64%     0B / 0B   168kB / 32.8kB   135
+2025-02-17 11:01:07.636917
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.72GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              832.68%   2.539GiB / 96GiB    2.64%     0B / 0B   168kB / 32.8kB   135
+2025-02-17 11:01:09.650372
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.72GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              826.08%   2.54GiB / 96GiB     2.65%     0B / 0B   168kB / 32.8kB   135
+2025-02-17 11:01:11.662991
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.72GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              831.79%   2.541GiB / 96GiB    2.65%     0B / 0B   168kB / 32.8kB   135
+2025-02-17 11:01:13.675730
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.72GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              843.19%   2.544GiB / 96GiB    2.65%     0B / 0B   168kB / 32.8kB   135
+2025-02-17 11:01:15.688234
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.72GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              828.09%   2.546GiB / 96GiB    2.65%     0B / 0B   168kB / 32.8kB   130
+2025-02-17 11:01:17.701257
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.72GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              829.36%   2.547GiB / 96GiB    2.65%     0B / 0B   168kB / 32.8kB   130
+2025-02-17 11:01:19.712603
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.72GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              816.87%   2.547GiB / 96GiB    2.65%     0B / 0B   168kB / 32.8kB   129
+2025-02-17 11:01:21.725502
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.72GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              822.14%   2.548GiB / 96GiB    2.65%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:01:23.737225
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.72GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              824.85%   2.549GiB / 96GiB    2.65%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:01:25.750698
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.72GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              188.08%   2.553GiB / 96GiB    2.66%     0B / 0B   172kB / 32.8kB   130
+2025-02-17 11:01:27.762838
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.72GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              0.07%     2.552GiB / 96GiB    2.66%     0B / 0B   172kB / 32.8kB   130
+2025-02-17 11:01:29.771366
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.72GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              0.06%     2.552GiB / 96GiB    2.66%     0B / 0B   172kB / 32.8kB   130
+2025-02-17 11:01:31.782685
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.72GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              0.06%     2.551GiB / 96GiB    2.66%     0B / 0B   172kB / 32.8kB   130
+2025-02-17 11:01:33.790565
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.72GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              0.09%     2.551GiB / 96GiB    2.66%     0B / 0B   172kB / 32.8kB   130
+2025-02-17 11:01:35.799798
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.72GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              0.06%     2.551GiB / 96GiB    2.66%     0B / 0B   172kB / 32.8kB   130
+2025-02-17 11:01:37.811598
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.72GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              0.06%     2.551GiB / 96GiB    2.66%     0B / 0B   172kB / 32.8kB   130
+2025-02-17 11:01:39.821676
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.72GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              0.06%     2.551GiB / 96GiB    2.66%     0B / 0B   172kB / 32.8kB   130
+2025-02-17 11:01:41.831337
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   0.00%     27.72GiB / 96GiB    28.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              0.06%     2.551GiB / 96GiB    2.66%     0B / 0B   172kB / 32.8kB   130
+2025-02-17 11:01:43.839962
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   2598.39%   26.43GiB / 96GiB    27.54%    0B / 0B   672kB / 0B       52
+880831c04658   spark              834.15%    2.553GiB / 96GiB    2.66%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:01:45.852074
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4780.21%   45.5GiB / 96GiB     47.40%    0B / 0B   672kB / 0B       52
+880831c04658   spark              868.23%    2.56GiB / 96GiB     2.67%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:01:47.867515
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   2200.28%   43.2GiB / 96GiB     45.00%    0B / 0B   672kB / 0B       52
+880831c04658   spark              835.03%    2.56GiB / 96GiB     2.67%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:01:49.878720
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4816.21%   41.07GiB / 96GiB    42.78%    0B / 0B   672kB / 0B       52
+880831c04658   spark              817.04%    2.562GiB / 96GiB    2.67%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:01:51.909802
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   3087.83%   38.73GiB / 96GiB    40.35%    0B / 0B   672kB / 0B       52
+880831c04658   spark              845.39%    2.566GiB / 96GiB    2.67%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:01:53.915468
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4809.81%   54.47GiB / 96GiB    56.74%    0B / 0B   672kB / 0B       52
+880831c04658   spark              897.94%    2.567GiB / 96GiB    2.67%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:01:55.929018
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4798.75%   55.8GiB / 96GiB     58.12%    0B / 0B   672kB / 0B       52
+880831c04658   spark              902.19%    2.568GiB / 96GiB    2.68%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:01:57.936879
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   1184.40%   32.19GiB / 96GiB    33.53%    0B / 0B   672kB / 0B       52
+880831c04658   spark              815.12%    2.569GiB / 96GiB    2.68%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:01:59.960405
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4726.91%   43.43GiB / 96GiB    45.24%    0B / 0B   672kB / 0B       52
+880831c04658   spark              834.67%    2.572GiB / 96GiB    2.68%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:02:01.965050
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   3868.70%   44.58GiB / 96GiB    46.44%    0B / 0B   672kB / 0B       52
+880831c04658   spark              840.97%    2.585GiB / 96GiB    2.69%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:02:03.975301
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4772.75%   32.19GiB / 96GiB    33.53%    0B / 0B   672kB / 0B       52
+880831c04658   spark              848.65%    2.585GiB / 96GiB    2.69%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:02:05.996822
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4817.18%   32.19GiB / 96GiB    33.53%    0B / 0B   672kB / 0B       52
+880831c04658   spark              824.16%    2.586GiB / 96GiB    2.69%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:02:08.008444
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4806.68%   36.67GiB / 96GiB    38.19%    0B / 0B   672kB / 0B       52
+880831c04658   spark              836.06%    2.587GiB / 96GiB    2.69%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:02:10.021559
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4797.78%   39.37GiB / 96GiB    41.01%    0B / 0B   672kB / 0B       52
+880831c04658   spark              823.63%    2.587GiB / 96GiB    2.69%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:02:12.034304
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   1132.33%   34GiB / 96GiB       35.42%    0B / 0B   672kB / 0B       52
+880831c04658   spark              837.05%    2.59GiB / 96GiB     2.70%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:02:14.045060
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4797.85%   38.85GiB / 96GiB    40.47%    0B / 0B   672kB / 0B       52
+880831c04658   spark              840.81%    2.59GiB / 96GiB     2.70%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:02:16.064167
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   1733.57%   40.32GiB / 96GiB    42.00%    0B / 0B   672kB / 0B       52
+880831c04658   spark              845.85%    2.592GiB / 96GiB    2.70%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:02:18.072102
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4810.92%   41.41GiB / 96GiB    43.14%    0B / 0B   672kB / 0B       52
+880831c04658   spark              921.08%    2.592GiB / 96GiB    2.70%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:02:20.084145
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4787.40%   44.14GiB / 96GiB    45.98%    0B / 0B   672kB / 0B       52
+880831c04658   spark              861.44%    2.593GiB / 96GiB    2.70%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:02:22.094663
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   112.50%   37.14GiB / 96GiB    38.69%    0B / 0B   672kB / 0B       52
+880831c04658   spark              824.12%   2.594GiB / 96GiB    2.70%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:02:24.104451
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   3883.46%   28.88GiB / 96GiB    30.09%    0B / 0B   672kB / 0B       52
+880831c04658   spark              828.66%    2.594GiB / 96GiB    2.70%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:02:26.114706
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4783.12%   45.52GiB / 96GiB    47.41%    0B / 0B   672kB / 0B       52
+880831c04658   spark              882.62%    2.594GiB / 96GiB    2.70%     0B / 0B   172kB / 32.8kB   134
+2025-02-17 11:02:28.132693
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   2970.79%   44.88GiB / 96GiB    46.75%    0B / 0B   672kB / 0B       52
+880831c04658   spark              854.13%    2.595GiB / 96GiB    2.70%     0B / 0B   172kB / 32.8kB   134
+2025-02-17 11:02:30.142509
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4822.65%   41.08GiB / 96GiB    42.79%    0B / 0B   672kB / 0B       52
+880831c04658   spark              828.82%    2.595GiB / 96GiB    2.70%     0B / 0B   172kB / 32.8kB   134
+2025-02-17 11:02:32.158254
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   3764.10%   40.33GiB / 96GiB    42.01%    0B / 0B   672kB / 0B       52
+880831c04658   spark              817.19%    2.595GiB / 96GiB    2.70%     0B / 0B   172kB / 32.8kB   134
+2025-02-17 11:02:34.167757
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4807.02%   55.4GiB / 96GiB     57.71%    0B / 0B   672kB / 0B       52
+880831c04658   spark              865.85%    2.598GiB / 96GiB    2.71%     0B / 0B   172kB / 32.8kB   134
+2025-02-17 11:02:36.179342
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4176.31%   53.63GiB / 96GiB    55.86%    0B / 0B   672kB / 0B       52
+880831c04658   spark              822.17%    2.601GiB / 96GiB    2.71%     0B / 0B   172kB / 32.8kB   134
+2025-02-17 11:02:38.189231
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   1830.25%   32.2GiB / 96GiB     33.54%    0B / 0B   672kB / 0B       52
+880831c04658   spark              830.82%    2.604GiB / 96GiB    2.71%     0B / 0B   172kB / 32.8kB   134
+2025-02-17 11:02:40.205997
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4693.74%   44.33GiB / 96GiB    46.18%    0B / 0B   672kB / 0B       52
+880831c04658   spark              818.67%    2.603GiB / 96GiB    2.71%     0B / 0B   172kB / 32.8kB   134
+2025-02-17 11:02:42.212739
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   3373.61%   42.77GiB / 96GiB    44.55%    0B / 0B   672kB / 0B       52
+880831c04658   spark              820.50%    2.604GiB / 96GiB    2.71%     0B / 0B   172kB / 32.8kB   134
+2025-02-17 11:02:44.222396
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4807.33%   32.2GiB / 96GiB     33.54%    0B / 0B   672kB / 0B       52
+880831c04658   spark              857.68%    2.605GiB / 96GiB    2.71%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:02:46.239619
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4796.59%   32.37GiB / 96GiB    33.71%    0B / 0B   672kB / 0B       52
+880831c04658   spark              825.77%    2.607GiB / 96GiB    2.72%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:02:48.249110
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4804.26%   36.89GiB / 96GiB    38.43%    0B / 0B   672kB / 0B       52
+880831c04658   spark              851.22%    2.607GiB / 96GiB    2.72%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:02:50.260565
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4796.76%   39.77GiB / 96GiB    41.42%    0B / 0B   672kB / 0B       52
+880831c04658   spark              826.92%    2.608GiB / 96GiB    2.72%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:02:52.274628
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   636.91%   32.2GiB / 96GiB     33.54%    0B / 0B   672kB / 0B       52
+880831c04658   spark              825.33%   2.61GiB / 96GiB     2.72%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:02:54.284718
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4774.33%   39.7GiB / 96GiB     41.36%    0B / 0B   672kB / 0B       52
+880831c04658   spark              834.70%    2.611GiB / 96GiB    2.72%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:02:56.296484
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   1865.93%   39.27GiB / 96GiB    40.91%    0B / 0B   672kB / 0B       52
+880831c04658   spark              837.98%    2.611GiB / 96GiB    2.72%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:02:58.305866
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4783.68%   42.03GiB / 96GiB    43.78%    0B / 0B   672kB / 0B       52
+880831c04658   spark              762.71%    2.611GiB / 96GiB    2.72%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:03:00.318469
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4796.73%   44.77GiB / 96GiB    46.64%    0B / 0B   672kB / 0B       52
+880831c04658   spark              796.54%    2.619GiB / 96GiB    2.73%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:02.332775
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   99.52%    31.46GiB / 96GiB    32.77%    0B / 0B   672kB / 0B       52
+880831c04658   spark              820.57%   2.62GiB / 96GiB     2.73%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:04.343813
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4806.46%   34.2GiB / 96GiB     35.62%    0B / 0B   672kB / 0B       52
+880831c04658   spark              824.19%    2.62GiB / 96GiB     2.73%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:06.355201
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   3030.77%   42.23GiB / 96GiB    43.99%    0B / 0B   672kB / 0B       52
+880831c04658   spark              868.41%    2.62GiB / 96GiB     2.73%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:08.368663
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   1745.74%   38.24GiB / 96GiB    39.83%    0B / 0B   672kB / 0B       52
+880831c04658   spark              819.13%    2.621GiB / 96GiB    2.73%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:10.383262
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4366.88%   39.68GiB / 96GiB    41.33%    0B / 0B   672kB / 0B       52
+880831c04658   spark              843.15%    2.622GiB / 96GiB    2.73%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:12.394819
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4744.79%   45.76GiB / 96GiB    47.67%    0B / 0B   672kB / 0B       52
+880831c04658   spark              846.06%    2.622GiB / 96GiB    2.73%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:14.407497
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4800.25%   55.88GiB / 96GiB    58.21%    0B / 0B   672kB / 0B       52
+880831c04658   spark              879.44%    2.625GiB / 96GiB    2.73%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:16.417626
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   1675.56%   44.04GiB / 96GiB    45.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              825.66%    2.626GiB / 96GiB    2.74%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:18.437488
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4790.78%   32.79GiB / 96GiB    34.16%    0B / 0B   672kB / 0B       52
+880831c04658   spark              867.95%    2.625GiB / 96GiB    2.73%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:20.452160
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4795.50%   47.99GiB / 96GiB    49.99%    0B / 0B   672kB / 0B       52
+880831c04658   spark              888.70%    2.626GiB / 96GiB    2.74%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:22.468861
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   825.94%   35.18GiB / 96GiB    36.64%    0B / 0B   672kB / 0B       52
+880831c04658   spark              843.03%   2.627GiB / 96GiB    2.74%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:24.482078
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4811.41%   32.21GiB / 96GiB    33.55%    0B / 0B   672kB / 0B       52
+880831c04658   spark              840.28%    2.628GiB / 96GiB    2.74%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:26.490273
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4774.41%   36.65GiB / 96GiB    38.17%    0B / 0B   672kB / 0B       52
+880831c04658   spark              878.65%    2.629GiB / 96GiB    2.74%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:28.506424
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4812.14%   37.82GiB / 96GiB    39.40%    0B / 0B   672kB / 0B       52
+880831c04658   spark              851.94%    2.63GiB / 96GiB     2.74%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:30.516618
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4790.38%   40.7GiB / 96GiB     42.40%    0B / 0B   672kB / 0B       52
+880831c04658   spark              872.71%    2.63GiB / 96GiB     2.74%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:32.526586
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   3710.18%   38.87GiB / 96GiB    40.48%    0B / 0B   672kB / 0B       52
+880831c04658   spark              865.60%    2.632GiB / 96GiB    2.74%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:34.544159
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4790.96%   45.9GiB / 96GiB     47.81%    0B / 0B   672kB / 0B       52
+880831c04658   spark              848.83%    2.632GiB / 96GiB    2.74%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:36.553334
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4687.65%   40.25GiB / 96GiB    41.93%    0B / 0B   672kB / 0B       52
+880831c04658   spark              864.42%    2.632GiB / 96GiB    2.74%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:38.566880
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4792.06%   43.03GiB / 96GiB    44.82%    0B / 0B   672kB / 0B       52
+880831c04658   spark              825.77%    2.633GiB / 96GiB    2.74%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:40.577591
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   3825.31%   43.75GiB / 96GiB    45.57%    0B / 0B   672kB / 0B       52
+880831c04658   spark              816.92%    2.637GiB / 96GiB    2.75%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:42.588004
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   715.56%   22.52GiB / 96GiB    23.46%    0B / 0B   672kB / 0B       52
+880831c04658   spark              822.57%   2.636GiB / 96GiB    2.75%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:44.603704
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4791.85%   43.98GiB / 96GiB    45.82%    0B / 0B   672kB / 0B       52
+880831c04658   spark              843.60%    2.636GiB / 96GiB    2.75%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:46.617638
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   452.93%   37.8GiB / 96GiB     39.38%    0B / 0B   672kB / 0B       52
+880831c04658   spark              823.05%   2.638GiB / 96GiB    2.75%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:48.619063
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   3316.06%   41.09GiB / 96GiB    42.81%    0B / 0B   672kB / 0B       52
+880831c04658   spark              847.82%    2.64GiB / 96GiB     2.75%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:50.640137
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   1575.64%   34.57GiB / 96GiB    36.01%    0B / 0B   672kB / 0B       52
+880831c04658   spark              847.41%    2.64GiB / 96GiB     2.75%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:52.649966
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4797.69%   51.49GiB / 96GiB    53.63%    0B / 0B   672kB / 0B       52
+880831c04658   spark              887.86%    2.64GiB / 96GiB     2.75%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:54.659223
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4796.74%   55.89GiB / 96GiB    58.22%    0B / 0B   672kB / 0B       52
+880831c04658   spark              825.42%    2.641GiB / 96GiB    2.75%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:56.669924
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   1081.29%   35.14GiB / 96GiB    36.61%    0B / 0B   672kB / 0B       52
+880831c04658   spark              832.24%    2.643GiB / 96GiB    2.75%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:03:58.688636
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4694.07%   40.2GiB / 96GiB     41.87%    0B / 0B   672kB / 0B       52
+880831c04658   spark              831.42%    2.643GiB / 96GiB    2.75%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:04:00.697717
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4789.71%   48GiB / 96GiB       50.00%    0B / 0B   672kB / 0B       52
+880831c04658   spark              831.89%    2.643GiB / 96GiB    2.75%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:04:02.707136
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   2378.64%   32.22GiB / 96GiB    33.56%    0B / 0B   672kB / 0B       52
+880831c04658   spark              839.29%    2.643GiB / 96GiB    2.75%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:04:04.725138
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4795.97%   32.22GiB / 96GiB    33.56%    0B / 0B   672kB / 0B       52
+880831c04658   spark              821.04%    2.644GiB / 96GiB    2.75%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:04:06.730754
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4816.26%   36.65GiB / 96GiB    38.18%    0B / 0B   672kB / 0B       52
+880831c04658   spark              850.55%    2.644GiB / 96GiB    2.75%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:04:08.746714
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4811.40%   38.71GiB / 96GiB    40.32%    0B / 0B   672kB / 0B       52
+880831c04658   spark              827.60%    2.644GiB / 96GiB    2.75%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:04:10.754804
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   3173.32%   38.08GiB / 96GiB    39.67%    0B / 0B   672kB / 0B       52
+880831c04658   spark              821.93%    2.645GiB / 96GiB    2.76%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:04:12.766962
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4781.65%   38.87GiB / 96GiB    40.49%    0B / 0B   672kB / 0B       52
+880831c04658   spark              851.47%    2.645GiB / 96GiB    2.76%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:04:14.789093
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   3270.98%   44.23GiB / 96GiB    46.08%    0B / 0B   672kB / 0B       52
+880831c04658   spark              644.28%    2.646GiB / 96GiB    2.76%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:04:16.792989
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4791.82%   41.15GiB / 96GiB    42.86%    0B / 0B   672kB / 0B       52
+880831c04658   spark              835.80%    2.651GiB / 96GiB    2.76%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:04:18.804808
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4817.00%   43.99GiB / 96GiB    45.82%    0B / 0B   672kB / 0B       52
+880831c04658   spark              829.58%    2.651GiB / 96GiB    2.76%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:04:20.815090
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   663.97%   37.97GiB / 96GiB    39.55%    0B / 0B   672kB / 0B       52
+880831c04658   spark              827.90%   2.646GiB / 96GiB    2.76%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:04:22.826343
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   3643.22%   28.39GiB / 96GiB    29.57%    0B / 0B   672kB / 0B       52
+880831c04658   spark              824.72%    2.645GiB / 96GiB    2.76%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:04:24.838715
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4789.82%   45.54GiB / 96GiB    47.44%    0B / 0B   672kB / 0B       52
+880831c04658   spark              835.22%    2.646GiB / 96GiB    2.76%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:04:26.859480
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   2989.39%   44.53GiB / 96GiB    46.38%    0B / 0B   672kB / 0B       52
+880831c04658   spark              839.96%    2.647GiB / 96GiB    2.76%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:04:28.869816
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4798.63%   41.1GiB / 96GiB     42.81%    0B / 0B   672kB / 0B       52
+880831c04658   spark              837.84%    2.647GiB / 96GiB    2.76%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:04:30.886101
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4284.18%   41.48GiB / 96GiB    43.20%    0B / 0B   672kB / 0B       52
+880831c04658   spark              823.68%    2.65GiB / 96GiB     2.76%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:04:32.897814
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4780.51%   55.9GiB / 96GiB     58.23%    0B / 0B   672kB / 0B       52
+880831c04658   spark              825.69%    2.651GiB / 96GiB    2.76%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:04:34.911382
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   3350.56%   50.76GiB / 96GiB    52.88%    0B / 0B   672kB / 0B       52
+880831c04658   spark              819.22%    2.651GiB / 96GiB    2.76%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:04:36.928579
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   2509.50%   32.22GiB / 96GiB    33.57%    0B / 0B   672kB / 0B       52
+880831c04658   spark              827.81%    2.654GiB / 96GiB    2.76%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:04:38.934747
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4689.23%   45.76GiB / 96GiB    47.67%    0B / 0B   672kB / 0B       52
+880831c04658   spark              824.26%    2.653GiB / 96GiB    2.76%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:04:40.947762
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   2739.52%   40.12GiB / 96GiB    41.79%    0B / 0B   672kB / 0B       52
+880831c04658   spark              823.57%    2.655GiB / 96GiB    2.77%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:04:42.962937
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4812.07%   32.22GiB / 96GiB    33.57%    0B / 0B   672kB / 0B       52
+880831c04658   spark              842.01%    2.655GiB / 96GiB    2.77%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:04:44.976821
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4797.75%   34.84GiB / 96GiB    36.29%    0B / 0B   672kB / 0B       52
+880831c04658   spark              826.41%    2.655GiB / 96GiB    2.77%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:04:46.986818
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4793.89%   37.17GiB / 96GiB    38.72%    0B / 0B   672kB / 0B       52
+880831c04658   spark              817.17%    2.655GiB / 96GiB    2.77%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:04:48.999197
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4815.82%   40.06GiB / 96GiB    41.73%    0B / 0B   672kB / 0B       52
+880831c04658   spark              838.76%    2.658GiB / 96GiB    2.77%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:04:51.009848
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   1331.57%   34.53GiB / 96GiB    35.97%    0B / 0B   672kB / 0B       52
+880831c04658   spark              834.75%    2.66GiB / 96GiB     2.77%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:04:53.024632
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4800.52%   40.83GiB / 96GiB    42.53%    0B / 0B   672kB / 0B       52
+880831c04658   spark              835.64%    2.661GiB / 96GiB    2.77%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:04:55.039195
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   2357.83%   39.45GiB / 96GiB    41.09%    0B / 0B   672kB / 0B       52
+880831c04658   spark              823.93%    2.661GiB / 96GiB    2.77%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:04:57.051001
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4798.21%   42.22GiB / 96GiB    43.98%    0B / 0B   672kB / 0B       52
+880831c04658   spark              829.97%    2.663GiB / 96GiB    2.77%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:04:59.062733
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4797.55%   44.98GiB / 96GiB    46.85%    0B / 0B   672kB / 0B       52
+880831c04658   spark              824.02%    2.665GiB / 96GiB    2.78%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:05:01.075929
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   99.64%    29.38GiB / 96GiB    30.61%    0B / 0B   672kB / 0B       52
+880831c04658   spark              822.04%   2.666GiB / 96GiB    2.78%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:05:03.087616
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4791.14%   36.01GiB / 96GiB    37.52%    0B / 0B   672kB / 0B       52
+880831c04658   spark              826.09%    2.665GiB / 96GiB    2.78%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:05:05.098094
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   2189.92%   40.89GiB / 96GiB    42.59%    0B / 0B   672kB / 0B       52
+880831c04658   spark              828.18%    2.667GiB / 96GiB    2.78%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:05:07.112500
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   1084.11%   36.67GiB / 96GiB    38.19%    0B / 0B   672kB / 0B       52
+880831c04658   spark              849.17%    2.667GiB / 96GiB    2.78%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:05:09.128277
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   3402.50%   37.15GiB / 96GiB    38.70%    0B / 0B   672kB / 0B       52
+880831c04658   spark              841.67%    2.668GiB / 96GiB    2.78%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:05:11.141177
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4743.58%   47.19GiB / 96GiB    49.16%    0B / 0B   672kB / 0B       52
+880831c04658   spark              830.90%    2.67GiB / 96GiB     2.78%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:05:13.151451
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4813.42%   55.9GiB / 96GiB     58.23%    0B / 0B   672kB / 0B       52
+880831c04658   spark              821.44%    2.67GiB / 96GiB     2.78%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:05:15.162856
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   1504.56%   44.06GiB / 96GiB    45.90%    0B / 0B   672kB / 0B       52
+880831c04658   spark              847.21%    2.672GiB / 96GiB    2.78%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:05:17.180951
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4793.14%   33.38GiB / 96GiB    34.77%    0B / 0B   672kB / 0B       52
+880831c04658   spark              845.95%    2.671GiB / 96GiB    2.78%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:05:19.197056
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4778.87%   48.01GiB / 96GiB    50.01%    0B / 0B   672kB / 0B       52
+880831c04658   spark              843.65%    2.672GiB / 96GiB    2.78%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:05:21.214931
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   877.34%   35.28GiB / 96GiB    36.75%    0B / 0B   672kB / 0B       52
+880831c04658   spark              841.00%   2.673GiB / 96GiB    2.78%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:05:23.224574
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4800.72%   32.23GiB / 96GiB    33.57%    0B / 0B   672kB / 0B       52
+880831c04658   spark              855.97%    2.674GiB / 96GiB    2.79%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:05:25.233758
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4786.47%   36.67GiB / 96GiB    38.19%    0B / 0B   672kB / 0B       52
+880831c04658   spark              836.80%    2.673GiB / 96GiB    2.78%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:05:27.250561
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4821.21%   37.78GiB / 96GiB    39.35%    0B / 0B   672kB / 0B       52
+880831c04658   spark              835.68%    2.674GiB / 96GiB    2.79%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:05:29.263350
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4778.08%   40.68GiB / 96GiB    42.38%    0B / 0B   672kB / 0B       52
+880831c04658   spark              831.32%    2.675GiB / 96GiB    2.79%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:05:31.274553
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   3471.88%   38.89GiB / 96GiB    40.51%    0B / 0B   672kB / 0B       52
+880831c04658   spark              827.51%    2.677GiB / 96GiB    2.79%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:05:33.291305
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4793.72%   44.49GiB / 96GiB    46.34%    0B / 0B   672kB / 0B       52
+880831c04658   spark              649.67%    2.678GiB / 96GiB    2.79%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:05:35.301407
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4218.69%   40.12GiB / 96GiB    41.79%    0B / 0B   672kB / 0B       52
+880831c04658   spark              847.79%    2.679GiB / 96GiB    2.79%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:05:37.313222
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4793.77%   42.89GiB / 96GiB    44.68%    0B / 0B   672kB / 0B       52
+880831c04658   spark              822.26%    2.679GiB / 96GiB    2.79%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:05:39.325908
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4443.24%   44.85GiB / 96GiB    46.72%    0B / 0B   672kB / 0B       52
+880831c04658   spark              817.23%    2.68GiB / 96GiB     2.79%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:05:41.335402
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   99.37%    22.06GiB / 96GiB    22.98%    0B / 0B   672kB / 0B       52
+880831c04658   spark              826.29%   2.682GiB / 96GiB    2.79%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:05:43.347757
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4810.18%   41.03GiB / 96GiB    42.74%    0B / 0B   672kB / 0B       52
+880831c04658   spark              827.27%    2.682GiB / 96GiB    2.79%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:05:45.363218
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   99.53%    37.68GiB / 96GiB    39.25%    0B / 0B   672kB / 0B       52
+880831c04658   spark              812.91%   2.683GiB / 96GiB    2.80%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:05:47.368080
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   2229.44%   41.11GiB / 96GiB    42.82%    0B / 0B   672kB / 0B       52
+880831c04658   spark              835.60%    2.684GiB / 96GiB    2.80%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:05:49.391488
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   1426.62%   32.3GiB / 96GiB     33.65%    0B / 0B   672kB / 0B       52
+880831c04658   spark              823.29%    2.684GiB / 96GiB    2.80%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:05:51.400905
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4730.87%   50.03GiB / 96GiB    52.12%    0B / 0B   672kB / 0B       52
+880831c04658   spark              827.10%    2.687GiB / 96GiB    2.80%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:05:53.411184
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4804.78%   55.9GiB / 96GiB     58.23%    0B / 0B   672kB / 0B       52
+880831c04658   spark              840.38%    2.693GiB / 96GiB    2.81%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:05:55.421580
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   1097.96%   37.96GiB / 96GiB    39.54%    0B / 0B   672kB / 0B       52
+880831c04658   spark              836.87%    2.695GiB / 96GiB    2.81%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:05:57.444370
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4820.88%   38.02GiB / 96GiB    39.60%    0B / 0B   672kB / 0B       52
+880831c04658   spark              849.97%    2.693GiB / 96GiB    2.81%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:05:59.449299
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4797.34%   48.01GiB / 96GiB    50.01%    0B / 0B   672kB / 0B       52
+880831c04658   spark              826.82%    2.695GiB / 96GiB    2.81%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:06:01.460044
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   1832.79%   32.23GiB / 96GiB    33.57%    0B / 0B   672kB / 0B       52
+880831c04658   spark              847.23%    2.695GiB / 96GiB    2.81%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:06:03.485236
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4794.54%   32.23GiB / 96GiB    33.57%    0B / 0B   672kB / 0B       52
+880831c04658   spark              845.31%    2.708GiB / 96GiB    2.82%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:06:05.490954
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4791.44%   36.67GiB / 96GiB    38.19%    0B / 0B   672kB / 0B       52
+880831c04658   spark              847.99%    2.709GiB / 96GiB    2.82%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:06:07.505072
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4815.33%   38.33GiB / 96GiB    39.93%    0B / 0B   672kB / 0B       52
+880831c04658   spark              830.39%    2.709GiB / 96GiB    2.82%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:06:09.515450
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4574.41%   40.65GiB / 96GiB    42.34%    0B / 0B   672kB / 0B       52
+880831c04658   spark              828.87%    2.702GiB / 96GiB    2.81%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:06:11.523758
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4813.98%   38.89GiB / 96GiB    40.51%    0B / 0B   672kB / 0B       52
+880831c04658   spark              845.94%    2.706GiB / 96GiB    2.82%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:06:13.538841
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4778.11%   47.76GiB / 96GiB    49.75%    0B / 0B   672kB / 0B       52
+880831c04658   spark              846.74%    2.707GiB / 96GiB    2.82%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:06:15.569578
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4781.73%   40.49GiB / 96GiB    42.18%    0B / 0B   672kB / 0B       52
+880831c04658   spark              831.53%    2.709GiB / 96GiB    2.82%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:06:17.574415
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4791.99%   43.2GiB / 96GiB     45.00%    0B / 0B   672kB / 0B       52
+880831c04658   spark              832.28%    2.71GiB / 96GiB     2.82%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:06:19.584817
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   3567.05%   43.37GiB / 96GiB    45.18%    0B / 0B   672kB / 0B       52
+880831c04658   spark              834.14%    2.71GiB / 96GiB     2.82%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:06:21.596623
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   655.63%   22.44GiB / 96GiB    23.38%    0B / 0B   672kB / 0B       52
+880831c04658   spark              823.00%   2.713GiB / 96GiB    2.83%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:06:23.606807
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4793.48%   43.72GiB / 96GiB    45.54%    0B / 0B   672kB / 0B       52
+880831c04658   spark              835.12%    2.713GiB / 96GiB    2.83%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:06:25.622747
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   183.09%   36.97GiB / 96GiB    38.51%    0B / 0B   672kB / 0B       52
+880831c04658   spark              828.16%   2.713GiB / 96GiB    2.83%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:06:27.629384
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   2902.30%   41.11GiB / 96GiB    42.82%    0B / 0B   672kB / 0B       52
+880831c04658   spark              848.84%    2.714GiB / 96GiB    2.83%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:06:29.647872
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   1341.43%   33.59GiB / 96GiB    34.99%    0B / 0B   672kB / 0B       52
+880831c04658   spark              814.06%    2.715GiB / 96GiB    2.83%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:06:31.660027
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4725.99%   51GiB / 96GiB       53.12%    0B / 0B   672kB / 0B       52
+880831c04658   spark              825.95%    2.715GiB / 96GiB    2.83%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:06:33.672542
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4803.93%   55.9GiB / 96GiB     58.23%    0B / 0B   672kB / 0B       52
+880831c04658   spark              823.92%    2.716GiB / 96GiB    2.83%     0B / 0B   172kB / 32.8kB   135
+2025-02-17 11:06:35.682916
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   1088.01%   36.11GiB / 96GiB    37.61%    0B / 0B   672kB / 0B       52
+880831c04658   spark              821.67%    2.718GiB / 96GiB    2.83%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:06:37.700289
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4794.95%   39.88GiB / 96GiB    41.55%    0B / 0B   672kB / 0B       52
+880831c04658   spark              837.72%    2.717GiB / 96GiB    2.83%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:06:39.709156
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4793.92%   48.01GiB / 96GiB    50.01%    0B / 0B   672kB / 0B       52
+880831c04658   spark              833.75%    2.718GiB / 96GiB    2.83%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:06:41.720772
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   2032.90%   32.23GiB / 96GiB    33.57%    0B / 0B   672kB / 0B       52
+880831c04658   spark              820.19%    2.719GiB / 96GiB    2.83%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:06:43.743661
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4820.09%   32.23GiB / 96GiB    33.57%    0B / 0B   672kB / 0B       52
+880831c04658   spark              833.08%    2.72GiB / 96GiB     2.83%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:06:45.751649
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4819.07%   36.67GiB / 96GiB    38.20%    0B / 0B   672kB / 0B       52
+880831c04658   spark              843.62%    2.72GiB / 96GiB     2.83%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:06:47.773728
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4820.76%   38.7GiB / 96GiB     40.31%    0B / 0B   672kB / 0B       52
+880831c04658   spark              818.91%    2.722GiB / 96GiB    2.84%     0B / 0B   172kB / 32.8kB   129
+2025-02-17 11:06:49.771291
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   3193.40%   38.13GiB / 96GiB    39.71%    0B / 0B   672kB / 0B       52
+880831c04658   spark              585.37%    2.726GiB / 96GiB    2.84%     0B / 0B   172kB / 32.8kB   128
+2025-02-17 11:06:51.782314
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4803.53%   38.89GiB / 96GiB    40.51%    0B / 0B   672kB / 0B       52
+880831c04658   spark              0.00%      2.766MiB / 96GiB    0.00%     0B / 0B   172kB / 32.8kB   1
+2025-02-17 11:06:53.796924
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   2832.37%   43.11GiB / 96GiB    44.90%    0B / 0B   672kB / 0B       52
+880831c04658   spark              0.00%      2.691MiB / 96GiB    0.00%     0B / 0B   172kB / 32.8kB   1
+2025-02-17 11:06:55.806153
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4796.14%   41.59GiB / 96GiB    43.32%    0B / 0B   672kB / 0B       52
+880831c04658   spark              0.00%      2.676MiB / 96GiB    0.00%     0B / 0B   172kB / 32.8kB   1
+2025-02-17 11:06:57.817771
+CONTAINER ID   NAME               CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+6ba72c8725b9   pbbs_suffixArray   4797.79%   44.72GiB / 96GiB    46.59%    0B / 0B   672kB / 0B       52
+880831c04658   spark              0.00%      2.668MiB / 96GiB    0.00%     0B / 0B   172kB / 32.8kB   1
+2025-02-17 11:06:59.828154
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+6ba72c8725b9   pbbs_suffixArray   99.65%    30.63GiB / 96GiB    31.91%    0B / 0B   672kB / 0B   52
+2025-02-17 11:07:01.838920
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+6ba72c8725b9   pbbs_suffixArray   99.33%    5.428GiB / 96GiB    5.65%     0B / 0B   672kB / 0B   5
+2025-02-17 11:07:03.847079
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS

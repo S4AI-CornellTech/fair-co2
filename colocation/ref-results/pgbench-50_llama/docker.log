@@ -1,0 +1,1125 @@
+2025-02-17 01:27:54.766059
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:27:56.856527
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:27:58.862143
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:28:00.868273
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.61%     15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:28:02.874245
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:28:04.880883
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:28:06.886110
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:28:08.891064
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:28:10.897750
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:28:12.902626
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:28:14.909441
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        26.56%     70.91MiB / 96GiB    0.07%     0B / 0B         397MB / 0B        1
+7fbd3caa67b9   pgbench-50   4962.41%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:28:16.918381
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        25.63%     77.29MiB / 96GiB    0.08%     0B / 0B         1.28GB / 0B       1
+7fbd3caa67b9   pgbench-50   5007.56%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:28:18.926507
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        22.35%     77.67MiB / 96GiB    0.08%     0B / 0B         2.17GB / 0B       1
+7fbd3caa67b9   pgbench-50   4957.44%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:28:20.934403
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        23.86%     81.68MiB / 96GiB    0.08%     0B / 0B         3.12GB / 0B       1
+7fbd3caa67b9   pgbench-50   4993.99%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:28:22.943310
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        24.02%     85.27MiB / 96GiB    0.09%     0B / 0B         4.04GB / 0B       1
+7fbd3caa67b9   pgbench-50   4996.46%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:28:24.956675
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        30.52%     91.53MiB / 96GiB    0.09%     0B / 0B         4.93GB / 0B       1
+7fbd3caa67b9   pgbench-50   4995.70%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:28:26.966179
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        24.71%     94.94MiB / 96GiB    0.10%     0B / 0B         5.89GB / 0B       1
+7fbd3caa67b9   pgbench-50   4961.94%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:28:28.976506
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        24.38%     99.67MiB / 96GiB    0.10%     0B / 0B         6.83GB / 0B       1
+7fbd3caa67b9   pgbench-50   4998.95%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:28:30.986075
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        25.55%     103.7MiB / 96GiB    0.11%     0B / 0B         7.8GB / 0B        1
+7fbd3caa67b9   pgbench-50   4994.48%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:28:32.997655
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        25.84%     107.1MiB / 96GiB    0.11%     0B / 0B         8.8GB / 0B        1
+7fbd3caa67b9   pgbench-50   4973.57%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:28:35.008565
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        25.10%     111.3MiB / 96GiB    0.11%     0B / 0B         9.73GB / 0B       1
+7fbd3caa67b9   pgbench-50   5007.41%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:28:37.019533
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        23.42%     114.4MiB / 96GiB    0.12%     0B / 0B         10.7GB / 0B       1
+7fbd3caa67b9   pgbench-50   4954.45%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:28:39.026784
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4814.73%   145.6MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4178.05%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:28:41.046200
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4790.99%   145.4MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4443.85%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:28:43.061498
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4366.53%   144MiB / 96GiB      0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4737.89%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:28:45.094271
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4575.68%   143.8MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4595.05%   15.4GiB / 96GiB     16.05%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:28:47.105768
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4183.99%   143.8MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4915.47%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:28:49.117757
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4434.04%   143.9MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4764.49%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:28:51.132196
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4089.12%   144MiB / 96GiB      0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4816.23%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:28:53.144853
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4180.65%   144MiB / 96GiB      0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4835.78%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:28:55.159582
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4178.08%   143.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4918.93%   15.4GiB / 96GiB     16.05%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:28:57.172220
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4257.77%   143.8MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4842.78%   15.4GiB / 96GiB     16.05%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:28:59.187136
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4188.63%   143.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4898.56%   15.4GiB / 96GiB     16.05%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:29:01.197048
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4492.66%   143.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4706.75%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:29:03.212707
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4250.56%   144.2MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4820.38%   15.4GiB / 96GiB     16.05%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:29:05.223479
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4152.03%   143.8MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4885.90%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:29:07.240256
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4130.85%   143.8MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4930.05%   15.4GiB / 96GiB     16.05%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:29:09.252748
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4186.64%   143.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4814.77%   15.4GiB / 96GiB     16.05%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:29:11.264411
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4299.60%   143.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4895.78%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:29:13.276499
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4176.67%   143.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4869.10%   15.4GiB / 96GiB     16.05%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:29:15.289055
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4127.89%   143.8MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4935.98%   15.4GiB / 96GiB     16.05%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:29:17.301942
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4144.95%   143.8MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4905.42%   15.4GiB / 96GiB     16.05%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:29:19.313553
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4188.36%   143.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4899.40%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:29:21.328003
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4111.57%   143.8MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4810.18%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:29:23.340207
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4126.07%   144.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4890.13%   15.4GiB / 96GiB     16.05%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:29:25.352664
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4134.66%   143.8MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4888.96%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:29:27.365162
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4151.26%   143.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4869.59%   15.4GiB / 96GiB     16.05%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:29:29.377977
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4278.39%   143.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4856.08%   15.4GiB / 96GiB     16.04%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:29:31.389600
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4217.10%   143.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4784.10%   15.4GiB / 96GiB     16.05%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:29:33.402966
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4201.65%   143.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4892.04%   15.4GiB / 96GiB     16.05%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:29:35.416699
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4090.11%   143.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4906.69%   15.4GiB / 96GiB     16.05%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:29:37.426251
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4298.80%   143.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4833.33%   15.4GiB / 96GiB     16.05%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:29:39.439368
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4024.15%   143.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4902.79%   15.4GiB / 96GiB     16.05%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:29:41.451838
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4249.14%   143.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4794.56%   15.4GiB / 96GiB     16.05%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:29:43.464749
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4294.75%   144.1MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4742.11%   15.4GiB / 96GiB     16.05%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:29:45.482399
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4196.80%   143.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4922.21%   15.4GiB / 96GiB     16.05%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:29:47.493832
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4208.73%   143.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4910.14%   15.4GiB / 96GiB     16.05%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:29:49.508606
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4261.27%   143.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4724.09%   15.4GiB / 96GiB     16.05%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:29:51.522982
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4061.17%   143.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4897.13%   15.4GiB / 96GiB     16.05%    1.61kB / 906B   23.8MB / 31.9GB   112
+2025-02-17 01:29:53.534610
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4210.12%   144.1MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   4772.24%   15.24GiB / 96GiB    15.87%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:29:55.547477
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4789.01%   144.1MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.87%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:29:57.563914
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4788.06%   144.1MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.87%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:29:59.578640
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4761.90%   144.1MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.87%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:30:01.593047
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4815.02%   145.3MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   0.02%      15.23GiB / 96GiB    15.87%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:30:03.612042
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4776.76%   145.4MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.87%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:30:05.634864
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4805.66%   149.1MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:30:07.650491
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4772.52%   148.6MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:30:09.674504
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4786.35%   148.1MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   0.01%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:30:11.693775
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4783.07%   147.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   0.02%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:30:13.717481
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4805.67%   147.4MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:30:15.737853
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4803.19%   146.9MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:30:17.749196
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4782.78%   146.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:30:19.775909
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4802.00%   146.4MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   0.28%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:30:21.801236
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4772.41%   146.6MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   0.11%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:30:23.822162
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4796.99%   146.4MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   0.04%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:30:25.843865
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4798.58%   145.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   0.05%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:30:27.864186
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4803.67%   145.6MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   0.05%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:30:29.884494
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4784.55%   145.3MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   0.05%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:30:31.906471
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4796.68%   145.1MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   0.08%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:30:33.929455
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4816.44%   145MiB / 96GiB      0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:30:35.943739
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4811.17%   144.8MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:30:37.968209
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4816.69%   144.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:30:39.989534
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4802.89%   144.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:30:42.011826
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4792.90%   144.6MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   0.03%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:30:44.036114
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4873.32%   146.9MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3835.31%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:30:46.056548
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4894.82%   146.3MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3768.88%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:30:48.087918
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4894.15%   144.8MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3765.29%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:30:50.113356
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4882.28%   144.3MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3742.60%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:30:52.129762
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4878.04%   144.2MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3728.14%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:30:54.150547
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4875.07%   144MiB / 96GiB      0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3754.77%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:30:56.168150
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4894.59%   143.9MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3735.38%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:30:58.189176
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4895.95%   143.9MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3768.42%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:00.209596
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4909.82%   143.9MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3745.74%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:02.227685
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4872.51%   143.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3733.97%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:04.247581
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4824.71%   143.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3727.37%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:06.266926
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4876.60%   143.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3741.67%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:08.284738
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4902.55%   143.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3753.40%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:10.307618
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4852.81%   143.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3723.43%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:12.323126
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4900.74%   144.5MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3749.25%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:14.342137
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4873.77%   144.2MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3712.58%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:16.360697
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4866.47%   144MiB / 96GiB      0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3768.52%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:18.380514
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4890.84%   144MiB / 96GiB      0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3723.68%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:20.398144
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4849.66%   144MiB / 96GiB      0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3820.19%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:22.414083
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4854.40%   144MiB / 96GiB      0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3748.37%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:24.435186
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4865.12%   143.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3715.01%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:26.456068
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4887.90%   143.7MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3748.05%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:28.470518
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4867.30%   146.1MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3729.69%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:30.489098
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4887.66%   145.3MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3792.82%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:32.503658
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4852.63%   144.8MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3753.29%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:34.521416
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4925.59%   144.5MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3764.30%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:36.538129
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4857.01%   144.2MiB / 96GiB    0.15%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3770.61%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:38.549943
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+f02d75833461   llama        4050.60%   2.107GiB / 96GiB    2.19%     0B / 0B         10.8GB / 0B       48
+7fbd3caa67b9   pgbench-50   3867.98%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:40.560413
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   4429.55%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+e6bff3b333a9   llama        102.79%    92.87MiB / 96GiB    0.09%     0B / 0B         0B / 0B           1
+2025-02-17 01:31:42.576031
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4870.36%   118.1MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3711.18%   15.32GiB / 96GiB    15.95%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:44.590844
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4867.98%   118.7MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3768.67%   15.32GiB / 96GiB    15.95%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:46.602395
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4848.79%   117.2MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3838.88%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:48.619915
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4866.58%   118.4MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3753.90%   15.32GiB / 96GiB    15.95%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:50.631915
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4879.98%   117.8MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3757.02%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:52.643733
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4828.66%   117.1MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3734.15%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:54.654936
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4885.00%   116.8MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3769.31%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:56.668176
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4878.24%   116.3MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3736.92%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:31:58.679695
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4881.64%   117.4MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3799.69%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:00.691667
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4875.97%   116.5MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3781.93%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:02.706051
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4858.96%   115.4MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3985.00%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:04.718378
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4882.63%   115.3MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3888.35%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:06.727965
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4854.22%   114.9MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3930.92%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:08.738974
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4811.20%   116.5MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3991.49%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:10.751057
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4838.74%   115.9MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4022.58%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:12.761727
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4806.90%   118.3MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3979.36%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:14.776972
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4858.95%   117.1MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3931.44%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:16.785474
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4878.97%   116.6MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3983.43%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:18.797622
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4825.06%   117.9MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3964.21%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:20.809332
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4839.58%   117.3MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3981.21%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:22.820579
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4864.06%   116.7MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3978.88%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:24.831942
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4851.80%   117.5MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4000.81%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:26.842686
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4829.74%   116.8MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3837.95%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:28.853491
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4491.22%   116.1MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4201.24%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:30.866690
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4813.40%   115.3MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4012.76%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:32.878414
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4840.72%   115.9MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4005.00%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:34.890037
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4794.43%   115.1MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3760.19%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:36.902250
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4814.67%   115MiB / 96GiB      0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3835.06%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:38.916084
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4629.22%   116.2MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4126.53%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:40.929378
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4756.91%   116MiB / 96GiB      0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3898.28%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:42.941471
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4511.71%   116.4MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4155.36%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:44.950342
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4666.64%   115.9MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4051.11%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:46.964051
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4802.47%   115.9MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3987.56%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:48.974180
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4815.23%   115.4MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4003.59%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:50.984969
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4792.43%   115.2MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4030.87%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:52.997874
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4722.10%   116.1MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4030.90%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:55.012238
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4630.70%   117.6MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4098.82%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:57.019978
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4742.38%   115.9MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3994.57%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:32:59.032938
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4841.38%   115.3MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3949.27%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:01.044886
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4551.19%   114.9MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4176.20%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:03.053306
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4678.27%   114.6MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4033.14%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:05.063990
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4689.69%   118.1MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4067.49%   15.32GiB / 96GiB    15.95%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:07.077829
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4732.26%   116.1MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4024.64%   15.32GiB / 96GiB    15.95%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:09.085464
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4549.94%   116MiB / 96GiB      0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4148.34%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:11.097190
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4829.11%   115.4MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3999.91%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:13.109739
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4720.99%   114.9MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4029.13%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:15.119306
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4568.49%   117.6MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4130.04%   15.32GiB / 96GiB    15.95%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:17.130380
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4459.19%   116MiB / 96GiB      0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4239.99%   15.32GiB / 96GiB    15.95%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:19.141092
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4796.58%   115.3MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3989.12%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:21.151429
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4572.50%   116.4MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4172.92%   15.32GiB / 96GiB    15.95%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:23.162135
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4712.13%   115.8MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4017.05%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:25.173460
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4701.56%   115.1MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4039.63%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:27.184989
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4573.72%   114.7MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4083.20%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:29.193714
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4713.77%   114.7MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4117.01%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:31.205536
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4654.31%   115.4MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4116.07%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:33.215923
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4696.28%   114.8MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4104.29%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:35.230752
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4710.93%   114.8MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4062.36%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:37.241568
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4647.81%   114.6MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4051.77%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:39.262011
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4779.17%   114.6MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3995.51%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:41.273477
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4452.01%   116MiB / 96GiB      0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4251.47%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:43.282716
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4772.87%   115.3MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3977.39%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:45.296985
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4768.15%   115.2MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4022.53%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:47.306014
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4553.13%   115MiB / 96GiB      0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4125.42%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:49.317062
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4585.45%   114.7MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4111.56%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:51.329000
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4695.73%   114.6MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3971.35%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:53.339500
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4691.80%   114.6MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4087.25%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:55.351206
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4841.60%   114.6MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3957.83%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:57.361706
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4803.49%   114.6MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4021.47%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:33:59.373058
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4517.47%   115.2MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4213.69%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:34:01.383142
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4619.64%   115MiB / 96GiB      0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4073.61%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:34:03.395924
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4650.82%   114.6MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4077.40%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:34:05.407336
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4889.56%   114.6MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3899.27%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:34:07.417740
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4876.46%   114.6MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3901.68%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:34:09.429284
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4705.07%   114.5MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4037.09%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:34:11.441040
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4786.19%   115.6MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3906.46%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:34:13.451096
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4757.27%   115.4MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3999.95%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:34:15.463243
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4674.42%   115.4MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4056.81%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:34:17.473869
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4791.02%   115MiB / 96GiB      0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3985.74%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:34:19.485248
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4856.07%   115MiB / 96GiB      0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4021.07%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:34:21.497110
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4674.17%   114.6MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4050.05%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:34:23.506870
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4619.93%   114.5MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4124.84%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:34:25.518889
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4596.39%   114.5MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4089.31%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:34:27.526761
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4662.16%   115MiB / 96GiB      0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4002.50%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:34:29.537467
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4659.19%   114.7MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4048.06%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:34:31.547937
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4796.74%   114.6MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3917.01%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:34:33.559089
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4812.17%   114.6MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3947.96%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:34:35.570166
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4726.23%   114.6MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4002.60%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:34:37.583848
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4472.80%   115.4MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4226.33%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:34:39.593963
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4647.42%   115.1MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4040.29%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:34:41.609286
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4692.26%   114.7MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   4010.27%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:34:43.620651
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4870.20%   114.7MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3897.87%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:34:45.632070
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4837.10%   114.6MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3913.09%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:34:47.643364
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4882.99%   114.6MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3915.07%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:34:49.655120
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4914.81%   115.3MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3858.69%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:34:51.665666
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4893.69%   115.3MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   3856.17%   15.32GiB / 96GiB    15.96%    1.61kB / 906B   23.8MB / 31.9GB   62
+2025-02-17 01:34:53.677920
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4784.11%   115.2MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   741.25%    15.23GiB / 96GiB    15.87%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:34:55.687399
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4796.91%   115.2MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.87%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:34:57.700201
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4801.07%   115.2MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.87%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:34:59.714204
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4773.80%   115.2MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.87%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:01.725804
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4765.80%   115.7MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.64%      15.23GiB / 96GiB    15.87%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:03.736761
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4796.39%   115.7MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.87%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:05.748947
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4774.08%   115.7MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.87%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:07.759988
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4777.89%   115.7MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.87%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:09.774475
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4772.84%   115.7MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.87%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:11.786211
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4798.45%   117.2MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.01%      15.23GiB / 96GiB    15.87%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:13.800230
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4790.41%   117.2MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.87%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:15.813196
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4807.43%   119.9MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.87%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:17.825236
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4776.14%   119.7MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.87%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:19.839557
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4760.16%   119.7MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.20%      15.23GiB / 96GiB    15.87%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:21.857704
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4802.53%   119.3MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.06%      15.23GiB / 96GiB    15.87%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:23.869934
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4783.11%   119.1MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.02%      15.23GiB / 96GiB    15.87%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:25.884936
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4783.89%   119.9MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.03%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:27.903845
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4826.98%   119.3MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.04%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:29.931298
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4782.51%   120MiB / 96GiB      0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.03%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:31.946328
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4773.55%   119.6MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.07%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:33.965996
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4794.89%   119MiB / 96GiB      0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:35.988695
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4809.73%   118.3MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:38.009583
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4792.32%   117.3MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:40.030167
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4782.50%   117.8MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:42.047680
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4821.63%   117.4MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.03%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:44.070534
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4780.13%   118.8MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:46.098343
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4800.48%   117.9MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:48.112274
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4817.40%   117.7MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:50.130580
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4805.62%   117.6MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:52.148238
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4798.50%   117.4MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.01%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:54.164183
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4777.93%   116.8MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:56.190352
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4816.78%   116.2MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:35:58.206590
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4800.68%   116.2MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:00.223871
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4802.74%   116.1MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:02.242515
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4817.80%   116MiB / 96GiB      0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.02%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:04.256643
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4807.16%   116.2MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:06.278615
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4816.75%   115.8MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:08.297763
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4796.56%   115.8MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:10.313914
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4785.62%   115.3MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:12.335018
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4811.53%   115MiB / 96GiB      0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.01%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:14.340810
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4768.46%   115MiB / 96GiB      0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:16.360508
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4777.36%   115.7MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:18.382790
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4806.99%   115.7MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:20.396813
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4798.43%   115.7MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:22.413782
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4804.70%   115.6MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.02%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:24.435209
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4773.50%   115.5MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:26.451845
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4766.89%   115.3MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:28.472491
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4791.86%   115.2MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:30.492918
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4748.68%   115.2MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:32.513201
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4786.12%   115.1MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:34.532748
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4775.18%   116.6MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:36.550783
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4775.82%   116.5MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:38.572763
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4771.06%   116.4MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:40.590381
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4787.81%   116MiB / 96GiB      0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:42.607946
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4794.62%   115.9MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:44.624466
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4799.63%   115.9MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:46.645424
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4813.78%   116.6MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:48.668426
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4791.49%   116.3MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:50.686505
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4813.35%   116MiB / 96GiB      0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:52.706207
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4800.15%   116MiB / 96GiB      0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:54.727319
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4809.36%   115.9MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:56.748709
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4764.25%   115.8MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:36:58.776814
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4763.36%   116.2MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:37:00.793316
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4783.11%   116MiB / 96GiB      0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   1.18%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:37:02.815874
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4793.20%   115.9MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:37:04.827804
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4807.67%   115.8MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:37:06.843661
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4776.57%   115.7MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:37:08.858879
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4778.73%   115.7MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:37:10.877093
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4801.03%   115.4MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:37:12.892613
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4800.01%   115.3MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:37:14.907816
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4802.83%   115.3MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:37:16.925305
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4788.61%   115.3MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:37:18.944454
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4799.70%   115.1MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:37:20.959736
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4815.14%   115.1MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:37:22.978158
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+e6bff3b333a9   llama        4781.65%   115.1MiB / 96GiB    0.12%     0B / 0B         0B / 0B           48
+7fbd3caa67b9   pgbench-50   0.00%      15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6
+2025-02-17 01:37:24.997570
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.61kB / 906B   23.8MB / 31.9GB   6

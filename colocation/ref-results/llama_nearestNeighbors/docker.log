@@ -1,0 +1,901 @@
+2025-02-17 08:05:35.574365
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:36.197167
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:36.816056
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:37.435435
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:38.054090
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:38.674209
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:39.293004
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:39.911276
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:40.528732
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:41.145821
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:41.763967
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:42.382738
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:42.999841
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:43.618774
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:44.235924
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:44.853589
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:45.471072
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:46.088656
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:46.705924
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:47.324519
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:47.943909
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:48.565488
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:49.183831
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:49.800279
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:50.419160
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:51.037743
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:51.655203
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:52.273671
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:52.893236
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:53.511529
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:54.129143
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:54.747319
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 08:05:55.364805
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+               --        0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+               --        0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+2025-02-17 08:05:55.984874
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O    PIDS
+485c4866afd5   pbbs_nearestNeighbors   74.51%     2.606GiB / 96GiB    2.71%     0B / 0B   851MB / 0B   52
+f7dbb608ab64   llama                   3467.86%   118.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B      48
+2025-02-17 08:05:58.332466
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   79.26%     2.607GiB / 96GiB    2.72%     0B / 0B   1.72GB / 0B   52
+f7dbb608ab64   llama                   4793.05%   119.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:00.351192
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   48.27%     2.609GiB / 96GiB    2.72%     0B / 0B   2.48GB / 0B   52
+f7dbb608ab64   llama                   4788.98%   118.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:02.367702
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   4792.00%   5.885GiB / 96GiB    6.13%     0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4773.19%   116.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:04.381388
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   4755.69%   11.89GiB / 96GiB    12.38%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4740.70%   118.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:06.395930
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   4795.48%   24.06GiB / 96GiB    25.07%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4685.76%   118.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:08.405052
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   4838.67%   48.12GiB / 96GiB    50.12%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4079.30%   117.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:10.417116
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   3864.36%   52.36GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4823.76%   116.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:12.431275
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   4776.70%   52.36GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4794.35%   116MiB / 96GiB      0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:15.683863
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   4785.18%   52.36GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4549.50%   119.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:17.694224
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   4786.76%   52.36GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4781.82%   119MiB / 96GiB      0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:19.709511
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.00%      52.36GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4752.24%   119MiB / 96GiB      0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:21.720805
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.00%      52.36GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4799.21%   118.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:23.732610
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.00%      52.36GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4788.85%   119MiB / 96GiB      0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:25.743413
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.00%      52.36GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4782.77%   119.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:27.754002
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.00%      52.36GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4784.10%   119.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:29.764957
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.00%      52.36GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4792.13%   119.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:31.776201
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.00%      52.36GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4785.45%   119.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:33.787201
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.00%      52.36GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4770.33%   119.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:35.799905
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.00%      52.36GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4796.26%   119.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:37.811083
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.00%      52.36GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4776.72%   119.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:39.821167
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.00%      52.36GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4793.96%   119.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:41.833997
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.00%      52.36GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4794.94%   119.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:43.849349
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.00%      52.36GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4775.39%   118.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:45.861728
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.00%      52.36GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4795.31%   118.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:47.876787
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.00%      52.36GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4778.85%   118.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:49.887259
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.00%      52.36GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4796.27%   118.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:51.903979
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.00%      52.36GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4804.59%   118.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:53.917799
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.00%      52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4782.76%   120.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:55.931934
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.00%      52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4797.12%   119.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:57.949843
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.00%      52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4812.95%   119.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:06:59.962935
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.01%      52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4791.80%   120.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:07:01.983332
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.01%      52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4800.18%   120.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:07:03.998142
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.01%      52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4791.33%   119.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:07:06.015031
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.00%      52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4815.03%   119.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:07:08.032060
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.01%      52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4785.04%   119.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:07:10.047115
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.01%      52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4787.31%   119.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:07:12.062587
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.09%      52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4772.64%   119.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:07:14.079267
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.18%      52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4794.66%   119.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:07:16.100159
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.17%      52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4776.10%   119MiB / 96GiB      0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:07:18.115925
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.14%      52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4782.46%   119MiB / 96GiB      0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:07:20.130465
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.18%      52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4786.46%   118.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:07:22.149293
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.10%      52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4794.15%   118.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:07:24.167861
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.17%      52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4792.64%   118.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:07:26.186448
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.06%      52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4769.41%   118.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:07:28.201767
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.19%      52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4781.93%   118.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:07:30.215941
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.15%      52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4805.21%   118.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:07:32.236155
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.17%      52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4805.41%   119.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:07:34.253267
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.20%      52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4781.37%   118.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:07:36.277618
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.06%      52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4795.99%   118.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:07:38.295958
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.30%      52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4785.94%   118.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:07:40.313454
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.16%      52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4786.52%   117.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:07:42.331415
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.12%      52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4784.77%   116.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:07:44.354837
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.15%      52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+f7dbb608ab64   llama                   4797.63%   116.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:07:46.373228
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.07%     52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:07:48.380805
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.06%     52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:07:50.385621
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.06%     52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:07:52.389905
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.06%     52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:07:54.396571
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.06%     52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:07:56.401968
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.05%     52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:07:58.404733
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.05%     52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:08:00.410301
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.05%     52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:08:02.415107
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.05%     52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:08:04.419586
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.06%     52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:08:06.424966
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.05%     52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:08:08.430568
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.05%     52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:08:10.437190
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.05%     52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:08:12.442227
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.05%     52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:08:14.447196
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.05%     52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:08:16.452990
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.06%     52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:08:18.458154
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.06%     52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:08:20.464342
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.06%     52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:08:22.468763
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   0.07%     52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:08:24.472970
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+485c4866afd5   pbbs_nearestNeighbors   2009.97%   52.35GiB / 96GiB    54.54%    0B / 0B   2.75GB / 0B   52
+35c27c7d59fd   llama                   2488.74%   117.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+2025-02-17 08:08:27.499795
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4770.14%   118.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4809.14%   52.36GiB / 96GiB    54.55%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:08:30.913343
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4782.61%   118.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4791.79%   52.36GiB / 96GiB    54.55%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:08:32.930445
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4745.34%   117.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4787.82%   52.36GiB / 96GiB    54.55%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:08:34.947294
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4617.49%   118.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4765.22%   52.37GiB / 96GiB    54.55%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:08:36.962653
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4649.86%   118MiB / 96GiB      0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4801.00%   52.37GiB / 96GiB    54.55%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:08:38.971286
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4629.44%   118MiB / 96GiB      0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4820.60%   52.37GiB / 96GiB    54.55%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:08:40.984145
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4752.96%   116.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4792.81%   52.37GiB / 96GiB    54.55%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:08:43.002558
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4771.20%   115.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4770.87%   52.37GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:08:45.014715
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4755.12%   115.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4808.03%   52.37GiB / 96GiB    54.55%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:08:47.032116
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4781.45%   115.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4792.76%   52.37GiB / 96GiB    54.55%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:08:50.237060
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4771.34%   115.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4773.90%   52.37GiB / 96GiB    54.55%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:08:52.257337
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4787.31%   115.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4805.12%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:08:54.272336
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4742.05%   115.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4810.17%   52.37GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:08:56.285265
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4761.25%   115.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4792.13%   52.37GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:08:59.561969
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4793.82%   115.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4791.34%   52.37GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:09:01.580867
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4780.50%   115.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4826.52%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:09:04.775161
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4776.92%   115.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4791.41%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:09:08.348684
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4755.95%   115.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4811.03%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:09:10.367034
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4787.74%   115.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4809.89%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:09:12.378754
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4761.09%   115.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4792.10%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:09:15.728520
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4760.36%   115.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4810.96%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:09:17.742922
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4761.86%   115.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4774.46%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:09:19.759108
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4754.04%   115.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4775.51%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:09:21.776586
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4633.23%   115.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4801.21%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:09:23.786951
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4662.53%   115.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4807.91%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:09:25.797211
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4786.97%   115.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4791.79%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:09:27.810411
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4772.28%   115.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4807.68%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:09:29.821531
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4800.88%   115.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4791.38%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:09:33.127420
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4671.91%   114.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4785.97%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:09:35.136137
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4752.43%   114.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4792.31%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:09:37.151828
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4740.03%   114.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4770.59%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:09:39.164070
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4768.11%   114.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4791.53%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:09:41.178479
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4645.37%   114.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4800.19%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:09:44.555022
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4706.85%   114.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4797.44%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:09:46.565649
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4760.15%   114.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4774.26%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:09:49.991382
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4778.25%   114.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4789.44%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:09:52.007616
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4800.87%   114.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4789.77%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:09:54.021253
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4806.43%   114.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4788.67%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:09:57.418468
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4782.72%   114.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4791.33%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:10:00.773542
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4777.26%   114.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4788.12%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:10:03.934054
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4772.77%   114.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4792.56%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:10:05.950260
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4758.42%   114.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4792.41%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:10:07.961746
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4787.01%   114.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4773.71%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:10:11.308973
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4778.16%   115.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4809.06%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:10:13.325532
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4772.86%   115.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4789.95%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:10:15.342759
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4754.24%   114.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4790.46%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:10:18.808642
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4792.60%   114.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4790.23%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:10:21.910410
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4785.17%   115.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4789.58%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:10:23.925102
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4771.78%   115.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4771.98%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:10:27.307089
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4654.10%   115.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4821.65%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:10:29.314650
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4721.32%   115MiB / 96GiB      0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4813.83%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:10:31.329899
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4779.26%   115MiB / 96GiB      0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4804.64%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:10:33.341712
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4394.91%   114.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4837.30%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:10:35.351573
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4409.19%   114.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4821.60%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:10:37.369413
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4423.12%   114.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4815.58%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:10:39.380932
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4785.48%   114.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4814.94%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:10:41.391870
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4644.03%   114.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4784.23%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:10:43.399792
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4763.28%   114.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4789.79%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:10:45.412092
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4780.80%   114.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4784.26%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:10:48.831169
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4765.99%   114.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4800.84%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:10:50.849124
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4778.54%   114.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4801.16%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:10:54.188695
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4780.06%   114.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4779.56%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:10:57.472115
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4691.63%   114.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4776.93%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:10:59.480502
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4652.88%   114.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4784.32%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:11:01.492175
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4514.92%   114.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4791.73%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:11:03.500037
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4568.76%   114.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4785.45%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:11:05.516698
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4726.92%   114.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4795.81%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:11:07.522048
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4761.83%   114.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4778.14%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:11:09.533909
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4787.45%   114.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4810.63%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:11:12.777943
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4759.72%   115MiB / 96GiB      0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4798.53%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:11:14.785224
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4785.67%   114.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4812.58%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:11:16.806620
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4769.18%   114.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4775.02%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:11:18.816880
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4775.77%   114.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4807.49%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:11:20.831082
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4789.73%   114.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4807.61%   52.38GiB / 96GiB    54.56%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:11:23.852588
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4777.79%   114.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4793.00%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:11:25.866746
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4778.72%   115.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4790.67%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:11:27.883343
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4776.21%   115MiB / 96GiB      0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4790.04%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:11:31.147220
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4756.75%   115.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4767.14%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:11:33.159375
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4758.79%   115MiB / 96GiB      0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4801.11%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:11:35.171862
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4777.92%   115MiB / 96GiB      0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4791.74%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:11:38.489563
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4765.25%   115.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4793.04%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:11:41.567377
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4795.80%   115.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4810.53%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:11:43.582426
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4765.29%   115.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4792.06%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:11:46.713484
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4775.07%   115.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4772.88%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:11:48.732863
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4788.41%   115.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4779.99%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:11:50.744040
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4780.94%   115.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4810.46%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:11:52.757046
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4778.56%   115.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4787.83%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:11:56.151927
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4762.04%   115.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4789.49%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:11:59.176656
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4786.07%   115.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4781.66%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:12:01.204439
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4688.30%   115.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4824.37%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:12:03.408493
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4646.32%   115.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4789.39%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:12:05.420361
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4673.29%   115.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4767.95%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:12:07.439930
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4771.42%   114.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4758.03%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:12:10.553043
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4769.88%   114.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4772.28%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:12:13.710601
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4772.18%   114.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4810.77%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:12:17.161851
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4758.46%   114.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4792.33%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:12:19.177571
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4751.95%   115.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4770.67%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:12:21.187670
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4704.77%   115.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4785.63%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:12:23.200545
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4674.65%   115.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4796.44%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:12:25.220295
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4751.05%   114.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4787.29%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:12:27.238021
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4758.82%   114.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4792.84%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:12:29.248683
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4824.15%   114.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4772.96%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:12:32.372496
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4777.17%   114.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4791.11%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:12:34.378358
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4758.63%   114.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4809.37%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:12:36.394207
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4786.12%   114.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4773.26%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:12:39.574416
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4681.11%   115.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4819.43%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:12:42.954672
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4799.18%   114.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4789.92%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:12:44.971539
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4760.54%   115.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4791.76%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:12:46.988645
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4763.30%   115.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4792.08%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:12:49.003042
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4622.94%   115.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4789.37%   52.38GiB / 96GiB    54.57%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:12:52.053980
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4771.76%   115.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   4259.82%   51.24GiB / 96GiB    53.37%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:12:54.067067
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4788.36%   115.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   98.96%     32.04GiB / 96GiB    33.37%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:12:56.081075
+CONTAINER ID   NAME                    CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+35c27c7d59fd   llama                   4789.84%   115.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B       48
+485c4866afd5   pbbs_nearestNeighbors   100.26%    14.3GiB / 96GiB     14.90%    0B / 0B   2.75GB / 0B   52
+2025-02-17 08:12:58.095083
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4804.19%   117.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:00.107832
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4801.34%   118.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:02.115483
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4796.73%   118.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:04.125262
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4798.43%   118.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:06.133100
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4792.81%   120MiB / 96GiB      0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:08.141310
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4800.10%   120MiB / 96GiB      0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:10.150664
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4806.81%   120MiB / 96GiB      0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:12.157663
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4792.40%   120.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:14.168187
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4801.33%   119.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:16.176326
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4782.96%   119.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:18.189059
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4806.57%   119.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:20.201422
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4796.71%   119.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:22.212795
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4765.19%   119.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:24.228234
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4814.18%   118.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:26.234379
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4817.51%   118.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:28.245923
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4790.09%   117.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:30.256391
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4760.82%   117.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:32.269344
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4788.05%   117.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:34.281371
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4793.94%   117.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:36.292816
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4809.09%   116.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:38.303196
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4826.87%   116.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:40.316441
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4780.76%   116.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:42.324113
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4788.95%   116MiB / 96GiB      0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:44.337330
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4814.88%   117.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:46.347721
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4783.66%   117MiB / 96GiB      0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:48.357617
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4788.05%   116.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:50.369518
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4799.23%   116.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:52.381201
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4772.21%   116.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:54.392381
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4789.84%   116.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:56.408016
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4785.89%   116.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:13:58.416373
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4781.57%   116MiB / 96GiB      0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:14:00.432170
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4785.01%   115.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:14:02.442543
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4765.26%   115.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:14:04.449260
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+35c27c7d59fd   llama     4786.35%   117MiB / 96GiB      0.12%     0B / 0B   0B / 0B     48
+2025-02-17 08:14:06.461003
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS

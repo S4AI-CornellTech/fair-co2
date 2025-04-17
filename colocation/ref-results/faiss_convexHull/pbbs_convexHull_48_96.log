@@ -1,0 +1,14 @@
+HOSTNAME: leo-clr-1
+running on 48 threads
+
+cd benchmarks/convexHull/quickHull ; make -s
+cd benchmarks/convexHull/quickHull ; numactl -i all ./testInputs -r 8 -p 48 -x -s 1739785865
+cd ../geometryData/data; make 2DonSphere_1000000000
+2DonSphere_1000000000 :  -r 8 -s 1739785865 : '55.742', '48.377', '48.575', '49.102', '48.438', '48.387', '46.802', '33.708', geomean = 46.993, start = 2025-02-17 09:51:05.617600, end = 2025-02-17 09:57:24.753800, startup = 299.510917, shutdown = 2.983663
+quickHull : 48 : geomean of mins = 33.708, geomean of geomeans = 46.993
+Running only:  [['convexHull/quickHull', True, 0]]
+Extended Benchmarks
+Not Checking
+Running each test 8 times
+Running on at most 48 threads
+Starting at 1739785865

@@ -1,0 +1,14 @@
+HOSTNAME: leo-clr-1
+running on 48 threads
+
+cd benchmarks/suffixArray/parallelKS ; make -s
+cd benchmarks/suffixArray/parallelKS ; numactl -i all ./testInputs -r 8 -p 48 -x -s 1739778487
+cd ../sequenceData/data; make trigramString_500000000000
+trigramString_500000000000 :  -r 8 -s 1739778487 : '51.916', '51.686', '51.377', '52.548', '51.805', '52.451', '52.21', '50.654', geomean = 51.828, start = 2025-02-17 07:48:08.286500, end = 2025-02-17 07:55:06.309000, startup = 150.736374, shutdown = 2.428344
+parallelKS : 48 : geomean of mins = 50.654, geomean of geomeans = 51.828
+Running only:  [['suffixArray/parallelKS', True, 1]]
+Extended Benchmarks
+Not Checking
+Running each test 8 times
+Running on at most 48 threads
+Starting at 1739778487

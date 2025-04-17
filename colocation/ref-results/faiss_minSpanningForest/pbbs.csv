@@ -1,0 +1,2 @@
+,workload,label,rounds,cpus,memory,times,geomean,start,end,start_seconds,end_seconds,duration
+0,parallelFilterKruskal,minSpanningForest,30,48,155,"[13.27, 12.674, 10.422, 10.527, 10.836, 10.64, 11.237, 11.216, 10.785, 11.216, 11.006, 10.576, 11.437, 11.383, 10.8, 11.19]",11.177912230180207,2025-02-19 04:21:22.886,2025-02-19 04:24:22.101,0.0,179.215,179.215

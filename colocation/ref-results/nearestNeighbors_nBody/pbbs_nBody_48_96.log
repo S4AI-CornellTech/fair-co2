@@ -1,0 +1,14 @@
+HOSTNAME: pbbs-sweep-clr-0
+running on 48 threads
+
+cd benchmarks/nBody/parallelCK ; make -s
+cd benchmarks/nBody/parallelCK ; numactl -i all ./testInputs -r 6 -p 48 -x -s 1731547926
+cd ../geometryData/data; make 3Dplummer_10000000
+3Dplummer_10000000 :  -r 6 -s 1731547926 : '31.725', '31.903', '32.146', '32.025', '27.923', '18.507', geomean = 28.523, start = 2024-11-14 01:32:06.914400, end = 2024-11-14 01:35:01.146500, startup = 68.547528, shutdown = 3.264822
+parallelCK : 48 : geomean of mins = 18.507, geomean of geomeans = 28.523
+Running only:  [['nBody/parallelCK', True, 0]]
+Extended Benchmarks
+Not Checking
+Running each test 6 times
+Running on at most 48 threads
+Starting at 1731547926

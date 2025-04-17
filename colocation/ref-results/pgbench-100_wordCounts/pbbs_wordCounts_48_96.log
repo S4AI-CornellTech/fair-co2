@@ -1,0 +1,14 @@
+HOSTNAME: leo-clr-1
+running on 48 threads
+
+cd benchmarks/wordCounts/histogram ; make -s
+cd benchmarks/wordCounts/histogram ; numactl -i all ./testInputs -r 60 -p 48 -x -s 1739751623
+cd ../sequenceData/data; make trigramString_500000000000
+trigramString_500000000000 :  -r 60 -s 1739751623 : '3.657', '3.778', '3.757', '3.777', '3.749', '3.747', '3.753', '3.76', '3.754', '3.756', '3.789', '3.755', '3.83', '3.743', '3.797', '3.797', '3.816', '3.736', '3.797', '3.787', '3.825', '3.785', '3.777', '3.78', '3.787', '3.768', '3.749', '3.776', '3.786', '3.815', '3.764', '3.778', '3.767', '3.769', '3.78', '3.784', '3.794', '3.819', '3.814', '3.784', '3.789', '3.805', '3.786', '3.816', '3.792', '3.867', '3.785', '3.791', '3.787', '3.808', '3.8', '3.796', '3.818', '3.83', '3.8', '3.846', '3.869', '3.848', '3.844', '3.871', geomean = 3.79, start = 2025-02-17 00:20:23.666400, end = 2025-02-17 00:24:11.753100, startup = 120.231392, shutdown = 0.723576
+histogram : 48 : geomean of mins = 3.657, geomean of geomeans = 3.79
+Running only:  [['wordCounts/histogram', True, 0]]
+Extended Benchmarks
+Not Checking
+Running each test 60 times
+Running on at most 48 threads
+Starting at 1739751623

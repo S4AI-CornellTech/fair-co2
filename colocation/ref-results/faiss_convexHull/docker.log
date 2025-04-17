@@ -1,0 +1,1399 @@
+2025-02-17 09:45:45.891204
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:45:46.513530
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:45:47.132344
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:45:47.752944
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:45:48.373102
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:45:48.992696
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:45:49.611703
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:45:50.229963
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:45:50.848968
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:45:51.468836
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:45:52.089208
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:45:52.707809
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:45:53.325162
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:45:53.945140
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:45:54.564627
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:45:55.183011
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:45:55.802404
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:45:56.420201
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:45:57.036563
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:45:57.654394
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:45:58.272733
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:45:58.891331
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:45:59.508741
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:46:00.126898
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:46:00.745692
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:46:01.365774
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:46:01.985525
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:46:02.604971
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:46:03.223502
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:46:03.843520
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:46:04.462323
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:46:05.079820
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 09:46:05.698762
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+               --        0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+               --        0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+2025-02-17 09:46:06.318349
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+c721ddc5afdd   pbbs_convexHull   4792.67%   24.21GiB / 96GiB    25.21%    0B / 0B   2.65MB / 0B     52
+db397bc7edfa   faiss             100.29%    91.33MiB / 96GiB    0.09%     0B / 0B   9.2MB / 4.1kB   5
+2025-02-17 09:46:08.647386
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+c721ddc5afdd   pbbs_convexHull   18.50%    34.54GiB / 96GiB    35.98%    0B / 0B   239MB / 0B      52
+db397bc7edfa   faiss             18.86%    381.2MiB / 96GiB    0.39%     0B / 0B   347MB / 4.1kB   19
+2025-02-17 09:46:10.659711
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+c721ddc5afdd   pbbs_convexHull   40.42%    34.55GiB / 96GiB    35.99%    0B / 0B   1.17GB / 0B     52
+db397bc7edfa   faiss             99.84%    3.76GiB / 96GiB     3.92%     0B / 0B   407MB / 4.1kB   19
+2025-02-17 09:46:12.669070
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+c721ddc5afdd   pbbs_convexHull   40.20%    34.55GiB / 96GiB    35.99%    0B / 0B   2.11GB / 0B     52
+db397bc7edfa   faiss             99.49%    7.735GiB / 96GiB    8.06%     0B / 0B   407MB / 4.1kB   19
+2025-02-17 09:46:14.682258
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+c721ddc5afdd   pbbs_convexHull   31.05%    34.55GiB / 96GiB    35.99%    0B / 0B   2.77GB / 0B     52
+db397bc7edfa   faiss             99.68%    11.72GiB / 96GiB    12.21%    0B / 0B   407MB / 4.1kB   19
+2025-02-17 09:46:16.692628
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+c721ddc5afdd   pbbs_convexHull   31.25%    34.55GiB / 96GiB    35.99%    0B / 0B   3.43GB / 0B     52
+db397bc7edfa   faiss             100.36%   15.73GiB / 96GiB    16.39%    0B / 0B   407MB / 4.1kB   19
+2025-02-17 09:46:18.704454
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+c721ddc5afdd   pbbs_convexHull   30.89%    34.55GiB / 96GiB    35.99%    0B / 0B   4.1GB / 0B      52
+db397bc7edfa   faiss             100.10%   19.74GiB / 96GiB    20.57%    0B / 0B   407MB / 4.1kB   19
+2025-02-17 09:46:20.715606
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+c721ddc5afdd   pbbs_convexHull   39.95%    34.55GiB / 96GiB    35.99%    0B / 0B   4.98GB / 0B     52
+db397bc7edfa   faiss             99.83%    23.76GiB / 96GiB    24.75%    0B / 0B   407MB / 4.1kB   19
+2025-02-17 09:46:22.725864
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+c721ddc5afdd   pbbs_convexHull   42.57%    34.56GiB / 96GiB    36.00%    0B / 0B   6.04GB / 0B     52
+db397bc7edfa   faiss             99.60%    27.78GiB / 96GiB    28.94%    0B / 0B   407MB / 4.1kB   19
+2025-02-17 09:46:24.738109
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+c721ddc5afdd   pbbs_convexHull   30.93%    34.56GiB / 96GiB    36.00%    0B / 0B   6.85GB / 0B     52
+db397bc7edfa   faiss             99.78%    31.83GiB / 96GiB    33.15%    0B / 0B   407MB / 4.1kB   19
+2025-02-17 09:46:26.748137
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+c721ddc5afdd   pbbs_convexHull   30.78%    34.56GiB / 96GiB    36.00%    0B / 0B   7.5GB / 0B      52
+db397bc7edfa   faiss             99.89%    35.88GiB / 96GiB    37.38%    0B / 0B   407MB / 4.1kB   19
+2025-02-17 09:46:28.759104
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+c721ddc5afdd   pbbs_convexHull   30.86%    34.56GiB / 96GiB    36.00%    0B / 0B   8.16GB / 0B     52
+db397bc7edfa   faiss             100.18%   39.95GiB / 96GiB    41.62%    0B / 0B   407MB / 4.1kB   19
+2025-02-17 09:46:30.771164
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+c721ddc5afdd   pbbs_convexHull   37.86%    34.56GiB / 96GiB    36.00%    0B / 0B   8.93GB / 0B     52
+db397bc7edfa   faiss             100.17%   44GiB / 96GiB       45.83%    0B / 0B   407MB / 4.1kB   19
+2025-02-17 09:46:32.781257
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+c721ddc5afdd   pbbs_convexHull   41.48%    34.56GiB / 96GiB    36.00%    0B / 0B   9.96GB / 0B     52
+db397bc7edfa   faiss             99.77%    47.83GiB / 96GiB    49.82%    0B / 0B   407MB / 4.1kB   19
+2025-02-17 09:46:34.794569
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+c721ddc5afdd   pbbs_convexHull   34.37%    34.57GiB / 96GiB    36.01%    0B / 0B   10.9GB / 0B     52
+db397bc7edfa   faiss             100.03%   50.77GiB / 96GiB    52.88%    0B / 0B   407MB / 4.1kB   19
+2025-02-17 09:46:36.804602
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+c721ddc5afdd   pbbs_convexHull   29.84%    34.57GiB / 96GiB    36.01%    0B / 0B   11.6GB / 0B     52
+db397bc7edfa   faiss             99.70%    53.71GiB / 96GiB    55.95%    0B / 0B   407MB / 4.1kB   19
+2025-02-17 09:46:38.817276
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+c721ddc5afdd   pbbs_convexHull   29.35%    34.57GiB / 96GiB    36.01%    0B / 0B   12.3GB / 0B     52
+db397bc7edfa   faiss             99.92%    56.66GiB / 96GiB    59.02%    0B / 0B   407MB / 4.1kB   19
+2025-02-17 09:46:40.828890
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+c721ddc5afdd   pbbs_convexHull   32.24%    34.57GiB / 96GiB    36.01%    0B / 0B   13.1GB / 0B     52
+db397bc7edfa   faiss             99.73%    59.6GiB / 96GiB     62.08%    0B / 0B   407MB / 4.1kB   19
+2025-02-17 09:46:42.839392
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+c721ddc5afdd   pbbs_convexHull   40.20%    34.57GiB / 96GiB    36.01%    0B / 0B   14.1GB / 0B     52
+db397bc7edfa   faiss             99.90%    62.53GiB / 96GiB    65.14%    0B / 0B   407MB / 4.1kB   19
+2025-02-17 09:46:44.849013
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+c721ddc5afdd   pbbs_convexHull   37.21%    34.57GiB / 96GiB    36.02%    0B / 0B   15GB / 0B       52
+db397bc7edfa   faiss             99.25%    65.48GiB / 96GiB    68.21%    0B / 0B   407MB / 4.1kB   19
+2025-02-17 09:46:46.869225
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+c721ddc5afdd   pbbs_convexHull   29.65%    34.58GiB / 96GiB    36.02%    0B / 0B   15.7GB / 0B     52
+db397bc7edfa   faiss             99.85%    68.43GiB / 96GiB    71.28%    0B / 0B   407MB / 4.1kB   19
+2025-02-17 09:46:48.881028
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+c721ddc5afdd   pbbs_convexHull   29.80%    34.58GiB / 96GiB    36.02%    0B / 0B   16.4GB / 0B     52
+db397bc7edfa   faiss             99.90%    71.36GiB / 96GiB    74.33%    0B / 0B   407MB / 4.1kB   19
+2025-02-17 09:46:50.891925
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+c721ddc5afdd   pbbs_convexHull   18.00%    34.58GiB / 96GiB    36.02%    0B / 0B   17GB / 0B       52
+db397bc7edfa   faiss             27.25%    72.86GiB / 96GiB    75.90%    0B / 0B   609MB / 4.1kB   19
+2025-02-17 09:46:52.905047
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   17.87%    34.58GiB / 96GiB    36.02%    0B / 0B   17.4GB / 0B      52
+db397bc7edfa   faiss             24.73%    72.86GiB / 96GiB    75.90%    0B / 0B   1.02GB / 4.1kB   19
+2025-02-17 09:46:54.913773
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   17.79%    34.58GiB / 96GiB    36.02%    0B / 0B   17.9GB / 0B      52
+db397bc7edfa   faiss             24.71%    72.86GiB / 96GiB    75.90%    0B / 0B   1.44GB / 4.1kB   19
+2025-02-17 09:46:56.923949
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   17.68%    34.58GiB / 96GiB    36.02%    0B / 0B   18.3GB / 0B      52
+db397bc7edfa   faiss             28.28%    72.86GiB / 96GiB    75.90%    0B / 0B   1.85GB / 4.1kB   19
+2025-02-17 09:46:58.935020
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   17.64%    34.58GiB / 96GiB    36.02%    0B / 0B   18.7GB / 0B      52
+db397bc7edfa   faiss             24.88%    72.86GiB / 96GiB    75.90%    0B / 0B   2.26GB / 4.1kB   19
+2025-02-17 09:47:00.945834
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   17.95%    34.58GiB / 96GiB    36.02%    0B / 0B   19.1GB / 0B      52
+db397bc7edfa   faiss             24.72%    72.86GiB / 96GiB    75.90%    0B / 0B   2.67GB / 4.1kB   19
+2025-02-17 09:47:02.957082
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   17.29%    34.58GiB / 96GiB    36.02%    0B / 0B   19.5GB / 0B      52
+db397bc7edfa   faiss             24.93%    72.86GiB / 96GiB    75.90%    0B / 0B   3.08GB / 4.1kB   19
+2025-02-17 09:47:04.967883
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+c721ddc5afdd   pbbs_convexHull   18.38%    34.58GiB / 96GiB    36.03%    0B / 0B   20GB / 0B       52
+db397bc7edfa   faiss             23.24%    72.87GiB / 96GiB    75.90%    0B / 0B   3.5GB / 4.1kB   19
+2025-02-17 09:47:06.981384
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   20.29%    34.59GiB / 96GiB    36.03%    0B / 0B   20.4GB / 0B      52
+db397bc7edfa   faiss             21.49%    72.87GiB / 96GiB    75.90%    0B / 0B   3.91GB / 4.1kB   19
+2025-02-17 09:47:08.990933
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   16.07%    34.59GiB / 96GiB    36.03%    0B / 0B   20.8GB / 0B      52
+db397bc7edfa   faiss             20.26%    72.87GiB / 96GiB    75.90%    0B / 0B   4.32GB / 4.1kB   19
+2025-02-17 09:47:11.004230
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   16.03%    34.59GiB / 96GiB    36.03%    0B / 0B   21.2GB / 0B      52
+db397bc7edfa   faiss             21.01%    72.87GiB / 96GiB    75.90%    0B / 0B   4.73GB / 4.1kB   19
+2025-02-17 09:47:13.012931
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   15.81%    34.59GiB / 96GiB    36.03%    0B / 0B   21.7GB / 0B      52
+db397bc7edfa   faiss             21.01%    72.87GiB / 96GiB    75.91%    0B / 0B   5.14GB / 4.1kB   19
+2025-02-17 09:47:15.024996
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   15.84%    34.59GiB / 96GiB    36.03%    0B / 0B   22.1GB / 0B      52
+db397bc7edfa   faiss             21.00%    72.87GiB / 96GiB    75.91%    0B / 0B   5.56GB / 4.1kB   19
+2025-02-17 09:47:17.034477
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   15.96%    34.59GiB / 96GiB    36.03%    0B / 0B   22.5GB / 0B      52
+db397bc7edfa   faiss             20.35%    72.87GiB / 96GiB    75.91%    0B / 0B   5.97GB / 4.1kB   19
+2025-02-17 09:47:19.045158
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   18.38%    34.59GiB / 96GiB    36.03%    0B / 0B   22.9GB / 0B      52
+db397bc7edfa   faiss             21.94%    72.87GiB / 96GiB    75.91%    0B / 0B   6.38GB / 4.1kB   19
+2025-02-17 09:47:21.055512
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   18.18%    34.59GiB / 96GiB    36.03%    0B / 0B   23.3GB / 0B      52
+db397bc7edfa   faiss             22.03%    72.87GiB / 96GiB    75.91%    0B / 0B   6.79GB / 4.1kB   19
+2025-02-17 09:47:23.065660
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+c721ddc5afdd   pbbs_convexHull   19.40%    34.59GiB / 96GiB    36.03%    0B / 0B   23.8GB / 0B     52
+db397bc7edfa   faiss             22.55%    72.87GiB / 96GiB    75.91%    0B / 0B   7.2GB / 4.1kB   19
+2025-02-17 09:47:25.078142
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   19.20%    34.59GiB / 96GiB    36.04%    0B / 0B   24.2GB / 0B      52
+db397bc7edfa   faiss             22.48%    72.87GiB / 96GiB    75.91%    0B / 0B   7.62GB / 4.1kB   19
+2025-02-17 09:47:27.090984
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   19.29%    34.59GiB / 96GiB    36.04%    0B / 0B   24.6GB / 0B      52
+db397bc7edfa   faiss             23.19%    72.88GiB / 96GiB    75.91%    0B / 0B   8.03GB / 4.1kB   19
+2025-02-17 09:47:29.100590
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   18.19%    34.6GiB / 96GiB     36.04%    0B / 0B   25GB / 0B        52
+db397bc7edfa   faiss             22.83%    72.88GiB / 96GiB    75.91%    0B / 0B   8.44GB / 4.1kB   19
+2025-02-17 09:47:31.113305
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   17.56%    34.6GiB / 96GiB     36.04%    0B / 0B   25.5GB / 0B      52
+db397bc7edfa   faiss             21.98%    72.88GiB / 96GiB    75.91%    0B / 0B   8.86GB / 4.1kB   19
+2025-02-17 09:47:33.122435
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   17.76%    34.6GiB / 96GiB     36.04%    0B / 0B   25.9GB / 0B      52
+db397bc7edfa   faiss             22.27%    72.88GiB / 96GiB    75.91%    0B / 0B   9.27GB / 4.1kB   19
+2025-02-17 09:47:35.132004
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   17.44%    34.6GiB / 96GiB     36.04%    0B / 0B   26.3GB / 0B      52
+db397bc7edfa   faiss             21.26%    72.88GiB / 96GiB    75.92%    0B / 0B   9.68GB / 4.1kB   19
+2025-02-17 09:47:37.143967
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   16.37%    34.6GiB / 96GiB     36.04%    0B / 0B   26.7GB / 0B      52
+db397bc7edfa   faiss             20.57%    72.88GiB / 96GiB    75.92%    0B / 0B   10.1GB / 4.1kB   19
+2025-02-17 09:47:39.154657
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   17.52%    34.6GiB / 96GiB     36.04%    0B / 0B   27.1GB / 0B      52
+db397bc7edfa   faiss             21.98%    72.88GiB / 96GiB    75.92%    0B / 0B   10.5GB / 4.1kB   19
+2025-02-17 09:47:41.164678
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   18.54%    34.6GiB / 96GiB     36.04%    0B / 0B   27.6GB / 0B      52
+db397bc7edfa   faiss             23.78%    72.88GiB / 96GiB    75.92%    0B / 0B   10.9GB / 4.1kB   19
+2025-02-17 09:47:43.174546
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   18.21%    34.6GiB / 96GiB     36.04%    0B / 0B   28GB / 0B        52
+db397bc7edfa   faiss             23.81%    72.88GiB / 96GiB    75.92%    0B / 0B   11.3GB / 4.1kB   19
+2025-02-17 09:47:45.183730
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   18.62%    34.6GiB / 96GiB     36.04%    0B / 0B   28.4GB / 0B      52
+db397bc7edfa   faiss             23.31%    72.88GiB / 96GiB    75.92%    0B / 0B   11.7GB / 4.1kB   19
+2025-02-17 09:47:47.197059
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   19.00%    34.6GiB / 96GiB     36.05%    0B / 0B   28.8GB / 0B      52
+db397bc7edfa   faiss             21.84%    72.88GiB / 96GiB    75.92%    0B / 0B   12.2GB / 4.1kB   19
+2025-02-17 09:47:49.206051
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   18.82%    34.6GiB / 96GiB     36.05%    0B / 0B   29.2GB / 0B      52
+db397bc7edfa   faiss             22.76%    72.92GiB / 96GiB    75.96%    0B / 0B   12.6GB / 4.1kB   19
+2025-02-17 09:47:51.216818
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+c721ddc5afdd   pbbs_convexHull   19.40%    34.61GiB / 96GiB    36.05%    0B / 0B   29.7GB / 0B    52
+db397bc7edfa   faiss             21.53%    72.92GiB / 96GiB    75.96%    0B / 0B   13GB / 4.1kB   19
+2025-02-17 09:47:53.228152
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   19.60%    34.61GiB / 96GiB    36.05%    0B / 0B   30.1GB / 0B      52
+db397bc7edfa   faiss             21.88%    72.92GiB / 96GiB    75.96%    0B / 0B   13.4GB / 4.1kB   19
+2025-02-17 09:47:55.240193
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   19.00%    34.61GiB / 96GiB    36.05%    0B / 0B   30.5GB / 0B      52
+db397bc7edfa   faiss             22.90%    72.92GiB / 96GiB    75.96%    0B / 0B   13.8GB / 4.1kB   19
+2025-02-17 09:47:57.250247
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   18.73%    34.61GiB / 96GiB    36.05%    0B / 0B   30.9GB / 0B      52
+db397bc7edfa   faiss             22.48%    72.93GiB / 96GiB    75.96%    0B / 0B   14.2GB / 4.1kB   19
+2025-02-17 09:47:59.260041
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   19.54%    34.61GiB / 96GiB    36.05%    0B / 0B   31.4GB / 0B      52
+db397bc7edfa   faiss             22.43%    72.93GiB / 96GiB    75.97%    0B / 0B   14.6GB / 4.1kB   19
+2025-02-17 09:48:01.273957
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+c721ddc5afdd   pbbs_convexHull   20.00%    34.61GiB / 96GiB    36.05%    0B / 0B   31.8GB / 0B    52
+db397bc7edfa   faiss             22.70%    72.93GiB / 96GiB    75.97%    0B / 0B   15GB / 4.1kB   19
+2025-02-17 09:48:03.282033
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   20.49%    34.61GiB / 96GiB    36.05%    0B / 0B   32.2GB / 0B      52
+db397bc7edfa   faiss             22.42%    72.93GiB / 96GiB    75.97%    0B / 0B   15.5GB / 4.1kB   19
+2025-02-17 09:48:05.294222
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   17.52%    34.61GiB / 96GiB    36.05%    0B / 0B   32.6GB / 0B      52
+db397bc7edfa   faiss             24.91%    72.93GiB / 96GiB    75.97%    0B / 0B   15.9GB / 4.1kB   19
+2025-02-17 09:48:07.304937
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   17.58%    34.61GiB / 96GiB    36.05%    0B / 0B   33GB / 0B        52
+db397bc7edfa   faiss             25.82%    72.93GiB / 96GiB    75.97%    0B / 0B   16.3GB / 4.1kB   19
+2025-02-17 09:48:09.314482
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   17.90%    34.61GiB / 96GiB    36.06%    0B / 0B   33.5GB / 0B      52
+db397bc7edfa   faiss             26.50%    72.93GiB / 96GiB    75.97%    0B / 0B   16.7GB / 4.1kB   19
+2025-02-17 09:48:11.325044
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   18.12%    34.61GiB / 96GiB    36.06%    0B / 0B   33.9GB / 0B      52
+db397bc7edfa   faiss             26.43%    72.94GiB / 96GiB    75.97%    0B / 0B   17.1GB / 4.1kB   19
+2025-02-17 09:48:13.336343
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   17.55%    34.62GiB / 96GiB    36.06%    0B / 0B   34.3GB / 0B      52
+db397bc7edfa   faiss             27.72%    73.11GiB / 96GiB    76.16%    0B / 0B   17.5GB / 4.1kB   19
+2025-02-17 09:48:15.346616
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   19.07%    34.62GiB / 96GiB    36.06%    0B / 0B   34.7GB / 0B      52
+db397bc7edfa   faiss             22.72%    73.25GiB / 96GiB    76.31%    0B / 0B   17.9GB / 4.1kB   19
+2025-02-17 09:48:17.358217
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   18.55%    34.62GiB / 96GiB    36.06%    0B / 0B   35.2GB / 0B      52
+db397bc7edfa   faiss             23.33%    73.25GiB / 96GiB    76.30%    0B / 0B   18.3GB / 4.1kB   19
+2025-02-17 09:48:19.370290
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   22.09%    34.62GiB / 96GiB    36.06%    0B / 0B   35.6GB / 0B      52
+db397bc7edfa   faiss             35.75%    73.36GiB / 96GiB    76.41%    0B / 0B   18.7GB / 4.1kB   19
+2025-02-17 09:48:21.378803
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   28.00%    34.62GiB / 96GiB    36.06%    0B / 0B   36.4GB / 0B      52
+db397bc7edfa   faiss             20.64%    73.38GiB / 96GiB    76.44%    0B / 0B   18.8GB / 4.1kB   19
+2025-02-17 09:48:23.390932
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   29.34%    34.62GiB / 96GiB    36.06%    0B / 0B   37GB / 0B        52
+db397bc7edfa   faiss             22.98%    73.45GiB / 96GiB    76.51%    0B / 0B   18.8GB / 4.1kB   19
+2025-02-17 09:48:25.403069
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4796.40%   34.98GiB / 96GiB    36.44%    0B / 0B   37GB / 0B        52
+db397bc7edfa   faiss             57.55%     73.7GiB / 96GiB     76.77%    0B / 0B   19.1GB / 4.1kB   19
+2025-02-17 09:48:27.412437
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4808.88%   51.28GiB / 96GiB    53.41%    0B / 0B   37GB / 0B        52
+db397bc7edfa   faiss             52.27%     73.81GiB / 96GiB    76.88%    0B / 0B   19.4GB / 4.1kB   19
+2025-02-17 09:48:29.423656
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4811.28%   63.73GiB / 96GiB    66.38%    0B / 0B   37GB / 0B        52
+db397bc7edfa   faiss             64.85%     73.56GiB / 96GiB    76.62%    0B / 0B   19.8GB / 4.1kB   19
+2025-02-17 09:48:31.437379
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4807.53%   73.17GiB / 96GiB    76.22%    0B / 0B   37GB / 0B        52
+db397bc7edfa   faiss             54.70%     73.35GiB / 96GiB    76.41%    0B / 0B   20.4GB / 4.1kB   19
+2025-02-17 09:48:33.453634
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4751.98%   86.83GiB / 96GiB    90.45%    0B / 0B   37GB / 0B        52
+db397bc7edfa   faiss             72.72%     73.3GiB / 96GiB     76.35%    0B / 0B   20.9GB / 4.1kB   19
+2025-02-17 09:48:35.475634
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   2525.25%   95.59GiB / 96GiB    99.57%    0B / 0B   37GB / 0B        52
+db397bc7edfa   faiss             47.66%     73.23GiB / 96GiB    76.28%    0B / 0B   21.2GB / 4.1kB   19
+2025-02-17 09:48:37.485284
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   95.02%    95.75GiB / 96GiB    99.74%    0B / 0B   37GB / 0B        52
+db397bc7edfa   faiss             13.52%    73.2GiB / 96GiB     76.25%    0B / 0B   21.4GB / 4.1kB   19
+2025-02-17 09:48:39.496532
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   178.42%   95.86GiB / 96GiB    99.86%    0B / 0B   37GB / 0B        52
+db397bc7edfa   faiss             13.03%    73.18GiB / 96GiB    76.23%    0B / 0B   21.7GB / 4.1kB   19
+2025-02-17 09:48:41.506947
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   102.39%   95.91GiB / 96GiB    99.91%    0B / 0B   37GB / 0B        52
+db397bc7edfa   faiss             15.17%    73.17GiB / 96GiB    76.22%    0B / 0B   21.9GB / 4.1kB   19
+2025-02-17 09:48:43.518284
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   579.90%   95.96GiB / 96GiB    99.96%    0B / 0B   37GB / 0B        52
+db397bc7edfa   faiss             18.19%    73.17GiB / 96GiB    76.22%    0B / 0B   22.1GB / 4.1kB   19
+2025-02-17 09:48:45.529394
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   168.93%   95.98GiB / 96GiB    99.98%    0B / 0B   37GB / 0B        52
+db397bc7edfa   faiss             15.32%    73.17GiB / 96GiB    76.22%    0B / 0B   22.4GB / 4.1kB   19
+2025-02-17 09:48:47.554361
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   216.82%   95.99GiB / 96GiB    99.98%    0B / 0B   37GB / 0B        52
+db397bc7edfa   faiss             15.36%    73.17GiB / 96GiB    76.21%    0B / 0B   22.6GB / 4.1kB   19
+2025-02-17 09:48:49.566051
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   497.75%   93.64GiB / 96GiB    97.54%    0B / 0B   37GB / 0B        52
+db397bc7edfa   faiss             14.26%    73.16GiB / 96GiB    76.21%    0B / 0B   22.9GB / 4.1kB   19
+2025-02-17 09:48:51.576636
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   99.30%    69.12GiB / 96GiB    72.00%    0B / 0B   37GB / 0B        52
+db397bc7edfa   faiss             45.03%    73.16GiB / 96GiB    76.21%    0B / 0B   23.7GB / 4.1kB   19
+2025-02-17 09:48:53.590654
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   657.22%   46.7GiB / 96GiB     48.64%    0B / 0B   37GB / 0B        52
+db397bc7edfa   faiss             39.88%    73.16GiB / 96GiB    76.21%    0B / 0B   24.4GB / 4.1kB   19
+2025-02-17 09:48:55.599347
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+c721ddc5afdd   pbbs_convexHull   1227.44%   48.42GiB / 96GiB    50.44%    0B / 0B   37.2GB / 0B    52
+db397bc7edfa   faiss             23.10%     73.16GiB / 96GiB    76.21%    0B / 0B   25GB / 4.1kB   19
+2025-02-17 09:48:57.610343
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   642.74%   49.25GiB / 96GiB    51.30%    0B / 0B   37.4GB / 0B      52
+db397bc7edfa   faiss             21.35%    73.17GiB / 96GiB    76.21%    0B / 0B   25.5GB / 4.1kB   19
+2025-02-17 09:48:59.620294
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+c721ddc5afdd   pbbs_convexHull   698.19%   49.93GiB / 96GiB    52.01%    0B / 0B   37.6GB / 0B    52
+db397bc7edfa   faiss             21.85%    73.17GiB / 96GiB    76.22%    0B / 0B   26GB / 4.1kB   19
+2025-02-17 09:49:01.632841
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   793.00%   50.86GiB / 96GiB    52.98%    0B / 0B   37.8GB / 0B      52
+db397bc7edfa   faiss             20.18%    73.17GiB / 96GiB    76.22%    0B / 0B   26.5GB / 4.1kB   19
+2025-02-17 09:49:03.643667
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+c721ddc5afdd   pbbs_convexHull   573.36%   51.52GiB / 96GiB    53.67%    0B / 0B   38.1GB / 0B    52
+db397bc7edfa   faiss             20.86%    73.17GiB / 96GiB    76.22%    0B / 0B   27GB / 4.1kB   19
+2025-02-17 09:49:05.654090
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   570.85%   52.13GiB / 96GiB    54.31%    0B / 0B   38.3GB / 0B      52
+db397bc7edfa   faiss             20.75%    73.17GiB / 96GiB    76.22%    0B / 0B   27.5GB / 4.1kB   19
+2025-02-17 09:49:07.664540
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+c721ddc5afdd   pbbs_convexHull   623.99%   52.88GiB / 96GiB    55.08%    0B / 0B   38.5GB / 0B    52
+db397bc7edfa   faiss             21.35%    73.17GiB / 96GiB    76.22%    0B / 0B   28GB / 4.1kB   19
+2025-02-17 09:49:09.675306
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   881.08%   53.77GiB / 96GiB    56.01%    0B / 0B   38.7GB / 0B      52
+db397bc7edfa   faiss             21.97%    73.17GiB / 96GiB    76.22%    0B / 0B   28.5GB / 4.1kB   19
+2025-02-17 09:49:11.686569
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+c721ddc5afdd   pbbs_convexHull   964.88%   54.84GiB / 96GiB    57.12%    0B / 0B   38.9GB / 0B    52
+db397bc7edfa   faiss             20.33%    73.17GiB / 96GiB    76.22%    0B / 0B   29GB / 4.1kB   19
+2025-02-17 09:49:13.694982
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   770.36%   55.68GiB / 96GiB    58.00%    0B / 0B   39.1GB / 0B      52
+db397bc7edfa   faiss             25.53%    73.17GiB / 96GiB    76.22%    0B / 0B   29.6GB / 4.1kB   19
+2025-02-17 09:49:15.706554
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   806.91%   56.53GiB / 96GiB    58.89%    0B / 0B   39.3GB / 0B      52
+db397bc7edfa   faiss             29.28%    73.18GiB / 96GiB    76.22%    0B / 0B   30.1GB / 4.1kB   19
+2025-02-17 09:49:17.715914
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   865.66%   57.44GiB / 96GiB    59.83%    0B / 0B   39.5GB / 0B      52
+db397bc7edfa   faiss             21.68%    73.18GiB / 96GiB    76.23%    0B / 0B   30.6GB / 4.1kB   19
+2025-02-17 09:49:19.726270
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   1150.85%   58.68GiB / 96GiB    61.13%    0B / 0B   39.8GB / 0B      52
+db397bc7edfa   faiss             19.87%     73.2GiB / 96GiB     76.25%    0B / 0B   31.1GB / 4.1kB   19
+2025-02-17 09:49:21.742200
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   1360.95%   60.08GiB / 96GiB    62.58%    0B / 0B   40GB / 0B        52
+db397bc7edfa   faiss             19.95%     73.2GiB / 96GiB     76.25%    0B / 0B   31.6GB / 4.1kB   19
+2025-02-17 09:49:23.752408
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   1536.07%   61.63GiB / 96GiB    64.20%    0B / 0B   40.2GB / 0B      52
+db397bc7edfa   faiss             16.78%     73.2GiB / 96GiB     76.25%    0B / 0B   32.1GB / 4.1kB   19
+2025-02-17 09:49:25.763922
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   1977.45%   63.57GiB / 96GiB    66.21%    0B / 0B   40.3GB / 0B      52
+db397bc7edfa   faiss             22.16%     73.21GiB / 96GiB    76.26%    0B / 0B   32.7GB / 4.1kB   19
+2025-02-17 09:49:27.774374
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   808.79%   64.68GiB / 96GiB    67.37%    0B / 0B   40.5GB / 0B      52
+db397bc7edfa   faiss             20.36%    73.21GiB / 96GiB    76.26%    0B / 0B   33.2GB / 4.1kB   19
+2025-02-17 09:49:29.785540
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+c721ddc5afdd   pbbs_convexHull   2813.70%   73.39GiB / 96GiB    76.45%    0B / 0B   40.6GB / 0B    52
+db397bc7edfa   faiss             38.06%     73.21GiB / 96GiB    76.26%    0B / 0B   34GB / 4.1kB   19
+2025-02-17 09:49:31.798617
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   100.13%   49.1GiB / 96GiB     51.14%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             32.71%    73.21GiB / 96GiB    76.26%    0B / 0B   34.9GB / 4.1kB   19
+2025-02-17 09:49:33.809531
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   99.14%    28.31GiB / 96GiB    29.49%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             29.47%    73.23GiB / 96GiB    76.28%    0B / 0B   35.7GB / 4.1kB   19
+2025-02-17 09:49:35.823105
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   1868.70%   16.63GiB / 96GiB    17.32%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             47.49%     73.28GiB / 96GiB    76.33%    0B / 0B   36.4GB / 4.1kB   19
+2025-02-17 09:49:37.838051
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4799.28%   27.66GiB / 96GiB    28.81%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             52.77%     73.29GiB / 96GiB    76.34%    0B / 0B   36.9GB / 4.1kB   19
+2025-02-17 09:49:39.850431
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4778.63%   36.14GiB / 96GiB    37.64%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             54.10%     73.37GiB / 96GiB    76.43%    0B / 0B   37.3GB / 4.1kB   19
+2025-02-17 09:49:41.874667
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4791.34%   39.53GiB / 96GiB    41.18%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             49.21%     73.51GiB / 96GiB    76.57%    0B / 0B   37.8GB / 4.1kB   19
+2025-02-17 09:49:43.879451
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4793.02%   42.03GiB / 96GiB    43.78%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             43.14%     73.66GiB / 96GiB    76.73%    0B / 0B   38.3GB / 4.1kB   19
+2025-02-17 09:49:45.889623
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4803.45%   42.36GiB / 96GiB    44.12%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             42.81%     73.81GiB / 96GiB    76.89%    0B / 0B   38.8GB / 4.1kB   19
+2025-02-17 09:49:47.899837
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4788.12%   42.38GiB / 96GiB    44.15%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             61.11%     73.96GiB / 96GiB    77.04%    0B / 0B   39.3GB / 4.1kB   19
+2025-02-17 09:49:49.909042
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4790.67%   42.39GiB / 96GiB    44.16%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             66.21%     74.07GiB / 96GiB    77.16%    0B / 0B   39.6GB / 4.1kB   19
+2025-02-17 09:49:51.919173
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4791.80%   42.4GiB / 96GiB     44.16%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             63.14%     74.36GiB / 96GiB    77.46%    0B / 0B   40.1GB / 4.1kB   19
+2025-02-17 09:49:53.928342
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4800.48%   42.57GiB / 96GiB    44.34%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             59.66%     75.01GiB / 96GiB    78.14%    0B / 0B   40.8GB / 4.1kB   19
+2025-02-17 09:49:55.938171
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4799.77%   42.57GiB / 96GiB    44.35%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             60.27%     75.67GiB / 96GiB    78.82%    0B / 0B   41.5GB / 4.1kB   19
+2025-02-17 09:49:57.946897
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4793.88%   42.57GiB / 96GiB    44.35%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             55.14%     76.32GiB / 96GiB    79.50%    0B / 0B   42.2GB / 4.1kB   19
+2025-02-17 09:49:59.956658
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4798.83%   42.57GiB / 96GiB    44.35%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             57.17%     76.96GiB / 96GiB    80.17%    0B / 0B   42.9GB / 4.1kB   19
+2025-02-17 09:50:01.964746
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4779.67%   42.58GiB / 96GiB    44.35%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             55.10%     77.59GiB / 96GiB    80.82%    0B / 0B   43.6GB / 4.1kB   19
+2025-02-17 09:50:03.974992
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4790.20%   42.58GiB / 96GiB    44.35%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             65.68%     78.23GiB / 96GiB    81.49%    0B / 0B   44.2GB / 4.1kB   19
+2025-02-17 09:50:05.986751
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4791.89%   42.58GiB / 96GiB    44.35%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             59.72%     78.86GiB / 96GiB    82.15%    0B / 0B   44.9GB / 4.1kB   19
+2025-02-17 09:50:07.993823
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4796.86%   42.58GiB / 96GiB    44.35%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             52.63%     79.5GiB / 96GiB     82.81%    0B / 0B   45.6GB / 4.1kB   19
+2025-02-17 09:50:10.002435
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4794.31%   42.65GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             61.47%     80.08GiB / 96GiB    83.42%    0B / 0B   46.3GB / 4.1kB   19
+2025-02-17 09:50:12.011304
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+c721ddc5afdd   pbbs_convexHull   4791.63%   42.65GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B    52
+db397bc7edfa   faiss             62.66%     80.66GiB / 96GiB    84.02%    0B / 0B   47GB / 4.1kB   19
+2025-02-17 09:50:14.019449
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   983.36%   42.65GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             54.60%    81.24GiB / 96GiB    84.63%    0B / 0B   47.7GB / 4.1kB   19
+2025-02-17 09:50:16.035295
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   0.11%     42.65GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             50.82%    81.83GiB / 96GiB    85.24%    0B / 0B   48.4GB / 4.1kB   19
+2025-02-17 09:50:18.045029
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   0.12%     42.65GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             55.89%    82.1GiB / 96GiB     85.53%    0B / 0B   49.1GB / 4.1kB   19
+2025-02-17 09:50:20.052806
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   0.10%     42.65GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             55.96%    82.36GiB / 96GiB    85.79%    0B / 0B   49.7GB / 4.1kB   19
+2025-02-17 09:50:22.062599
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   0.10%     42.65GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             55.61%    82.61GiB / 96GiB    86.05%    0B / 0B   50.4GB / 4.1kB   19
+2025-02-17 09:50:24.070398
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   0.09%     42.65GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             55.62%    82.87GiB / 96GiB    86.32%    0B / 0B   51.1GB / 4.1kB   19
+2025-02-17 09:50:26.079159
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   0.07%     42.65GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             55.86%    83.13GiB / 96GiB    86.60%    0B / 0B   51.8GB / 4.1kB   19
+2025-02-17 09:50:28.089415
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   0.07%     42.65GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             55.53%    83.4GiB / 96GiB     86.87%    0B / 0B   52.5GB / 4.1kB   19
+2025-02-17 09:50:30.095335
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   0.07%     42.65GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             54.24%    83.65GiB / 96GiB    87.14%    0B / 0B   53.2GB / 4.1kB   19
+2025-02-17 09:50:32.104858
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   0.08%     42.65GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             54.72%    83.92GiB / 96GiB    87.41%    0B / 0B   53.9GB / 4.1kB   19
+2025-02-17 09:50:34.112251
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   0.08%     42.65GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             55.23%    84.18GiB / 96GiB    87.69%    0B / 0B   54.6GB / 4.1kB   19
+2025-02-17 09:50:36.122528
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   0.08%     42.65GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             55.98%    84.45GiB / 96GiB    87.97%    0B / 0B   55.2GB / 4.1kB   19
+2025-02-17 09:50:38.130940
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   0.07%     42.65GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             54.47%    84.71GiB / 96GiB    88.24%    0B / 0B   55.9GB / 4.1kB   19
+2025-02-17 09:50:40.140348
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   0.10%     42.65GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             39.34%    84.89GiB / 96GiB    88.43%    0B / 0B   56.5GB / 4.1kB   19
+2025-02-17 09:50:42.149878
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+c721ddc5afdd   pbbs_convexHull   0.09%     42.65GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B    52
+db397bc7edfa   faiss             39.29%    84.99GiB / 96GiB    88.53%    0B / 0B   57GB / 4.1kB   19
+2025-02-17 09:50:44.158987
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   0.08%     42.65GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             38.94%    85.09GiB / 96GiB    88.64%    0B / 0B   57.4GB / 4.1kB   19
+2025-02-17 09:50:46.170467
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   0.08%     42.65GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             64.18%    85.17GiB / 96GiB    88.72%    0B / 0B   57.8GB / 4.1kB   19
+2025-02-17 09:50:48.176958
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   0.07%     42.65GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             62.11%    85.18GiB / 96GiB    88.73%    0B / 0B   57.9GB / 4.1kB   19
+2025-02-17 09:50:50.187992
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+c721ddc5afdd   pbbs_convexHull   0.08%     42.65GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B    52
+db397bc7edfa   faiss             58.84%    85.22GiB / 96GiB    88.77%    0B / 0B   58GB / 4.1kB   19
+2025-02-17 09:50:52.194540
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   0.08%      42.64GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             2603.80%   85.25GiB / 96GiB    88.80%    0B / 0B   58.1GB / 4.1kB   114
+2025-02-17 09:50:54.207338
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   0.08%      42.64GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4736.66%   85.31GiB / 96GiB    88.86%    0B / 0B   58.2GB / 4.1kB   114
+2025-02-17 09:50:56.216874
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   0.06%      42.64GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4796.30%   85.31GiB / 96GiB    88.86%    0B / 0B   58.2GB / 4.1kB   114
+2025-02-17 09:50:58.223632
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   0.06%      42.64GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4800.41%   85.3GiB / 96GiB     88.86%    0B / 0B   58.2GB / 4.1kB   114
+2025-02-17 09:51:00.231062
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   0.00%      42.64GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4800.53%   85.3GiB / 96GiB     88.86%    0B / 0B   58.2GB / 4.1kB   114
+2025-02-17 09:51:02.236553
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   0.00%      42.64GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4791.59%   85.3GiB / 96GiB     88.86%    0B / 0B   58.2GB / 4.1kB   114
+2025-02-17 09:51:04.257823
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   182.36%    42.64GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4757.62%   85.3GiB / 96GiB     88.86%    0B / 0B   58.2GB / 4.1kB   114
+2025-02-17 09:51:06.270682
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4579.19%   42.64GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4715.14%   85.3GiB / 96GiB     88.86%    0B / 0B   58.2GB / 4.1kB   114
+2025-02-17 09:51:08.299693
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4578.39%   42.64GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4777.52%   85.3GiB / 96GiB     88.86%    0B / 0B   58.2GB / 4.1kB   114
+2025-02-17 09:51:10.318238
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4609.09%   42.65GiB / 96GiB    44.42%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4728.12%   85.3GiB / 96GiB     88.86%    0B / 0B   58.2GB / 4.1kB   114
+2025-02-17 09:51:12.340512
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4585.31%   43.11GiB / 96GiB    44.91%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4645.75%   85.3GiB / 96GiB     88.86%    0B / 0B   58.2GB / 4.1kB   114
+2025-02-17 09:51:14.349787
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4318.60%   43.11GiB / 96GiB    44.91%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4756.18%   85.3GiB / 96GiB     88.86%    0B / 0B   58.2GB / 4.1kB   114
+2025-02-17 09:51:16.365085
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4413.44%   43.11GiB / 96GiB    44.91%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4742.37%   85.3GiB / 96GiB     88.86%    0B / 0B   58.2GB / 4.1kB   114
+2025-02-17 09:51:18.383372
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4420.44%   43.12GiB / 96GiB    44.91%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4752.38%   85.3GiB / 96GiB     88.86%    0B / 0B   58.2GB / 4.1kB   114
+2025-02-17 09:51:20.401846
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4418.55%   43.12GiB / 96GiB    44.91%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4676.28%   85.3GiB / 96GiB     88.86%    0B / 0B   58.2GB / 4.1kB   114
+2025-02-17 09:51:22.414022
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4354.86%   43.12GiB / 96GiB    44.91%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4755.07%   85.3GiB / 96GiB     88.86%    0B / 0B   58.2GB / 4.1kB   114
+2025-02-17 09:51:24.430620
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4318.10%   43.12GiB / 96GiB    44.91%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4827.80%   85.3GiB / 96GiB     88.86%    0B / 0B   58.2GB / 4.1kB   114
+2025-02-17 09:51:26.438363
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4464.97%   43.12GiB / 96GiB    44.91%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4742.85%   85.3GiB / 96GiB     88.86%    0B / 0B   58.2GB / 4.1kB   114
+2025-02-17 09:51:28.450910
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4303.67%   43.12GiB / 96GiB    44.91%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4767.55%   85.3GiB / 96GiB     88.86%    0B / 0B   58.2GB / 4.1kB   114
+2025-02-17 09:51:30.469626
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4455.87%   43.12GiB / 96GiB    44.91%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4723.94%   85.3GiB / 96GiB     88.86%    0B / 0B   58.2GB / 4.1kB   114
+2025-02-17 09:51:32.484512
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4584.22%   43.12GiB / 96GiB    44.91%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4755.75%   85.3GiB / 96GiB     88.86%    0B / 0B   58.2GB / 4.1kB   114
+2025-02-17 09:51:34.506177
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4647.44%   43.12GiB / 96GiB    44.91%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4754.74%   85.3GiB / 96GiB     88.86%    0B / 0B   58.2GB / 4.1kB   114
+2025-02-17 09:51:36.520728
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4479.15%   43.12GiB / 96GiB    44.92%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4728.27%   85.3GiB / 96GiB     88.86%    0B / 0B   58.2GB / 4.1kB   114
+2025-02-17 09:51:38.533991
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4607.97%   43.12GiB / 96GiB    44.92%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4623.64%   85.3GiB / 96GiB     88.86%    0B / 0B   58.2GB / 4.1kB   114
+2025-02-17 09:51:40.549249
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4664.70%   43.12GiB / 96GiB    44.92%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4734.42%   85.3GiB / 96GiB     88.86%    0B / 0B   58.2GB / 4.1kB   114
+2025-02-17 09:51:42.569791
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4649.23%   43.12GiB / 96GiB    44.92%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4798.67%   85.3GiB / 96GiB     88.86%    0B / 0B   58.2GB / 4.1kB   114
+2025-02-17 09:51:44.578872
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4648.30%   43.12GiB / 96GiB    44.92%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4673.61%   85.33GiB / 96GiB    88.89%    0B / 0B   58.3GB / 4.1kB   114
+2025-02-17 09:51:46.598399
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4642.41%   43.12GiB / 96GiB    44.91%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4713.29%   85.35GiB / 96GiB    88.91%    0B / 0B   58.3GB / 4.1kB   114
+2025-02-17 09:51:48.615902
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4708.15%   43.12GiB / 96GiB    44.91%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4780.49%   85.36GiB / 96GiB    88.92%    0B / 0B   58.3GB / 4.1kB   114
+2025-02-17 09:51:50.632154
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4690.47%   43.12GiB / 96GiB    44.91%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4688.72%   85.36GiB / 96GiB    88.92%    0B / 0B   58.3GB / 4.1kB   114
+2025-02-17 09:51:52.657301
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4703.91%   43.12GiB / 96GiB    44.92%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4684.65%   85.38GiB / 96GiB    88.93%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:51:54.673535
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4728.77%   43.12GiB / 96GiB    44.92%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4750.70%   85.38GiB / 96GiB    88.94%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:51:56.699332
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4748.54%   43.12GiB / 96GiB    44.92%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4085.99%   85.39GiB / 96GiB    88.95%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:51:58.718428
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4492.60%   43.12GiB / 96GiB    44.92%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4771.09%   85.4GiB / 96GiB     88.96%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:00.739328
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4704.29%   43.12GiB / 96GiB    44.92%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4593.64%   85.4GiB / 96GiB     88.96%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:02.767851
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4759.20%   43.12GiB / 96GiB    44.92%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4668.51%   85.41GiB / 96GiB    88.96%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:04.795397
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4787.26%   43.12GiB / 96GiB    44.92%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4579.17%   85.41GiB / 96GiB    88.96%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:06.822209
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4803.28%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4735.75%   85.41GiB / 96GiB    88.96%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:08.853593
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4765.03%   43.16GiB / 96GiB    44.95%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4644.50%   85.41GiB / 96GiB    88.96%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:10.850191
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4581.23%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4683.16%   85.41GiB / 96GiB    88.96%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:12.863904
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4689.68%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4690.11%   85.41GiB / 96GiB    88.97%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:14.886468
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4509.43%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4806.45%   85.41GiB / 96GiB    88.97%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:16.926936
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4625.47%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4740.62%   85.41GiB / 96GiB    88.97%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:18.936716
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4666.33%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4710.08%   85.41GiB / 96GiB    88.97%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:20.954610
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4637.64%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4579.34%   85.41GiB / 96GiB    88.97%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:22.963523
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4356.54%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4716.34%   85.41GiB / 96GiB    88.97%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:24.982123
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4559.90%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4737.81%   85.41GiB / 96GiB    88.97%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:26.997808
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4646.85%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4744.93%   85.41GiB / 96GiB    88.97%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:29.014575
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4634.58%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4784.69%   85.41GiB / 96GiB    88.97%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:31.028808
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4660.29%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4759.36%   85.41GiB / 96GiB    88.97%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:33.040498
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4548.19%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4710.91%   85.41GiB / 96GiB    88.97%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:35.055894
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4578.51%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4796.54%   85.41GiB / 96GiB    88.97%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:37.076764
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4723.61%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4699.92%   85.42GiB / 96GiB    88.98%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:39.092364
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4747.20%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4649.93%   85.42GiB / 96GiB    88.98%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:41.109005
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4652.97%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4748.08%   85.42GiB / 96GiB    88.98%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:43.127372
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4721.26%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4775.26%   85.42GiB / 96GiB    88.98%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:45.142229
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4754.21%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4723.18%   85.42GiB / 96GiB    88.98%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:47.168800
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4745.07%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4657.22%   85.42GiB / 96GiB    88.98%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:49.184387
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4681.63%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4643.32%   85.42GiB / 96GiB    88.98%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:51.216082
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4736.58%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4639.49%   85.42GiB / 96GiB    88.98%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:53.242569
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4649.57%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4794.70%   85.42GiB / 96GiB    88.98%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:55.268178
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4677.40%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4813.95%   85.42GiB / 96GiB    88.98%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:57.304212
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4651.96%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4652.48%   85.42GiB / 96GiB    88.98%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:52:59.321542
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4597.00%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4620.26%   85.42GiB / 96GiB    88.98%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:53:01.348712
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4579.91%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4836.83%   85.42GiB / 96GiB    88.98%    0B / 0B   58.4GB / 4.1kB   114
+2025-02-17 09:53:03.369598
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4483.85%   43.17GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4597.09%   85.42GiB / 96GiB    88.98%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:05.387651
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4583.48%   43.17GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4739.62%   85.42GiB / 96GiB    88.98%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:07.407899
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4536.56%   43.17GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4767.25%   85.42GiB / 96GiB    88.98%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:09.428189
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4548.11%   43.17GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4848.35%   85.42GiB / 96GiB    88.98%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:11.457209
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4635.96%   43.17GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4739.81%   85.42GiB / 96GiB    88.98%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:13.477796
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4664.66%   43.17GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4594.48%   85.42GiB / 96GiB    88.98%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:15.500589
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4760.01%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4657.61%   85.42GiB / 96GiB    88.98%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:17.527613
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4781.51%   43.17GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4668.10%   85.42GiB / 96GiB    88.98%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:19.547537
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4578.42%   43.17GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4722.32%   85.42GiB / 96GiB    88.98%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:21.566248
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4695.03%   43.17GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4492.53%   85.42GiB / 96GiB    88.98%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:23.590170
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4643.36%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4766.63%   85.43GiB / 96GiB    88.99%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:25.616698
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4625.12%   43.16GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4683.68%   85.43GiB / 96GiB    88.98%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:27.638829
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4598.61%   43.17GiB / 96GiB    44.96%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4790.16%   85.43GiB / 96GiB    88.98%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:29.665116
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4703.87%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4781.88%   85.43GiB / 96GiB    88.98%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:31.684985
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4746.05%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4708.65%   85.43GiB / 96GiB    88.98%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:33.735199
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4779.70%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4519.70%   85.43GiB / 96GiB    88.98%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:35.755177
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4757.47%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4542.97%   85.43GiB / 96GiB    88.98%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:37.776844
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4625.03%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4757.91%   85.43GiB / 96GiB    88.98%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:39.809369
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4749.03%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4694.60%   85.43GiB / 96GiB    88.98%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:41.835055
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4747.75%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4685.22%   85.43GiB / 96GiB    88.98%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:43.859981
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4678.63%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4708.66%   85.43GiB / 96GiB    88.98%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:45.876089
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4606.88%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4816.95%   85.43GiB / 96GiB    88.98%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:47.896053
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4553.93%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4718.21%   85.43GiB / 96GiB    88.98%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:49.908133
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4658.05%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4761.96%   85.43GiB / 96GiB    88.98%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:51.924534
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4603.60%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4629.47%   85.43GiB / 96GiB    88.98%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:53.951866
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4571.97%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4638.62%   85.43GiB / 96GiB    88.99%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:55.962148
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4454.84%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4673.41%   85.43GiB / 96GiB    88.99%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:57.969923
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4656.48%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4728.71%   85.43GiB / 96GiB    88.99%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:53:59.985047
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4626.65%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4708.06%   85.43GiB / 96GiB    88.99%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:01.999693
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4595.78%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4721.03%   85.43GiB / 96GiB    88.99%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:04.020388
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4588.66%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4789.14%   85.43GiB / 96GiB    88.99%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:06.034767
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4630.45%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4760.17%   85.43GiB / 96GiB    88.99%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:09.186667
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4665.57%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4749.20%   85.43GiB / 96GiB    88.99%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:11.205168
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4670.18%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4700.73%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:13.223648
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4652.93%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4728.32%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:15.236314
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4670.97%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4711.52%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:17.262863
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4713.70%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4775.39%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:19.277726
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4484.79%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4768.98%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:21.293879
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4683.98%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4723.20%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:23.306885
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4636.11%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4698.42%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:25.323591
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4652.35%   43.18GiB / 96GiB    44.98%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4812.05%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:27.342585
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4717.98%   43.18GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4628.51%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:29.365738
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4742.47%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4712.21%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:31.395243
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4763.74%   43.18GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4794.08%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:33.418283
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4752.96%   43.18GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4696.52%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:35.441595
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4721.62%   43.18GiB / 96GiB    44.98%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4642.65%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:37.468130
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4700.33%   43.18GiB / 96GiB    44.98%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4782.42%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:39.497916
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4715.34%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4722.80%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:41.531112
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4669.15%   43.18GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4733.32%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:43.556956
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4719.43%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4778.16%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:45.581250
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4724.04%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4764.77%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:47.598694
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4645.32%   43.18GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4650.64%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:49.606890
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4693.70%   43.18GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4744.99%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:51.625954
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4718.02%   43.18GiB / 96GiB    44.98%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4629.77%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:53.636081
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4589.08%   43.18GiB / 96GiB    44.98%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4846.82%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:55.663214
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4481.06%   43.18GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4795.64%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:57.688370
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4487.78%   43.18GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4731.93%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:54:59.730118
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4646.52%   43.18GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4782.81%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:01.735676
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4669.40%   43.18GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4660.22%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:03.761681
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4513.65%   43.18GiB / 96GiB    44.98%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4779.73%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:05.791173
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4376.74%   43.18GiB / 96GiB    44.98%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4754.20%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:07.807926
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4585.63%   43.18GiB / 96GiB    44.98%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4750.36%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:09.821495
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4731.41%   43.18GiB / 96GiB    44.98%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4674.55%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:11.832914
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4618.81%   43.18GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4686.81%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:13.848770
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4659.64%   43.17GiB / 96GiB    44.97%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4716.83%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:15.867595
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4757.44%   43.18GiB / 96GiB    44.98%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4616.82%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:17.890589
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4737.29%   43.18GiB / 96GiB    44.98%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4713.29%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:19.897451
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4727.84%   43.18GiB / 96GiB    44.98%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4752.93%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:21.917752
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4691.42%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4736.94%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:23.942851
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4635.62%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4722.40%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:25.962818
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4667.62%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4657.97%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:27.989282
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4710.06%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4734.14%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:30.008385
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4610.89%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4756.78%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:32.032880
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4658.38%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4801.52%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:34.047022
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4637.60%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4723.36%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:36.062314
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4719.45%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4695.82%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:38.081865
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4692.81%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4713.88%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:40.096144
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4759.59%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4637.95%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:42.107047
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4651.40%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4780.29%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:44.127682
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4430.55%   43.3GiB / 96GiB     45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4746.63%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:46.142448
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4584.98%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4809.20%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:48.168692
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4578.38%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4740.53%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:50.202966
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4613.94%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4472.18%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:52.221835
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4706.01%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4784.70%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:54.243982
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4603.57%   43.3GiB / 96GiB     45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4811.48%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:56.272369
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4665.40%   43.3GiB / 96GiB     45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4673.80%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:55:58.300387
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4686.99%   43.3GiB / 96GiB     45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4817.26%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:56:00.320004
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4617.79%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4718.72%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:56:02.331444
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4711.57%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4534.71%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:56:04.351077
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4734.03%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4728.90%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:56:06.362585
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4759.09%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4764.66%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:56:08.378253
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4726.68%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4699.41%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:56:10.396667
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4714.13%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4670.84%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:56:12.408869
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4651.67%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4627.10%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:56:14.423715
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4681.69%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4691.91%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:56:16.437762
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4559.01%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4760.47%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:56:18.466161
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4569.42%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4855.96%   85.44GiB / 96GiB    89.00%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:56:20.483421
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4700.57%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4741.81%   85.45GiB / 96GiB    89.01%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:56:22.513290
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4590.87%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4759.11%   85.45GiB / 96GiB    89.01%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:56:24.534078
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4643.46%   43.3GiB / 96GiB     45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4678.04%   85.45GiB / 96GiB    89.01%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:56:26.554786
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4589.89%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4744.25%   85.45GiB / 96GiB    89.01%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:56:28.575379
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4730.68%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4698.08%   85.45GiB / 96GiB    89.01%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:56:30.595331
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4677.10%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4732.94%   85.45GiB / 96GiB    89.01%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:56:32.619377
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4586.96%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4800.61%   85.45GiB / 96GiB    89.01%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:56:34.640489
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4660.93%   43.3GiB / 96GiB     45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4760.99%   85.45GiB / 96GiB    89.01%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:56:36.652871
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4779.03%   43.3GiB / 96GiB     45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4609.31%   85.45GiB / 96GiB    89.01%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:56:38.673679
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4645.27%   43.3GiB / 96GiB     45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4765.29%   85.45GiB / 96GiB    89.01%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:56:40.691643
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4728.71%   43.3GiB / 96GiB     45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4659.12%   85.45GiB / 96GiB    89.01%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:56:42.706011
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4675.78%   43.3GiB / 96GiB     45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             4704.22%   85.45GiB / 96GiB    89.01%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:56:44.721146
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4792.57%   43.29GiB / 96GiB    45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             506.57%    65.09GiB / 96GiB    67.80%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:56:46.732091
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+c721ddc5afdd   pbbs_convexHull   4804.68%   43.3GiB / 96GiB     45.10%    0B / 0B   40.6GB / 0B      52
+db397bc7edfa   faiss             99.95%     18.81GiB / 96GiB    19.60%    0B / 0B   58.5GB / 4.1kB   114
+2025-02-17 09:56:48.742233
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+c721ddc5afdd   pbbs_convexHull   4799.39%   43.3GiB / 96GiB     45.10%    0B / 0B   40.6GB / 0B   52
+2025-02-17 09:56:50.753760
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+c721ddc5afdd   pbbs_convexHull   4809.32%   43.3GiB / 96GiB     45.10%    0B / 0B   40.6GB / 0B   52
+2025-02-17 09:56:52.762390
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+c721ddc5afdd   pbbs_convexHull   4818.58%   43.3GiB / 96GiB     45.10%    0B / 0B   40.6GB / 0B   52
+2025-02-17 09:56:54.772740
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+c721ddc5afdd   pbbs_convexHull   4777.61%   43.3GiB / 96GiB     45.10%    0B / 0B   40.6GB / 0B   52
+2025-02-17 09:56:56.779124
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+c721ddc5afdd   pbbs_convexHull   4793.60%   43.3GiB / 96GiB     45.10%    0B / 0B   40.6GB / 0B   52
+2025-02-17 09:56:58.785188
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+c721ddc5afdd   pbbs_convexHull   4783.21%   43.3GiB / 96GiB     45.10%    0B / 0B   40.6GB / 0B   52
+2025-02-17 09:57:00.790572
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+c721ddc5afdd   pbbs_convexHull   4790.54%   43.3GiB / 96GiB     45.10%    0B / 0B   40.6GB / 0B   52
+2025-02-17 09:57:02.797370
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+c721ddc5afdd   pbbs_convexHull   4783.88%   43.3GiB / 96GiB     45.10%    0B / 0B   40.6GB / 0B   52
+2025-02-17 09:57:04.802384
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+c721ddc5afdd   pbbs_convexHull   4794.97%   43.3GiB / 96GiB     45.10%    0B / 0B   40.6GB / 0B   52
+2025-02-17 09:57:06.807916
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+c721ddc5afdd   pbbs_convexHull   4792.06%   43.3GiB / 96GiB     45.10%    0B / 0B   40.6GB / 0B   52
+2025-02-17 09:57:08.814383
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+c721ddc5afdd   pbbs_convexHull   4779.84%   43.32GiB / 96GiB    45.13%    0B / 0B   40.6GB / 0B   52
+2025-02-17 09:57:10.820966
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+c721ddc5afdd   pbbs_convexHull   4777.12%   43.32GiB / 96GiB    45.13%    0B / 0B   40.6GB / 0B   52
+2025-02-17 09:57:12.827580
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+c721ddc5afdd   pbbs_convexHull   4796.24%   43.32GiB / 96GiB    45.13%    0B / 0B   40.6GB / 0B   52
+2025-02-17 09:57:14.834260
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+c721ddc5afdd   pbbs_convexHull   4783.86%   43.32GiB / 96GiB    45.13%    0B / 0B   40.6GB / 0B   52
+2025-02-17 09:57:16.838454
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+c721ddc5afdd   pbbs_convexHull   4793.03%   43.33GiB / 96GiB    45.14%    0B / 0B   40.6GB / 0B   52
+2025-02-17 09:57:18.844526
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+c721ddc5afdd   pbbs_convexHull   4802.19%   43.33GiB / 96GiB    45.14%    0B / 0B   40.6GB / 0B   52
+2025-02-17 09:57:20.849919
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+c721ddc5afdd   pbbs_convexHull   4777.25%   43.33GiB / 96GiB    45.13%    0B / 0B   40.6GB / 0B   52
+2025-02-17 09:57:22.854120
+CONTAINER ID   NAME              CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+c721ddc5afdd   pbbs_convexHull   4786.58%   43.33GiB / 96GiB    45.14%    0B / 0B   40.6GB / 0B   52
+2025-02-17 09:57:24.858986
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O     PIDS
+c721ddc5afdd   pbbs_convexHull   102.77%   17.04GiB / 96GiB    17.75%    0B / 0B   40.6GB / 0B   5
+2025-02-17 09:57:26.866024
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS

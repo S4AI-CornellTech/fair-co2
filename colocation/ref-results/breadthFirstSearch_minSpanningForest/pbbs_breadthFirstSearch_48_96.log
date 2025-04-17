@@ -1,0 +1,14 @@
+HOSTNAME: pbbs-sweep-clr-0
+running on 48 threads
+
+cd benchmarks/breadthFirstSearch/backForwardBFS ; make -s
+cd benchmarks/breadthFirstSearch/backForwardBFS ; numactl -i all ./testInputs -r 15 -p 48 -x -s 1731535704
+cd ../graphData/data; make 3Dgrid_J_640000000
+3Dgrid_J_640000000 :  -r 15 -s 1731535704 : '10.996', '10.729', '10.654', '10.617', '10.672', '10.632', '10.625', '10.625', '10.643', '10.622', '10.667', '10.726', '10.727', '8.626', '7.099', geomean = 10.252, start = 2024-11-13 22:08:24.674500, end = 2024-11-13 22:10:59.343700, startup = 778.171217, shutdown = 2.445126
+backForwardBFS : 48 : geomean of mins = 7.099, geomean of geomeans = 10.252
+Running only:  [['breadthFirstSearch/backForwardBFS', True, 0]]
+Extended Benchmarks
+Not Checking
+Running each test 15 times
+Running on at most 48 threads
+Starting at 1731535704

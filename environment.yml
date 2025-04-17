@@ -1,0 +1,11 @@
+# environment.yaml
+
+name: fair-co2
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.12.0
+  - anaconda
+  - pip
+  - pip:
+    - -r requirements.txt

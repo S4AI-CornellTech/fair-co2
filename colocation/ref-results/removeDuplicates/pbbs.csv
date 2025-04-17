@@ -1,0 +1,2 @@
+,workload,label,rounds,cpus,memory,times,geomean,start,end,start_seconds,end_seconds,duration
+0,parlayhash,removeDuplicates,21,48,96,"[5.138, 5.153, 5.176, 5.169, 5.106, 5.19, 5.116, 5.069, 5.055, 5.148, 5.193]",5.137353611205559,2024-11-13 20:29:10.847800,2024-11-13 20:30:07.360800,0.0,56.513,56.513

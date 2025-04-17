@@ -1,0 +1,14 @@
+HOSTNAME: leo-clr-1
+running on 48 threads
+
+cd benchmarks/breadthFirstSearch/backForwardBFS ; make -s
+cd benchmarks/breadthFirstSearch/backForwardBFS ; numactl -i all ./testInputs -r 30 -p 48 -x -s 1739750659
+cd ../graphData/data; make 3Dgrid_J_640000000
+3Dgrid_J_640000000 :  -r 30 -s 1739750659 : '10.1', '9.738', '9.794', '9.898', '9.8', '9.843', '9.751', '9.916', '9.789', '9.931', '9.942', '9.889', '9.924', '10.011', '10.045', '10.049', '9.928', '9.929', '10.059', '10.044', '9.894', '9.943', '9.94', '9.925', '9.967', '7.863', '7.171', '7.043', '7.013', '6.994', geomean = 9.407, start = 2025-02-17 00:04:19.792000, end = 2025-02-17 00:09:03.941500, startup = 200.412251, shutdown = 2.388339
+backForwardBFS : 48 : geomean of mins = 6.994, geomean of geomeans = 9.407
+Running only:  [['breadthFirstSearch/backForwardBFS', True, 0]]
+Extended Benchmarks
+Not Checking
+Running each test 30 times
+Running on at most 48 threads
+Starting at 1739750659

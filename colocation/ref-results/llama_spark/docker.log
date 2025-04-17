@@ -1,0 +1,940 @@
+2025-02-17 07:00:43.812513
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:00:44.433057
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:00:45.050113
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:00:45.669604
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:00:46.289129
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:00:46.908085
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:00:47.525464
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:00:48.142607
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:00:48.760202
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:00:49.376964
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:00:49.992946
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:00:50.615108
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:00:51.233620
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:00:51.850235
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:00:52.469333
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:00:53.087668
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:00:53.704326
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:00:54.324567
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:00:54.943182
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:00:55.562491
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:00:56.179602
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:00:56.796814
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:00:57.414733
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:00:58.032260
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:00:58.648121
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:00:59.264389
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:00:59.885001
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:01:00.505468
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:01:01.122682
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:01:01.740001
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:01:02.356542
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:01:02.976956
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 07:01:03.594821
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+               --        0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+               --        0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+2025-02-17 07:01:04.212528
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     3493.69%   118MiB / 96GiB      0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     193.12%    171.9MiB / 96GiB    0.17%     0B / 0B   54.4MB / 32.8kB   57
+2025-02-17 07:01:06.565308
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4789.54%   119.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     171.56%    299.3MiB / 96GiB    0.30%     0B / 0B   73.3MB / 32.8kB   61
+2025-02-17 07:01:08.587682
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4802.34%   119.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     200.64%    348.7MiB / 96GiB    0.35%     0B / 0B   81.7MB / 32.8kB   65
+2025-02-17 07:01:10.614293
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4817.94%   117.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     277.92%    460.2MiB / 96GiB    0.47%     0B / 0B   88.1MB / 32.8kB   108
+2025-02-17 07:01:12.633285
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4797.26%   117.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     165.85%    567.9MiB / 96GiB    0.58%     0B / 0B   98.4MB / 32.8kB   117
+2025-02-17 07:01:14.651793
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+5661ca01d595   llama     4793.67%   116.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+38f97cc11e21   spark     162.69%    648.1MiB / 96GiB    0.66%     0B / 0B   104MB / 32.8kB   117
+2025-02-17 07:01:16.676389
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+5661ca01d595   llama     4775.00%   116MiB / 96GiB      0.12%     0B / 0B   0B / 0B          48
+38f97cc11e21   spark     137.65%    672.5MiB / 96GiB    0.68%     0B / 0B   111MB / 32.8kB   117
+2025-02-17 07:01:18.695741
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+5661ca01d595   llama     4799.57%   115.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+38f97cc11e21   spark     230.26%    770.6MiB / 96GiB    0.78%     0B / 0B   115MB / 32.8kB   117
+2025-02-17 07:01:20.714343
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+5661ca01d595   llama     4749.64%   115.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+38f97cc11e21   spark     330.23%    943.3MiB / 96GiB    0.96%     0B / 0B   118MB / 32.8kB   117
+2025-02-17 07:01:22.735576
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+5661ca01d595   llama     4775.86%   115.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+38f97cc11e21   spark     569.05%    1.027GiB / 96GiB    1.07%     0B / 0B   121MB / 32.8kB   118
+2025-02-17 07:01:24.748974
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+5661ca01d595   llama     4783.93%   115.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+38f97cc11e21   spark     645.49%    1.066GiB / 96GiB    1.11%     0B / 0B   123MB / 32.8kB   127
+2025-02-17 07:01:26.763297
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+5661ca01d595   llama     4792.06%   115.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+38f97cc11e21   spark     908.43%    2.04GiB / 96GiB     2.13%     0B / 0B   561MB / 32.8kB   132
+2025-02-17 07:01:28.774681
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4784.78%   115.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     912.96%    2.443GiB / 96GiB    2.55%     0B / 0B   1.15GB / 32.8kB   135
+2025-02-17 07:01:30.787678
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4783.10%   115MiB / 96GiB      0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     720.71%    2.481GiB / 96GiB    2.58%     0B / 0B   1.87GB / 32.8kB   135
+2025-02-17 07:01:32.801183
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4771.90%   115MiB / 96GiB      0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     778.94%    2.515GiB / 96GiB    2.62%     0B / 0B   2.61GB / 32.8kB   135
+2025-02-17 07:01:34.815315
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4780.04%   114.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     755.44%    2.539GiB / 96GiB    2.64%     0B / 0B   3.38GB / 32.8kB   135
+2025-02-17 07:01:36.823711
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4780.17%   116.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     729.56%    2.571GiB / 96GiB    2.68%     0B / 0B   4.17GB / 32.8kB   135
+2025-02-17 07:01:38.837396
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4816.31%   116.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     687.95%    2.601GiB / 96GiB    2.71%     0B / 0B   4.94GB / 32.8kB   135
+2025-02-17 07:01:40.848225
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4805.14%   116.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     821.75%    2.639GiB / 96GiB    2.75%     0B / 0B   5.72GB / 32.8kB   135
+2025-02-17 07:01:42.862213
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4800.23%   115.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     739.33%    2.658GiB / 96GiB    2.77%     0B / 0B   6.46GB / 32.8kB   135
+2025-02-17 07:01:44.873108
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4797.75%   115.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     686.29%    2.665GiB / 96GiB    2.78%     0B / 0B   7.17GB / 32.8kB   135
+2025-02-17 07:01:46.890048
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+5661ca01d595   llama     4803.85%   115.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+38f97cc11e21   spark     706.83%    2.681GiB / 96GiB    2.79%     0B / 0B   7.8GB / 32.8kB   135
+2025-02-17 07:01:48.909424
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4783.76%   115.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     700.18%    2.687GiB / 96GiB    2.80%     0B / 0B   8.39GB / 32.8kB   135
+2025-02-17 07:01:50.930590
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4781.38%   116.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     764.14%    2.694GiB / 96GiB    2.81%     0B / 0B   8.99GB / 32.8kB   135
+2025-02-17 07:01:52.949076
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4811.92%   116MiB / 96GiB      0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     714.08%    2.695GiB / 96GiB    2.81%     0B / 0B   9.53GB / 32.8kB   135
+2025-02-17 07:01:54.973105
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4791.77%   116MiB / 96GiB      0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     721.47%    2.697GiB / 96GiB    2.81%     0B / 0B   10.2GB / 32.8kB   135
+2025-02-17 07:01:56.990637
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4805.66%   116MiB / 96GiB      0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     697.98%    2.698GiB / 96GiB    2.81%     0B / 0B   10.9GB / 32.8kB   135
+2025-02-17 07:01:59.012347
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4786.74%   115.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     691.40%    2.699GiB / 96GiB    2.81%     0B / 0B   11.4GB / 32.8kB   135
+2025-02-17 07:02:01.029928
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+5661ca01d595   llama     4798.87%   115.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+38f97cc11e21   spark     722.44%    2.7GiB / 96GiB      2.81%     0B / 0B   12GB / 32.8kB   135
+2025-02-17 07:02:03.043561
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4771.86%   115.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     772.64%    2.701GiB / 96GiB    2.81%     0B / 0B   12.3GB / 32.8kB   135
+2025-02-17 07:02:05.067599
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4784.25%   115.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     716.55%    2.704GiB / 96GiB    2.82%     0B / 0B   12.4GB / 32.8kB   135
+2025-02-17 07:02:07.087936
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4783.87%   117.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     721.07%    2.703GiB / 96GiB    2.82%     0B / 0B   12.5GB / 32.8kB   135
+2025-02-17 07:02:09.110124
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4821.07%   116.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     734.26%    2.707GiB / 96GiB    2.82%     0B / 0B   12.6GB / 32.8kB   135
+2025-02-17 07:02:11.134136
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4795.32%   116.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     722.64%    2.708GiB / 96GiB    2.82%     0B / 0B   12.7GB / 32.8kB   135
+2025-02-17 07:02:13.142437
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4823.53%   116.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     730.45%    2.709GiB / 96GiB    2.82%     0B / 0B   12.8GB / 32.8kB   135
+2025-02-17 07:02:15.163991
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4801.67%   115.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     700.74%    2.711GiB / 96GiB    2.82%     0B / 0B   12.9GB / 32.8kB   135
+2025-02-17 07:02:17.183720
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4799.17%   115.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     710.27%    2.712GiB / 96GiB    2.82%     0B / 0B   13.1GB / 32.8kB   135
+2025-02-17 07:02:19.206999
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4776.56%   116.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     705.98%    2.712GiB / 96GiB    2.83%     0B / 0B   13.2GB / 32.8kB   135
+2025-02-17 07:02:21.227700
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4784.33%   116.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     692.14%    2.714GiB / 96GiB    2.83%     0B / 0B   13.3GB / 32.8kB   134
+2025-02-17 07:02:23.251392
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4805.27%   115.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     719.92%    2.715GiB / 96GiB    2.83%     0B / 0B   13.4GB / 32.8kB   134
+2025-02-17 07:02:25.274113
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4781.94%   115.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     719.10%    2.717GiB / 96GiB    2.83%     0B / 0B   13.5GB / 32.8kB   134
+2025-02-17 07:02:27.290791
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4796.71%   115.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     749.65%    2.716GiB / 96GiB    2.83%     0B / 0B   13.6GB / 32.8kB   129
+2025-02-17 07:02:29.309381
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4785.12%   115.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     717.36%    2.738GiB / 96GiB    2.85%     0B / 0B   13.7GB / 32.8kB   129
+2025-02-17 07:02:31.332606
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4797.62%   115.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     699.78%    2.739GiB / 96GiB    2.85%     0B / 0B   13.8GB / 32.8kB   129
+2025-02-17 07:02:33.350993
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4791.16%   115.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     707.93%    2.739GiB / 96GiB    2.85%     0B / 0B   13.9GB / 32.8kB   129
+2025-02-17 07:02:35.367087
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4773.05%   115.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     675.19%    2.741GiB / 96GiB    2.85%     0B / 0B   14.1GB / 32.8kB   129
+2025-02-17 07:02:37.380651
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4776.10%   115.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     691.56%    2.741GiB / 96GiB    2.86%     0B / 0B   14.2GB / 32.8kB   129
+2025-02-17 07:02:39.396603
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4804.68%   115.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     715.36%    2.742GiB / 96GiB    2.86%     0B / 0B   14.3GB / 32.8kB   129
+2025-02-17 07:02:41.413178
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4809.60%   115.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     691.09%    2.744GiB / 96GiB    2.86%     0B / 0B   14.4GB / 32.8kB   129
+2025-02-17 07:02:43.429169
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4817.09%   115.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     680.37%    2.745GiB / 96GiB    2.86%     0B / 0B   14.5GB / 32.8kB   129
+2025-02-17 07:02:45.442249
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4774.63%   115.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     695.35%    2.748GiB / 96GiB    2.86%     0B / 0B   14.7GB / 32.8kB   129
+2025-02-17 07:02:47.461632
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+5661ca01d595   llama     4799.61%   115.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     683.58%    2.755GiB / 96GiB    2.87%     0B / 0B   14.8GB / 32.8kB   129
+2025-02-17 07:02:49.478207
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     695.46%   2.757GiB / 96GiB    2.87%     0B / 0B   14.9GB / 32.8kB   129
+2025-02-17 07:02:51.486377
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+38f97cc11e21   spark     692.94%   2.758GiB / 96GiB    2.87%     0B / 0B   15GB / 32.8kB   129
+2025-02-17 07:02:53.493263
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     695.86%   2.759GiB / 96GiB    2.87%     0B / 0B   15.1GB / 32.8kB   129
+2025-02-17 07:02:55.499190
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     722.85%   2.76GiB / 96GiB     2.88%     0B / 0B   15.3GB / 32.8kB   129
+2025-02-17 07:02:57.506416
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     679.62%   2.76GiB / 96GiB     2.88%     0B / 0B   15.4GB / 32.8kB   129
+2025-02-17 07:02:59.512885
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     681.33%   2.761GiB / 96GiB    2.88%     0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:03:01.519515
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     138.97%   2.764GiB / 96GiB    2.88%     0B / 0B   15.5GB / 32.8kB   130
+2025-02-17 07:03:03.525051
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     0.08%     2.764GiB / 96GiB    2.88%     0B / 0B   15.5GB / 32.8kB   130
+2025-02-17 07:03:05.530380
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     0.07%     2.763GiB / 96GiB    2.88%     0B / 0B   15.5GB / 32.8kB   130
+2025-02-17 07:03:07.535829
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     0.10%     2.763GiB / 96GiB    2.88%     0B / 0B   15.5GB / 32.8kB   130
+2025-02-17 07:03:09.540644
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     1.00%     2.764GiB / 96GiB    2.88%     0B / 0B   15.5GB / 32.8kB   130
+2025-02-17 07:03:11.546334
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     0.14%     2.763GiB / 96GiB    2.88%     0B / 0B   15.5GB / 32.8kB   130
+2025-02-17 07:03:13.550884
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     0.06%     2.763GiB / 96GiB    2.88%     0B / 0B   15.5GB / 32.8kB   130
+2025-02-17 07:03:15.556219
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     0.06%     2.763GiB / 96GiB    2.88%     0B / 0B   15.5GB / 32.8kB   130
+2025-02-17 07:03:17.562793
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     0.06%     2.763GiB / 96GiB    2.88%     0B / 0B   15.5GB / 32.8kB   130
+2025-02-17 07:03:19.567552
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     0.32%     2.763GiB / 96GiB    2.88%     0B / 0B   15.5GB / 32.8kB   130
+2025-02-17 07:03:21.574451
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     0.13%     2.763GiB / 96GiB    2.88%     0B / 0B   15.5GB / 32.8kB   130
+2025-02-17 07:03:23.577693
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     0.06%     2.763GiB / 96GiB    2.88%     0B / 0B   15.5GB / 32.8kB   130
+2025-02-17 07:03:25.582250
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     0.06%     2.763GiB / 96GiB    2.88%     0B / 0B   15.5GB / 32.8kB   130
+2025-02-17 07:03:27.587075
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     0.06%     2.763GiB / 96GiB    2.88%     0B / 0B   15.5GB / 32.8kB   130
+2025-02-17 07:03:29.593071
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     0.59%     2.763GiB / 96GiB    2.88%     0B / 0B   15.5GB / 32.8kB   130
+2025-02-17 07:03:31.597985
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     0.29%     2.763GiB / 96GiB    2.88%     0B / 0B   15.5GB / 32.8kB   130
+               --        0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B           0
+2025-02-17 07:03:33.603490
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     3171.38%   118.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     815.31%    3.547GiB / 96GiB    3.69%     0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:03:35.622543
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4788.18%   117.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     826.95%    4.222GiB / 96GiB    4.40%     0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:03:37.649207
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4796.16%   118.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     824.58%    4.834GiB / 96GiB    5.04%     0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:03:39.664484
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4787.39%   119.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     807.21%    5.496GiB / 96GiB    5.72%     0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:03:41.684889
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4819.26%   118.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     836.90%    6.155GiB / 96GiB    6.41%     0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:03:43.705534
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4780.46%   118.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     854.61%    6.809GiB / 96GiB    7.09%     0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:03:45.720969
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4800.54%   119.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     831.28%    7.49GiB / 96GiB     7.80%     0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:03:47.747991
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4785.36%   118.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     850.72%    8.077GiB / 96GiB    8.41%     0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:03:49.766128
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4814.10%   118MiB / 96GiB      0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     821.49%    8.609GiB / 96GiB    8.97%     0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:03:51.784523
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4775.77%   117.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     821.35%    9.217GiB / 96GiB    9.60%     0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:03:53.801925
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4818.33%   117.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     883.98%    9.815GiB / 96GiB    10.22%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:03:55.823066
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4798.02%   117.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     853.71%    10.31GiB / 96GiB    10.74%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:03:57.843943
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4767.48%   116.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     851.60%    10.87GiB / 96GiB    11.33%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:03:59.858627
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4797.70%   116.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     856.57%    11.46GiB / 96GiB    11.94%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:04:01.881889
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4790.27%   116MiB / 96GiB      0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     852.54%    12.05GiB / 96GiB    12.55%    0B / 0B   15.5GB / 32.8kB   134
+2025-02-17 07:04:03.900783
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4783.35%   115.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     857.35%    12.29GiB / 96GiB    12.81%    0B / 0B   15.5GB / 32.8kB   134
+2025-02-17 07:04:05.920431
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4771.29%   116.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     857.90%    12.31GiB / 96GiB    12.83%    0B / 0B   15.5GB / 32.8kB   134
+2025-02-17 07:04:07.939891
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4801.89%   116.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     855.43%    12.34GiB / 96GiB    12.85%    0B / 0B   15.5GB / 32.8kB   134
+2025-02-17 07:04:09.965631
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4807.57%   116.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     813.38%    12.36GiB / 96GiB    12.87%    0B / 0B   15.5GB / 32.8kB   134
+2025-02-17 07:04:11.978136
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4782.37%   115.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     848.68%    12.38GiB / 96GiB    12.90%    0B / 0B   15.5GB / 32.8kB   134
+2025-02-17 07:04:14.001832
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4806.98%   115.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     820.80%    12.4GiB / 96GiB     12.92%    0B / 0B   15.5GB / 32.8kB   134
+2025-02-17 07:04:16.023582
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4791.88%   115.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     856.91%    12.42GiB / 96GiB    12.94%    0B / 0B   15.5GB / 32.8kB   134
+2025-02-17 07:04:18.039917
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4796.05%   115.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     852.27%    12.44GiB / 96GiB    12.96%    0B / 0B   15.5GB / 32.8kB   134
+2025-02-17 07:04:20.062579
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4788.95%   115.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     821.44%    12.46GiB / 96GiB    12.98%    0B / 0B   15.5GB / 32.8kB   134
+2025-02-17 07:04:22.081231
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4802.45%   115.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     817.41%    12.48GiB / 96GiB    13.00%    0B / 0B   15.5GB / 32.8kB   134
+2025-02-17 07:04:24.100710
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4780.99%   117.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     824.31%    12.5GiB / 96GiB     13.02%    0B / 0B   15.5GB / 32.8kB   134
+2025-02-17 07:04:26.122641
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4785.87%   117.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     830.18%    12.5GiB / 96GiB     13.02%    0B / 0B   15.5GB / 32.8kB   134
+2025-02-17 07:04:28.149821
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4776.22%   117.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     843.44%    12.5GiB / 96GiB     13.02%    0B / 0B   15.5GB / 32.8kB   134
+2025-02-17 07:04:30.172784
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4801.39%   116.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     837.15%    12.5GiB / 96GiB     13.02%    0B / 0B   15.5GB / 32.8kB   134
+2025-02-17 07:04:32.192178
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4808.19%   116.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     826.40%    12.5GiB / 96GiB     13.02%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:04:34.218215
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4795.45%   116.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     828.55%    12.5GiB / 96GiB     13.02%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:04:36.237033
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4813.12%   116.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     849.82%    12.5GiB / 96GiB     13.02%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:04:38.258749
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4784.47%   116.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     824.76%    12.5GiB / 96GiB     13.02%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:04:40.277792
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4810.23%   116.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     825.95%    12.51GiB / 96GiB    13.03%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:04:42.301759
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4807.02%   117.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     827.05%    12.51GiB / 96GiB    13.03%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:04:44.326224
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4791.98%   117.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     835.51%    12.51GiB / 96GiB    13.03%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:04:46.350307
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4792.46%   116.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     833.37%    12.51GiB / 96GiB    13.03%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:04:48.369843
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4767.61%   116.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     825.33%    12.51GiB / 96GiB    13.03%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:04:50.392952
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4766.23%   115.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     851.90%    12.51GiB / 96GiB    13.03%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:04:52.415245
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4800.02%   115.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     393.06%    12.52GiB / 96GiB    13.04%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:04:54.429474
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4777.83%   115.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     839.96%    12.53GiB / 96GiB    13.05%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:04:56.441501
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4794.84%   115.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     840.25%    12.54GiB / 96GiB    13.07%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:04:58.458592
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4803.03%   115.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     845.38%    12.56GiB / 96GiB    13.08%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:05:00.479692
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4806.49%   115.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     829.52%    12.57GiB / 96GiB    13.09%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:05:02.499549
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4765.95%   115.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     826.74%    12.58GiB / 96GiB    13.10%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:05:04.512602
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4802.41%   117.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     836.22%    12.59GiB / 96GiB    13.12%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:05:06.530009
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4795.98%   117.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     838.62%    12.61GiB / 96GiB    13.13%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:05:08.552303
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4820.16%   117MiB / 96GiB      0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     824.62%    12.62GiB / 96GiB    13.14%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:05:10.572005
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4801.13%   116.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     837.58%    12.63GiB / 96GiB    13.15%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:05:12.589253
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4813.47%   116.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     848.30%    12.64GiB / 96GiB    13.17%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:05:14.606162
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4806.50%   116.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     866.58%    12.65GiB / 96GiB    13.17%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:05:16.623593
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4820.79%   116MiB / 96GiB      0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     836.77%    12.66GiB / 96GiB    13.19%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:05:18.641268
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4797.03%   115.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     835.15%    12.69GiB / 96GiB    13.22%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:05:20.653442
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4782.23%   117.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     828.67%    12.72GiB / 96GiB    13.25%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:05:22.673000
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4804.49%   117.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     828.65%    12.74GiB / 96GiB    13.27%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:05:24.691427
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4785.06%   117.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     823.59%    12.75GiB / 96GiB    13.28%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:05:26.708540
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4789.37%   117.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     840.61%    12.75GiB / 96GiB    13.28%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:05:28.721589
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4798.64%   116.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     825.54%    12.75GiB / 96GiB    13.29%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:05:30.743700
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4787.73%   116.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     840.39%    12.75GiB / 96GiB    13.29%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:05:32.757536
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4809.34%   115.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     836.36%    12.75GiB / 96GiB    13.29%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:05:34.775319
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4800.87%   115.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     833.47%    12.76GiB / 96GiB    13.29%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:05:36.796065
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4798.61%   117MiB / 96GiB      0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     860.30%    12.76GiB / 96GiB    13.29%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:05:38.815714
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4782.59%   116.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     820.02%    12.76GiB / 96GiB    13.29%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:05:40.833536
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4819.88%   115.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     843.89%    12.78GiB / 96GiB    13.31%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:05:42.854285
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4769.50%   115.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     850.69%    12.8GiB / 96GiB     13.33%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:05:44.874590
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4778.60%   115.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     820.78%    12.82GiB / 96GiB    13.35%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:05:46.889757
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4803.56%   115.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     823.75%    12.82GiB / 96GiB    13.35%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:05:48.911856
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4793.74%   115.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     869.39%    12.82GiB / 96GiB    13.36%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:05:50.923878
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4785.14%   115.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     817.58%    12.83GiB / 96GiB    13.36%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:05:52.943748
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4794.67%   115.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     821.89%    12.84GiB / 96GiB    13.37%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:05:54.959882
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4818.53%   115.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     833.28%    12.84GiB / 96GiB    13.37%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:05:56.974351
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4775.52%   116.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     830.25%    12.84GiB / 96GiB    13.37%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:05:58.995380
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4795.15%   116.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     880.19%    12.84GiB / 96GiB    13.37%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:06:01.013118
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4813.98%   116.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     820.99%    12.84GiB / 96GiB    13.38%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:06:03.029406
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4797.17%   116.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     827.40%    12.84GiB / 96GiB    13.38%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:06:05.048579
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4793.60%   116.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     856.44%    12.84GiB / 96GiB    13.38%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:06:07.068614
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4756.32%   116MiB / 96GiB      0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     824.07%    12.84GiB / 96GiB    13.38%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:06:09.091511
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4797.31%   115.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     840.36%    12.85GiB / 96GiB    13.38%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:06:11.112977
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4799.59%   115.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     831.15%    12.85GiB / 96GiB    13.38%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:06:13.135413
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4837.16%   115.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     831.23%    12.85GiB / 96GiB    13.38%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:06:15.159945
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4795.99%   116.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     832.28%    12.85GiB / 96GiB    13.39%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:06:17.178949
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4802.99%   116.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     833.69%    12.85GiB / 96GiB    13.39%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:06:19.202817
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4802.44%   116.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     513.23%    12.85GiB / 96GiB    13.39%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:06:21.222847
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4785.16%   116.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     833.29%    12.86GiB / 96GiB    13.39%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:06:23.240700
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4771.25%   116.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     822.03%    12.86GiB / 96GiB    13.39%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:06:25.262178
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4781.51%   116MiB / 96GiB      0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     844.95%    12.86GiB / 96GiB    13.40%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:06:27.284233
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4770.75%   116MiB / 96GiB      0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     826.35%    12.86GiB / 96GiB    13.40%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:06:29.300307
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4757.77%   115.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     845.40%    12.86GiB / 96GiB    13.40%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:06:31.332287
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4784.01%   115.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     833.14%    12.86GiB / 96GiB    13.40%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:06:33.344801
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4789.14%   115.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     842.50%    12.87GiB / 96GiB    13.40%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:06:35.361039
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4806.92%   118MiB / 96GiB      0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     825.81%    12.86GiB / 96GiB    13.40%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:06:37.385222
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4801.21%   117.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     819.97%    12.87GiB / 96GiB    13.41%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:06:39.411300
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4809.55%   117.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     841.58%    12.88GiB / 96GiB    13.41%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:06:41.431769
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4815.42%   116.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     827.67%    12.88GiB / 96GiB    13.42%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:06:43.451657
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4819.20%   116.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     830.91%    12.88GiB / 96GiB    13.42%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:06:45.469907
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4790.41%   116.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     829.69%    12.88GiB / 96GiB    13.42%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:06:47.488660
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4801.70%   116.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     836.69%    12.88GiB / 96GiB    13.42%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:06:49.510422
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4772.88%   116.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     815.96%    12.88GiB / 96GiB    13.42%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:06:51.532341
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4781.58%   116.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     830.11%    12.88GiB / 96GiB    13.42%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:06:53.547979
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4804.85%   116MiB / 96GiB      0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     857.00%    12.88GiB / 96GiB    13.42%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:06:55.570969
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4772.33%   116MiB / 96GiB      0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     849.36%    12.89GiB / 96GiB    13.42%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:06:57.588807
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4789.80%   116MiB / 96GiB      0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     837.98%    12.89GiB / 96GiB    13.43%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:06:59.610216
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4804.47%   117.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     827.21%    12.9GiB / 96GiB     13.44%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:07:01.632695
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4784.30%   116.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     856.34%    12.93GiB / 96GiB    13.47%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:07:03.650584
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4807.36%   116.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     829.09%    12.95GiB / 96GiB    13.49%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:07:05.670524
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4790.46%   116.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     828.66%    12.97GiB / 96GiB    13.51%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:07:07.690777
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4803.06%   116.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     832.74%    12.99GiB / 96GiB    13.53%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:07:09.712189
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4802.24%   116MiB / 96GiB      0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     827.62%    13.01GiB / 96GiB    13.55%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:07:11.729036
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+946b8220cc0e   llama     4780.75%   115.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B           48
+38f97cc11e21   spark     825.09%    13.01GiB / 96GiB    13.55%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:07:13.748187
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     819.69%   13.01GiB / 96GiB    13.55%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:07:15.754168
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     835.49%   13.01GiB / 96GiB    13.55%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:07:17.761630
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     838.03%   13.01GiB / 96GiB    13.55%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:07:19.768190
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     828.17%   13.01GiB / 96GiB    13.55%    0B / 0B   15.5GB / 32.8kB   134
+2025-02-17 07:07:21.776193
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     837.23%   13.01GiB / 96GiB    13.55%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:07:23.782621
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     833.02%   13.01GiB / 96GiB    13.55%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:07:25.789889
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     823.27%   13.01GiB / 96GiB    13.55%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:07:27.797439
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     835.14%   13.01GiB / 96GiB    13.56%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:07:29.805304
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     832.63%   13.02GiB / 96GiB    13.56%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:07:31.812963
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     828.55%   13.02GiB / 96GiB    13.56%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:07:33.819438
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     833.89%   13.02GiB / 96GiB    13.56%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:07:35.826771
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     312.95%   13.02GiB / 96GiB    13.56%    0B / 0B   15.5GB / 32.8kB   130
+2025-02-17 07:07:37.833791
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     824.83%   13.02GiB / 96GiB    13.56%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:07:39.841241
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     828.02%   13.02GiB / 96GiB    13.56%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:07:41.848662
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     830.02%   13.02GiB / 96GiB    13.56%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:07:43.854649
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     829.84%   13.02GiB / 96GiB    13.56%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:07:45.862726
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     833.18%   13.02GiB / 96GiB    13.56%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:07:47.869813
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     837.58%   13.02GiB / 96GiB    13.57%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:07:49.875699
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     837.39%   13.02GiB / 96GiB    13.57%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:07:51.881604
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     820.74%   13.02GiB / 96GiB    13.57%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:07:53.888959
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     829.57%   13.02GiB / 96GiB    13.57%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:07:55.896958
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     820.45%   13.02GiB / 96GiB    13.57%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:07:57.906177
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     829.35%   13.02GiB / 96GiB    13.57%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:07:59.913124
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     819.88%   13.03GiB / 96GiB    13.57%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:08:01.920718
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     825.32%   13.03GiB / 96GiB    13.57%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:08:03.927893
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     838.28%   13.03GiB / 96GiB    13.57%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:08:05.936150
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     830.78%   13.03GiB / 96GiB    13.57%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:08:07.943734
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     828.76%   13.03GiB / 96GiB    13.57%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:08:09.951026
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     832.24%   13.03GiB / 96GiB    13.57%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:08:11.957209
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     827.73%   13.03GiB / 96GiB    13.57%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:08:13.965146
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     820.86%   13.03GiB / 96GiB    13.57%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:08:15.971883
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     834.69%   13.03GiB / 96GiB    13.57%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:08:17.979445
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     824.58%   13.03GiB / 96GiB    13.58%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:08:19.987056
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     840.65%   13.03GiB / 96GiB    13.58%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:08:21.994212
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     832.72%   13.03GiB / 96GiB    13.58%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:08:24.001954
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     836.14%   13.03GiB / 96GiB    13.58%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:08:26.009026
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     831.58%   13.04GiB / 96GiB    13.58%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:08:28.016202
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     826.36%   13.04GiB / 96GiB    13.58%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:08:30.023228
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     835.70%   13.04GiB / 96GiB    13.58%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:08:32.032708
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     831.28%   13.04GiB / 96GiB    13.58%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:08:34.039890
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     823.57%   13.04GiB / 96GiB    13.58%    0B / 0B   15.5GB / 32.8kB   135
+2025-02-17 07:08:36.047592
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     826.14%   13.04GiB / 96GiB    13.58%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:08:38.055615
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     829.03%   13.04GiB / 96GiB    13.58%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:08:40.062185
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     833.43%   13.04GiB / 96GiB    13.58%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:08:42.069098
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     865.78%   13.04GiB / 96GiB    13.58%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:08:44.077100
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     831.69%   13.04GiB / 96GiB    13.59%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:08:46.087938
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     830.75%   13.04GiB / 96GiB    13.59%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:08:48.092384
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     581.05%   13.05GiB / 96GiB    13.59%    0B / 0B   15.5GB / 32.8kB   129
+2025-02-17 07:08:50.099867
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     0.00%     9.638GiB / 96GiB    10.04%    0B / 0B   15.5GB / 32.8kB   1
+2025-02-17 07:08:52.108061
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     0.00%     9.638GiB / 96GiB    10.04%    0B / 0B   15.5GB / 32.8kB   1
+2025-02-17 07:08:54.114089
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     0.00%     9.638GiB / 96GiB    10.04%    0B / 0B   15.5GB / 32.8kB   1
+2025-02-17 07:08:56.118976
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     0.00%     9.638GiB / 96GiB    10.04%    0B / 0B   15.5GB / 32.8kB   1
+2025-02-17 07:08:58.124400
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O         PIDS
+38f97cc11e21   spark     0.00%     9.638GiB / 96GiB    10.04%    0B / 0B   15.5GB / 32.8kB   1
+2025-02-17 07:09:00.130275
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS

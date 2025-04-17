@@ -1,0 +1,14 @@
+HOSTNAME: pbbs-sweep-clr-0
+running on 48 threads
+
+cd benchmarks/nearestNeighbors/octTree ; make -s
+cd benchmarks/nearestNeighbors/octTree ; numactl -i all ./testInputs -r 18 -p 48 -x -s 1731630817
+cd ../geometryData/data; make 3Dplummer_50000000
+3Dplummer_50000000 : -d 3 -k 10 -r 18 -s 1731630817 : '9.274', '9.536', '9.192', '9.431', '9.315', '9.328', '9.391', '9.384', '9.293', '9.263', '9.234', '9.345', '9.236', '9.246', '9.32', '9.285', '9.253', '8.374', geomean = 9.258, start = 2024-11-15 00:33:37.106100, end = 2024-11-15 00:36:23.816700, startup = 58.707596, shutdown = 3.49955
+octTree : 48 : geomean of mins = 8.374, geomean of geomeans = 9.258
+Running only:  [['nearestNeighbors/octTree', True, 0]]
+Extended Benchmarks
+Not Checking
+Running each test 18 times
+Running on at most 48 threads
+Starting at 1731630817

@@ -1,0 +1,917 @@
+2025-02-17 01:48:12.070212
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:48:14.232226
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:48:16.238025
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:48:18.243768
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:48:20.249094
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:48:22.254101
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:48:24.261867
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:48:26.266041
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:48:28.271799
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:48:30.277113
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:48:32.282170
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        160.96%    148.5MiB / 96GiB    0.15%     0B / 0B         44.1MB / 32.8kB   57
+7fbd3caa67b9   pgbench-50   4940.70%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:48:34.295437
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        134.48%    291.1MiB / 96GiB    0.30%     0B / 0B         67.4MB / 32.8kB   61
+7fbd3caa67b9   pgbench-50   4983.76%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:48:36.307369
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        310.53%    459.4MiB / 96GiB    0.47%     0B / 0B         83.5MB / 32.8kB   116
+7fbd3caa67b9   pgbench-50   4969.37%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:48:38.317639
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        341.26%    634MiB / 96GiB      0.64%     0B / 0B         99.1MB / 32.8kB   117
+7fbd3caa67b9   pgbench-50   4990.31%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:48:40.325652
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        167.11%    750.8MiB / 96GiB    0.76%     0B / 0B         108MB / 32.8kB    117
+7fbd3caa67b9   pgbench-50   4955.20%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:48:42.333002
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        303.76%    992.4MiB / 96GiB    1.01%     0B / 0B         113MB / 32.8kB    117
+7fbd3caa67b9   pgbench-50   4985.20%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:48:44.343238
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        428.03%    1.072GiB / 96GiB    1.12%     0B / 0B         117MB / 32.8kB    126
+7fbd3caa67b9   pgbench-50   5035.03%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:48:46.354560
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        793.52%    2.291GiB / 96GiB    2.39%     0B / 0B         751MB / 32.8kB    131
+7fbd3caa67b9   pgbench-50   4984.17%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:48:48.366753
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        830.59%    2.495GiB / 96GiB    2.60%     0B / 0B         1.49GB / 32.8kB   134
+7fbd3caa67b9   pgbench-50   4995.98%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:48:50.377559
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        831.31%    2.526GiB / 96GiB    2.63%     0B / 0B         2.23GB / 32.8kB   134
+7fbd3caa67b9   pgbench-50   4995.71%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:48:52.388502
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        784.35%    2.545GiB / 96GiB    2.65%     0B / 0B         3.01GB / 32.8kB   134
+7fbd3caa67b9   pgbench-50   4998.28%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:48:54.402524
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        803.73%    2.554GiB / 96GiB    2.66%     0B / 0B         3.74GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4986.91%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:48:56.414233
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        826.81%    2.558GiB / 96GiB    2.67%     0B / 0B         4.5GB / 32.8kB    135
+7fbd3caa67b9   pgbench-50   4994.46%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:48:58.422186
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        797.02%    2.561GiB / 96GiB    2.67%     0B / 0B         5.27GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4957.16%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:00.429005
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        804.35%    2.578GiB / 96GiB    2.68%     0B / 0B         5.99GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4990.44%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:02.437045
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        794.77%    2.572GiB / 96GiB    2.68%     0B / 0B         6.74GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4979.60%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:04.447508
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        785.50%    2.574GiB / 96GiB    2.68%     0B / 0B         7.49GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4966.10%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:06.460119
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        799.26%    2.575GiB / 96GiB    2.68%     0B / 0B         8.25GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4972.84%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:08.467054
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        811.46%    2.576GiB / 96GiB    2.68%     0B / 0B         8.97GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   5003.46%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:10.477410
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        812.96%    2.577GiB / 96GiB    2.68%     0B / 0B         9.73GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   5003.56%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:12.488696
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        787.81%    2.577GiB / 96GiB    2.68%     0B / 0B         10.5GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   5025.38%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:14.499499
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        775.24%    2.579GiB / 96GiB    2.69%     0B / 0B         11.3GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4985.36%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:16.512320
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        776.53%    2.581GiB / 96GiB    2.69%     0B / 0B         12.1GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   5009.79%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:18.521127
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        802.97%    2.582GiB / 96GiB    2.69%     0B / 0B         12.8GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4947.71%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:20.528029
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        799.70%    2.585GiB / 96GiB    2.69%     0B / 0B         13.6GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4964.62%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:22.535361
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        791.25%    2.586GiB / 96GiB    2.69%     0B / 0B         14.3GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4947.44%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:24.546725
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        777.38%    2.588GiB / 96GiB    2.70%     0B / 0B         15.1GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4990.83%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:26.556627
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        774.91%    2.589GiB / 96GiB    2.70%     0B / 0B         15.9GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   5000.11%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:28.568055
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        784.34%    2.591GiB / 96GiB    2.70%     0B / 0B         16.7GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   5005.78%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:30.578084
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        769.66%    2.592GiB / 96GiB    2.70%     0B / 0B         17.5GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4951.35%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:32.590054
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        783.71%    2.593GiB / 96GiB    2.70%     0B / 0B         18.3GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   5020.27%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:34.601009
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        779.42%    2.594GiB / 96GiB    2.70%     0B / 0B         19GB / 32.8kB     135
+7fbd3caa67b9   pgbench-50   4976.26%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:36.613748
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        784.12%    2.595GiB / 96GiB    2.70%     0B / 0B         19.8GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   5024.32%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:38.620760
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        783.25%    2.597GiB / 96GiB    2.70%     0B / 0B         20.5GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4992.97%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:40.633794
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        804.86%    2.598GiB / 96GiB    2.71%     0B / 0B         21.3GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4977.22%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:42.642834
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        765.91%    2.599GiB / 96GiB    2.71%     0B / 0B         22.1GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4962.88%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:44.654001
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        747.35%    2.6GiB / 96GiB      2.71%     0B / 0B         22.9GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4983.03%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:46.665759
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        775.04%    2.602GiB / 96GiB    2.71%     0B / 0B         23.6GB / 32.8kB   130
+7fbd3caa67b9   pgbench-50   4989.75%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:48.677294
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        764.19%    2.603GiB / 96GiB    2.71%     0B / 0B         24.2GB / 32.8kB   130
+7fbd3caa67b9   pgbench-50   4979.92%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:50.687007
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        715.46%    2.607GiB / 96GiB    2.72%     0B / 0B         24.8GB / 32.8kB   130
+7fbd3caa67b9   pgbench-50   4996.91%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:52.697820
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        708.25%    2.608GiB / 96GiB    2.72%     0B / 0B         25.2GB / 32.8kB   130
+7fbd3caa67b9   pgbench-50   4962.47%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:54.708555
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        711.15%    2.607GiB / 96GiB    2.72%     0B / 0B         25.8GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   5016.03%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:56.720269
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        706.24%    2.611GiB / 96GiB    2.72%     0B / 0B         26.3GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4964.98%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:49:58.729347
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        768.81%    2.612GiB / 96GiB    2.72%     0B / 0B         26.9GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4981.09%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:50:00.737421
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        744.33%    2.613GiB / 96GiB    2.72%     0B / 0B         27.6GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   5004.46%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:50:02.747155
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        723.32%    2.614GiB / 96GiB    2.72%     0B / 0B         28.2GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4979.40%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:50:04.758998
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        751.35%    2.617GiB / 96GiB    2.73%     0B / 0B         28.8GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   5005.51%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:50:06.768779
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        738.99%    2.615GiB / 96GiB    2.72%     0B / 0B         29.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   5046.55%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:50:08.779821
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        784.86%    2.616GiB / 96GiB    2.73%     0B / 0B         30GB / 32.8kB     129
+7fbd3caa67b9   pgbench-50   5003.09%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:50:10.790495
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        761.59%    2.621GiB / 96GiB    2.73%     0B / 0B         30.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4983.49%   15.4GiB / 96GiB     16.04%    1.68kB / 906B   24.7MB / 31.9GB   112
+2025-02-17 01:50:12.802519
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        736.36%   2.621GiB / 96GiB    2.73%     0B / 0B         30.8GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.87%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:50:14.815325
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        692.46%   2.623GiB / 96GiB    2.73%     0B / 0B         31.1GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.87%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:50:16.826823
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        742.91%   2.625GiB / 96GiB    2.73%     0B / 0B         31.5GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.87%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:50:18.838170
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        668.48%   2.626GiB / 96GiB    2.74%     0B / 0B         31.7GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.87%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:50:20.848418
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        715.53%   2.629GiB / 96GiB    2.74%     0B / 0B         32GB / 32.8kB     129
+7fbd3caa67b9   pgbench-50   0.01%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:50:22.860163
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        693.69%   2.63GiB / 96GiB     2.74%     0B / 0B         32.2GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   0.01%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:50:24.873249
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        675.60%   2.631GiB / 96GiB    2.74%     0B / 0B         32.3GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   0.01%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:50:26.885353
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        167.51%   2.634GiB / 96GiB    2.74%     0B / 0B         32.4GB / 32.8kB   130
+7fbd3caa67b9   pgbench-50   0.01%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:50:28.897463
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        0.05%     2.633GiB / 96GiB    2.74%     0B / 0B         32.4GB / 32.8kB   130
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:50:30.907109
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        214.73%   2.685GiB / 96GiB    2.80%     0B / 0B         32.4GB / 32.8kB   130
+7fbd3caa67b9   pgbench-50   718.34%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:50:32.917659
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        839.96%    3.543GiB / 96GiB    3.69%     0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4435.27%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:50:34.927812
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        848.64%    4.384GiB / 96GiB    4.57%     0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4432.61%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:50:36.937223
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        852.12%    5.235GiB / 96GiB    5.45%     0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4466.12%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:50:38.952658
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        857.53%    6.056GiB / 96GiB    6.31%     0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4455.99%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:50:40.963755
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        846.18%    6.917GiB / 96GiB    7.21%     0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4491.22%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:50:42.976035
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        845.21%    7.773GiB / 96GiB    8.10%     0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4433.40%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:50:44.988609
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        836.14%    8.599GiB / 96GiB    8.96%     0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4441.58%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:50:46.998939
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        848.90%    9.427GiB / 96GiB    9.82%     0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4416.92%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:50:49.010645
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        847.10%    10.27GiB / 96GiB    10.70%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4418.79%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:50:51.020693
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        841.47%    11.1GiB / 96GiB     11.57%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4417.27%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:50:53.033719
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        841.84%    11.91GiB / 96GiB    12.41%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4407.11%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:50:55.045561
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        839.89%    12.67GiB / 96GiB    13.20%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4407.77%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:50:57.054870
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        829.62%    13.47GiB / 96GiB    14.03%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4385.85%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:50:59.066104
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        840.57%    14.27GiB / 96GiB    14.87%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4423.51%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:01.077044
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        847.27%    15.09GiB / 96GiB    15.72%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4426.76%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:03.087735
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        844.24%    15.92GiB / 96GiB    16.58%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4395.21%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:05.099853
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        849.72%    16.72GiB / 96GiB    17.41%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4420.71%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:07.108492
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        834.62%    17.56GiB / 96GiB    18.29%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4372.87%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:09.120581
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        854.69%    18.39GiB / 96GiB    19.15%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4376.02%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:11.130184
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        846.66%    19.19GiB / 96GiB    19.99%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4410.89%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:13.139397
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        846.13%    20GiB / 96GiB       20.84%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4420.25%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:15.149557
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        838.83%    20.84GiB / 96GiB    21.71%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4440.70%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:17.160627
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        858.85%    21.55GiB / 96GiB    22.45%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4485.74%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:19.168992
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        834.12%    22.06GiB / 96GiB    22.98%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4445.77%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:21.180908
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        853.35%    22.59GiB / 96GiB    23.53%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4362.36%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:23.191996
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        838.69%    23.14GiB / 96GiB    24.10%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4400.02%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:25.203878
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        854.35%    23.72GiB / 96GiB    24.71%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4437.65%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:27.214892
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        853.40%    24.33GiB / 96GiB    25.34%    0B / 0B         32.4GB / 32.8kB   134
+7fbd3caa67b9   pgbench-50   4449.71%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:29.224390
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        836.95%    24.96GiB / 96GiB    26.00%    0B / 0B         32.4GB / 32.8kB   134
+7fbd3caa67b9   pgbench-50   4456.21%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:31.235489
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        843.52%    25.57GiB / 96GiB    26.64%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4487.48%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:33.247545
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        850.42%    26.22GiB / 96GiB    27.31%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4441.85%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:35.259785
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        838.88%    26.53GiB / 96GiB    27.64%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4351.61%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:37.268733
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        841.38%    26.8GiB / 96GiB     27.92%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4449.15%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:39.285142
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        857.94%    26.94GiB / 96GiB    28.06%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4428.38%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:41.295462
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        837.24%    27.18GiB / 96GiB    28.31%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4373.20%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:43.306960
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        836.05%    27.32GiB / 96GiB    28.46%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4422.40%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:45.316715
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        837.06%    27.49GiB / 96GiB    28.64%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4511.44%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:47.328782
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        844.70%    27.51GiB / 96GiB    28.66%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4385.04%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:49.338874
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        566.89%    27.51GiB / 96GiB    28.66%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4437.92%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:51.349412
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        834.31%    27.53GiB / 96GiB    28.67%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4444.07%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:53.360191
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        844.58%    27.54GiB / 96GiB    28.68%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4438.06%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:55.369387
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        835.78%    27.55GiB / 96GiB    28.69%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4466.23%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:57.382304
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        832.19%    27.56GiB / 96GiB    28.71%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4498.87%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:51:59.391878
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        849.19%    27.57GiB / 96GiB    28.72%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4433.98%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:01.402492
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        835.40%    27.59GiB / 96GiB    28.74%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4510.40%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:03.413391
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        835.59%    27.6GiB / 96GiB     28.75%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4446.25%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:05.422346
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        844.42%    27.61GiB / 96GiB    28.76%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4461.43%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:07.434323
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        838.25%    27.62GiB / 96GiB    28.77%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4475.25%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:09.446630
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        848.53%    27.64GiB / 96GiB    28.79%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4429.85%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:11.458278
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        855.82%    27.65GiB / 96GiB    28.80%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4487.02%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:13.469361
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        846.84%    27.67GiB / 96GiB    28.82%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4422.43%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:15.478975
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        839.01%    27.68GiB / 96GiB    28.83%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4453.95%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:17.490833
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        836.24%    27.69GiB / 96GiB    28.85%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4466.32%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:19.499404
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        836.83%    27.7GiB / 96GiB     28.86%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4419.95%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:21.510935
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        828.11%    27.72GiB / 96GiB    28.87%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4397.71%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:23.519368
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        837.16%    27.73GiB / 96GiB    28.89%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4485.78%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:25.529802
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        836.10%    27.75GiB / 96GiB    28.90%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4400.49%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:27.540616
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        834.24%    27.76GiB / 96GiB    28.92%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4443.11%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:29.551079
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        836.71%    27.78GiB / 96GiB    28.93%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4506.54%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:31.560146
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        846.49%    27.79GiB / 96GiB    28.95%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4385.06%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:33.569982
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        832.98%    27.81GiB / 96GiB    28.96%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4421.28%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:35.580314
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        844.51%    27.82GiB / 96GiB    28.98%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4483.03%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:37.590760
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        841.13%    27.83GiB / 96GiB    28.99%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4462.42%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:39.603926
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        838.44%    27.84GiB / 96GiB    29.00%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4461.37%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:41.616971
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        837.43%    27.85GiB / 96GiB    29.02%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4376.41%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:43.625408
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        829.58%    27.86GiB / 96GiB    29.02%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4417.28%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:45.636805
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        834.35%    27.87GiB / 96GiB    29.04%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4371.10%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:47.648240
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        837.42%    27.89GiB / 96GiB    29.05%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4407.80%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:49.657585
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        842.50%    27.9GiB / 96GiB     29.06%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4520.31%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:51.668628
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        835.44%    27.91GiB / 96GiB    29.07%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4469.22%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:53.677639
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        837.59%    27.93GiB / 96GiB    29.09%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4477.79%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:55.689815
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        831.49%    27.93GiB / 96GiB    29.10%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4367.74%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:57.699390
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        826.64%    27.94GiB / 96GiB    29.11%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4381.26%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:52:59.710470
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        835.53%    27.95GiB / 96GiB    29.12%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4475.35%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:01.721679
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        846.26%    27.96GiB / 96GiB    29.12%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4452.75%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:03.731886
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        842.99%    27.97GiB / 96GiB    29.13%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4429.64%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:05.744030
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        838.94%    27.97GiB / 96GiB    29.14%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4448.53%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:07.754948
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        840.32%    27.98GiB / 96GiB    29.14%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4503.44%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:09.765524
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        805.06%    27.98GiB / 96GiB    29.14%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4451.37%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:11.775151
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        821.64%    27.98GiB / 96GiB    29.15%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4485.59%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:13.786056
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        837.46%    27.98GiB / 96GiB    29.15%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4455.43%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:15.796625
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        850.67%    27.98GiB / 96GiB    29.15%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4470.25%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:17.807833
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        835.28%    27.99GiB / 96GiB    29.15%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4470.39%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:19.816652
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        847.70%    27.99GiB / 96GiB    29.15%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4463.34%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:21.826725
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        836.54%    27.99GiB / 96GiB    29.16%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4455.92%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:23.838813
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        836.19%    27.99GiB / 96GiB    29.15%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4469.61%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:25.848913
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        846.86%    27.99GiB / 96GiB    29.15%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4443.37%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:27.860457
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        833.59%    27.99GiB / 96GiB    29.15%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4510.13%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:29.871376
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        834.23%    27.99GiB / 96GiB    29.16%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4424.16%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:31.883447
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        835.82%    27.99GiB / 96GiB    29.15%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4439.96%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:33.894792
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        842.38%    27.99GiB / 96GiB    29.16%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4370.78%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:35.905797
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        837.49%    27.99GiB / 96GiB    29.16%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4456.13%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:37.915448
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        841.48%    27.99GiB / 96GiB    29.16%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4417.06%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:39.929765
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        833.71%    27.99GiB / 96GiB    29.16%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4385.39%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:41.941605
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        852.65%    27.99GiB / 96GiB    29.16%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4435.42%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:43.951986
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        838.04%    27.99GiB / 96GiB    29.16%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4395.91%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:45.960884
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        833.64%    27.99GiB / 96GiB    29.16%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4448.95%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:47.972293
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        842.61%    28GiB / 96GiB       29.16%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4459.33%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:49.983576
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        840.91%    28GiB / 96GiB       29.16%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4486.38%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:51.991573
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        839.69%    28GiB / 96GiB       29.17%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4475.81%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:54.002273
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        840.75%    28GiB / 96GiB       29.17%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4457.44%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:56.013945
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        838.93%    28GiB / 96GiB       29.17%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4390.88%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:53:58.024224
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        847.32%    28GiB / 96GiB       29.17%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4415.97%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:54:00.036079
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        841.51%    28GiB / 96GiB       29.17%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4422.03%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:54:02.047097
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        839.62%    28.01GiB / 96GiB    29.17%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4450.66%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:54:04.057850
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        843.05%    28.01GiB / 96GiB    29.18%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4476.06%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:54:06.066325
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        835.20%    28.01GiB / 96GiB    29.18%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4400.66%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:54:08.076416
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        840.28%    28.01GiB / 96GiB    29.18%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4454.67%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:54:10.088161
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        837.51%    28.01GiB / 96GiB    29.18%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4438.57%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:54:12.098345
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        840.36%    28.01GiB / 96GiB    29.18%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4470.16%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:54:14.109200
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        831.22%    28.01GiB / 96GiB    29.18%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4500.41%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:54:16.119778
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        842.27%    28.01GiB / 96GiB    29.18%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4476.94%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:54:18.131535
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        835.33%    28.02GiB / 96GiB    29.18%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4449.09%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:54:20.141408
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        831.66%    28.02GiB / 96GiB    29.18%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4552.35%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:54:22.150917
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        845.46%    28.02GiB / 96GiB    29.19%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4504.34%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:54:24.164920
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        828.14%    28.02GiB / 96GiB    29.19%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4426.44%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:54:26.172965
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        829.55%    28.02GiB / 96GiB    29.19%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4386.31%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:54:28.183408
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        817.30%    28.02GiB / 96GiB    29.19%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   4449.29%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:54:30.194330
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        330.01%    28.02GiB / 96GiB    29.19%    0B / 0B         32.4GB / 32.8kB   130
+7fbd3caa67b9   pgbench-50   4490.52%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:54:32.204986
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        838.24%    28.03GiB / 96GiB    29.19%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4489.46%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:54:34.213737
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        832.35%    28.03GiB / 96GiB    29.19%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4502.08%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:54:36.223700
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        835.09%    28.02GiB / 96GiB    29.19%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4494.70%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:54:38.234330
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        832.64%    28.02GiB / 96GiB    29.19%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4531.44%   15.32GiB / 96GiB    15.96%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:54:40.243694
+CONTAINER ID   NAME         CPU %      MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        845.39%    28.03GiB / 96GiB    29.19%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   4539.77%   15.32GiB / 96GiB    15.95%    1.68kB / 906B   24.7MB / 31.9GB   62
+2025-02-17 01:54:42.252712
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        815.47%   28.03GiB / 96GiB    29.20%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   0.01%     15.23GiB / 96GiB    15.87%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:54:44.265461
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        814.07%   28.03GiB / 96GiB    29.20%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.87%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:54:46.278334
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        814.56%   28.03GiB / 96GiB    29.20%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.87%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:54:48.291996
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        815.37%   28.03GiB / 96GiB    29.20%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.87%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:54:50.304220
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        813.36%   28.03GiB / 96GiB    29.20%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.87%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:54:52.316102
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        825.17%   28.03GiB / 96GiB    29.20%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   0.01%     15.23GiB / 96GiB    15.87%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:54:54.327541
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        825.54%   28.03GiB / 96GiB    29.20%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.87%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:54:56.340256
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        816.64%   28.04GiB / 96GiB    29.20%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:54:58.356343
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        829.60%   28.04GiB / 96GiB    29.20%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:00.367896
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        842.53%   28.04GiB / 96GiB    29.21%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:02.381342
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        816.39%   28.04GiB / 96GiB    29.21%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   0.01%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:04.395897
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        814.24%   28.04GiB / 96GiB    29.21%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:06.408023
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        821.85%   28.04GiB / 96GiB    29.21%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:08.420993
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        812.98%   28.04GiB / 96GiB    29.21%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:10.434344
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        818.88%   28.04GiB / 96GiB    29.21%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:12.447127
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        813.83%   28.04GiB / 96GiB    29.21%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   0.01%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:14.458931
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        818.52%   28.05GiB / 96GiB    29.21%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:16.471086
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        817.29%   28.05GiB / 96GiB    29.22%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:18.484695
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        816.89%   28.05GiB / 96GiB    29.22%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:20.497210
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        818.23%   28.05GiB / 96GiB    29.22%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   0.19%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:22.510376
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        815.91%   28.05GiB / 96GiB    29.22%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   0.03%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:24.519991
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        819.10%   28.05GiB / 96GiB    29.22%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   0.01%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:26.535068
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        829.42%   28.05GiB / 96GiB    29.22%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   0.01%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:28.546476
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        812.84%   28.05GiB / 96GiB    29.22%    0B / 0B         32.4GB / 32.8kB   135
+7fbd3caa67b9   pgbench-50   0.01%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:30.557512
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        814.95%   28.05GiB / 96GiB    29.22%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   0.01%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:32.571083
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        819.80%   28.05GiB / 96GiB    29.22%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   0.01%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:34.583413
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        822.95%   28.05GiB / 96GiB    29.22%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:36.598905
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        818.75%   28.05GiB / 96GiB    29.22%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:38.611001
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        814.96%   28.05GiB / 96GiB    29.22%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:40.625373
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        826.86%   28.05GiB / 96GiB    29.22%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:42.639038
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        815.22%   28.06GiB / 96GiB    29.23%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   0.01%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:44.652136
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        806.94%   28.06GiB / 96GiB    29.23%    0B / 0B         32.4GB / 32.8kB   129
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:46.665504
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        334.63%   28.03GiB / 96GiB    29.19%    0B / 0B         32.4GB / 32.8kB   85
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:48.677670
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        0.00%     25.31GiB / 96GiB    26.36%    0B / 0B         32.4GB / 32.8kB   1
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:50.691973
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        0.00%     25.31GiB / 96GiB    26.36%    0B / 0B         32.4GB / 32.8kB   1
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:52.700100
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        0.00%     25.31GiB / 96GiB    26.36%    0B / 0B         32.4GB / 32.8kB   1
+7fbd3caa67b9   pgbench-50   0.01%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:54.710653
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+3aa4846234e1   spark        0.00%     25.31GiB / 96GiB    26.36%    0B / 0B         32.4GB / 32.8kB   1
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6
+2025-02-17 01:55:56.719636
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
+7fbd3caa67b9   pgbench-50   0.00%     15.23GiB / 96GiB    15.86%    1.68kB / 906B   24.7MB / 31.9GB   6

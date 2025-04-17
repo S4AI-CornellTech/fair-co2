@@ -1,0 +1,2 @@
+,workload,label,rounds,cpus,memory,times,geomean,start,end,start_seconds,end_seconds,duration
+0,parallelCK,nBody,10,48,96,"[31.016, 32.362, 31.947, 32.041, 32.222, 31.652]",31.870226936386878,2025-02-17 02:52:46.480800,2025-02-17 02:55:57.720800,0.0,191.24,191.24

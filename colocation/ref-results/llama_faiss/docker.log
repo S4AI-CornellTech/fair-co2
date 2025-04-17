@@ -1,0 +1,1324 @@
+2025-02-17 06:48:31.033646
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:31.655452
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:32.273990
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:32.892840
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:33.511116
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:34.129511
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:34.748216
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:35.368073
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:35.984497
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:36.600445
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:37.221387
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:37.841527
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:38.459090
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:39.077718
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:39.694303
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:40.313618
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:40.932055
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:41.553525
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:42.172412
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:42.790501
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:43.410872
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:44.028408
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:44.649698
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:45.266680
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:45.884080
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:46.502558
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:47.119131
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:47.737884
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:48.354824
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:48.973568
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:49.591187
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:50.208743
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+2025-02-17 06:48:50.827414
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+               --        0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+               --        0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+2025-02-17 06:48:51.446549
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     100.21%    86.59MiB / 96GiB    0.09%     0B / 0B   56.1MB / 4.1kB   5
+6e34e4898c85   llama     3956.58%   117.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+2025-02-17 06:48:53.792684
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     79.10%     110.7MiB / 96GiB    0.11%     0B / 0B   107MB / 4.1kB   3
+6e34e4898c85   llama     4793.06%   119.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:48:55.809028
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     76.92%     948.8MiB / 96GiB    0.97%     0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4814.78%   120.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:48:57.828777
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     99.75%     3.529GiB / 96GiB    3.68%     0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4786.44%   119.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:48:59.845606
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     100.21%    5.779GiB / 96GiB    6.02%     0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4786.79%   119.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:01.865208
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     99.92%     8.352GiB / 96GiB    8.70%     0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4799.20%   119.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:03.883904
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     100.46%    10.88GiB / 96GiB    11.33%    0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4798.08%   119.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:05.903576
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     99.92%     13.48GiB / 96GiB    14.04%    0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4805.63%   119.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:07.926195
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     100.09%    16.03GiB / 96GiB    16.69%    0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4784.36%   119MiB / 96GiB      0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:09.942830
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     99.74%     18.56GiB / 96GiB    19.33%    0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4782.09%   119MiB / 96GiB      0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:11.954703
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     100.01%    21.13GiB / 96GiB    22.01%    0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4802.27%   118.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:13.974921
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     100.31%    23.7GiB / 96GiB     24.69%    0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4799.29%   118.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:15.992175
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     100.12%    26.28GiB / 96GiB    27.38%    0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4805.24%   118.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:18.015997
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     99.91%     28.87GiB / 96GiB    30.08%    0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4791.19%   118.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:20.036699
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     100.42%    31.46GiB / 96GiB    32.77%    0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4811.25%   117.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:22.051440
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     99.99%     34.06GiB / 96GiB    35.48%    0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4799.20%   117.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:24.071165
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     99.77%     36.64GiB / 96GiB    38.17%    0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4798.42%   117.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:26.093000
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     99.90%     39.23GiB / 96GiB    40.86%    0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4816.97%   117.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:28.111074
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     99.91%     41.85GiB / 96GiB    43.59%    0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4773.69%   116.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:30.124202
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     99.71%     44.46GiB / 96GiB    46.32%    0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4799.36%   117MiB / 96GiB      0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:32.146987
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     99.89%     47.06GiB / 96GiB    49.02%    0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4802.91%   116.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:34.168037
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     100.29%    49.67GiB / 96GiB    51.74%    0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4796.98%   116.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:36.187743
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     100.11%    52.27GiB / 96GiB    54.45%    0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4797.83%   116.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:38.207877
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     100.00%    54.89GiB / 96GiB    57.17%    0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4774.88%   116.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:40.225407
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     100.03%    57.49GiB / 96GiB    59.89%    0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4791.13%   116.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:42.249478
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     99.89%     60.09GiB / 96GiB    62.59%    0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4794.30%   115.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:44.261421
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     100.07%    61.86GiB / 96GiB    64.44%    0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4802.01%   115.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:46.279194
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     100.07%    63.72GiB / 96GiB    66.37%    0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4797.98%   115.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:48.293365
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     100.33%    65.62GiB / 96GiB    68.35%    0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4799.39%   115.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:50.307312
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     100.17%    67.53GiB / 96GiB    70.34%    0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4780.08%   115.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:52.326189
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     100.00%    69.37GiB / 96GiB    72.26%    0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4799.95%   115.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:54.340767
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     99.96%     71.17GiB / 96GiB    74.13%    0B / 0B   501MB / 4.1kB   19
+6e34e4898c85   llama     4777.61%   116MiB / 96GiB      0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:56.356307
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O       PIDS
+e91ad98355ef   faiss     98.25%     72.9GiB / 96GiB     75.93%    0B / 0B   532MB / 4.1kB   19
+6e34e4898c85   llama     4817.77%   115.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B         48
+2025-02-17 06:49:58.377180
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     68.36%     72.9GiB / 96GiB     75.94%    0B / 0B   1.28GB / 4.1kB   19
+6e34e4898c85   llama     4809.78%   115.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+2025-02-17 06:50:00.394288
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     63.37%     72.9GiB / 96GiB     75.94%    0B / 0B   1.97GB / 4.1kB   19
+6e34e4898c85   llama     4791.86%   115.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+2025-02-17 06:50:02.412226
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     70.47%     72.9GiB / 96GiB     75.94%    0B / 0B   2.77GB / 4.1kB   19
+6e34e4898c85   llama     4813.39%   115.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+2025-02-17 06:50:04.424630
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     61.38%     72.9GiB / 96GiB     75.94%    0B / 0B   3.45GB / 4.1kB   19
+6e34e4898c85   llama     4803.46%   115.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+2025-02-17 06:50:06.444922
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     65.82%     72.91GiB / 96GiB    75.94%    0B / 0B   4.19GB / 4.1kB   19
+6e34e4898c85   llama     4798.70%   115.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+2025-02-17 06:50:08.463489
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     81.29%     72.91GiB / 96GiB    75.94%    0B / 0B   4.95GB / 4.1kB   19
+6e34e4898c85   llama     4797.41%   115.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+2025-02-17 06:50:10.488057
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     65.54%     72.91GiB / 96GiB    75.95%    0B / 0B   5.61GB / 4.1kB   19
+6e34e4898c85   llama     4797.53%   115.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+2025-02-17 06:50:12.509903
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     70.29%     72.91GiB / 96GiB    75.95%    0B / 0B   6.29GB / 4.1kB   19
+6e34e4898c85   llama     4799.67%   115.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+2025-02-17 06:50:14.525366
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     71.29%     72.91GiB / 96GiB    75.95%    0B / 0B   7.02GB / 4.1kB   19
+6e34e4898c85   llama     4785.55%   116.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+2025-02-17 06:50:16.546073
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     65.37%     72.91GiB / 96GiB    75.95%    0B / 0B   7.71GB / 4.1kB   19
+6e34e4898c85   llama     4795.53%   116.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+2025-02-17 06:50:18.572917
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     76.22%     72.91GiB / 96GiB    75.95%    0B / 0B   8.39GB / 4.1kB   19
+6e34e4898c85   llama     4818.92%   115.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+2025-02-17 06:50:20.595128
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     68.63%     72.92GiB / 96GiB    75.95%    0B / 0B   9.14GB / 4.1kB   19
+6e34e4898c85   llama     4798.55%   115.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+2025-02-17 06:50:22.612085
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     74.93%     72.92GiB / 96GiB    75.96%    0B / 0B   9.86GB / 4.1kB   19
+6e34e4898c85   llama     4784.23%   115.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+2025-02-17 06:50:24.631337
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     75.10%     72.92GiB / 96GiB    75.96%    0B / 0B   10.6GB / 4.1kB   19
+6e34e4898c85   llama     4802.77%   115.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+2025-02-17 06:50:26.653086
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     70.88%     72.92GiB / 96GiB    75.96%    0B / 0B   11.3GB / 4.1kB   19
+6e34e4898c85   llama     4784.62%   115.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+2025-02-17 06:50:28.672102
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+e91ad98355ef   faiss     72.92%     72.92GiB / 96GiB    75.96%    0B / 0B   12GB / 4.1kB   19
+6e34e4898c85   llama     4787.68%   115.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B        48
+2025-02-17 06:50:30.690004
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     74.46%     72.92GiB / 96GiB    75.96%    0B / 0B   12.8GB / 4.1kB   19
+6e34e4898c85   llama     4797.28%   115.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+2025-02-17 06:50:32.706305
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     60.79%    72.93GiB / 96GiB    75.96%    0B / 0B   13.5GB / 4.1kB   19
+2025-02-17 06:50:34.720403
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     45.88%    72.93GiB / 96GiB    75.97%    0B / 0B   14.3GB / 4.1kB   19
+2025-02-17 06:50:36.726002
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     44.35%    72.93GiB / 96GiB    75.97%    0B / 0B   15.1GB / 4.1kB   19
+2025-02-17 06:50:38.730842
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     45.53%    72.93GiB / 96GiB    75.97%    0B / 0B   15.8GB / 4.1kB   19
+2025-02-17 06:50:40.735370
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     45.68%    72.93GiB / 96GiB    75.97%    0B / 0B   16.5GB / 4.1kB   19
+2025-02-17 06:50:42.742262
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     43.70%    72.93GiB / 96GiB    75.97%    0B / 0B   17.3GB / 4.1kB   19
+2025-02-17 06:50:44.746579
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     47.35%    72.94GiB / 96GiB    75.97%    0B / 0B   18.1GB / 4.1kB   19
+2025-02-17 06:50:46.752253
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     44.91%    72.94GiB / 96GiB    75.98%    0B / 0B   18.9GB / 4.1kB   19
+2025-02-17 06:50:48.758783
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     47.49%    72.94GiB / 96GiB    75.98%    0B / 0B   19.7GB / 4.1kB   19
+2025-02-17 06:50:50.765408
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     45.14%    72.94GiB / 96GiB    75.98%    0B / 0B   20.5GB / 4.1kB   19
+2025-02-17 06:50:52.768303
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     43.96%    72.94GiB / 96GiB    75.98%    0B / 0B   21.2GB / 4.1kB   19
+2025-02-17 06:50:54.773601
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+e91ad98355ef   faiss     46.44%    72.94GiB / 96GiB    75.98%    0B / 0B   22GB / 4.1kB   19
+2025-02-17 06:50:56.779449
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     45.88%    72.95GiB / 96GiB    75.98%    0B / 0B   22.8GB / 4.1kB   19
+2025-02-17 06:50:58.784669
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     44.27%    72.95GiB / 96GiB    75.99%    0B / 0B   23.6GB / 4.1kB   19
+2025-02-17 06:51:00.789960
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     43.45%    72.95GiB / 96GiB    75.99%    0B / 0B   24.3GB / 4.1kB   19
+2025-02-17 06:51:02.794377
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     48.68%    72.97GiB / 96GiB    76.01%    0B / 0B   25.1GB / 4.1kB   19
+2025-02-17 06:51:04.800165
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     49.78%    72.97GiB / 96GiB    76.01%    0B / 0B   25.8GB / 4.1kB   19
+2025-02-17 06:51:06.805481
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     48.97%    72.97GiB / 96GiB    76.01%    0B / 0B   26.6GB / 4.1kB   19
+2025-02-17 06:51:08.810728
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     49.30%    72.98GiB / 96GiB    76.02%    0B / 0B   27.3GB / 4.1kB   19
+2025-02-17 06:51:10.815424
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     49.38%    72.98GiB / 96GiB    76.02%    0B / 0B   28.2GB / 4.1kB   19
+2025-02-17 06:51:12.820010
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     46.32%    72.98GiB / 96GiB    76.02%    0B / 0B   28.8GB / 4.1kB   19
+2025-02-17 06:51:14.824568
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     49.15%    72.98GiB / 96GiB    76.02%    0B / 0B   29.6GB / 4.1kB   19
+2025-02-17 06:51:16.829907
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     48.13%    72.98GiB / 96GiB    76.02%    0B / 0B   30.4GB / 4.1kB   19
+2025-02-17 06:51:18.834246
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     48.86%    72.98GiB / 96GiB    76.03%    0B / 0B   31.2GB / 4.1kB   19
+2025-02-17 06:51:20.839464
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     46.00%    72.99GiB / 96GiB    76.03%    0B / 0B   31.9GB / 4.1kB   19
+2025-02-17 06:51:22.845378
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     47.56%    72.99GiB / 96GiB    76.03%    0B / 0B   32.6GB / 4.1kB   19
+2025-02-17 06:51:24.849487
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     46.98%    72.99GiB / 96GiB    76.03%    0B / 0B   33.4GB / 4.1kB   19
+2025-02-17 06:51:26.856521
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     47.73%    72.99GiB / 96GiB    76.04%    0B / 0B   34.1GB / 4.1kB   19
+2025-02-17 06:51:28.860374
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     47.26%    73GiB / 96GiB       76.04%    0B / 0B   34.9GB / 4.1kB   19
+2025-02-17 06:51:30.864973
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     49.42%    73GiB / 96GiB       76.04%    0B / 0B   35.6GB / 4.1kB   19
+2025-02-17 06:51:32.870569
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     50.58%    73GiB / 96GiB       76.04%    0B / 0B   36.4GB / 4.1kB   19
+2025-02-17 06:51:34.875713
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     49.10%    73GiB / 96GiB       76.04%    0B / 0B   37.2GB / 4.1kB   19
+2025-02-17 06:51:36.880255
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     47.51%    73GiB / 96GiB       76.05%    0B / 0B   37.9GB / 4.1kB   19
+2025-02-17 06:51:38.886423
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     46.73%    73.01GiB / 96GiB    76.05%    0B / 0B   38.6GB / 4.1kB   19
+2025-02-17 06:51:40.890824
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     49.84%    73.01GiB / 96GiB    76.05%    0B / 0B   39.4GB / 4.1kB   19
+2025-02-17 06:51:42.895322
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     50.29%    73.01GiB / 96GiB    76.05%    0B / 0B   40.2GB / 4.1kB   19
+2025-02-17 06:51:44.902337
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+e91ad98355ef   faiss     48.33%    73.01GiB / 96GiB    76.05%    0B / 0B   41GB / 4.1kB   19
+2025-02-17 06:51:46.906238
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     48.36%    73.01GiB / 96GiB    76.06%    0B / 0B   41.8GB / 4.1kB   19
+2025-02-17 06:51:48.912333
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     47.88%    73.01GiB / 96GiB    76.06%    0B / 0B   42.6GB / 4.1kB   19
+2025-02-17 06:51:50.916618
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     47.23%    73.02GiB / 96GiB    76.06%    0B / 0B   43.3GB / 4.1kB   19
+2025-02-17 06:51:52.921863
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     51.89%    73.02GiB / 96GiB    76.06%    0B / 0B   44.2GB / 4.1kB   19
+2025-02-17 06:51:54.926609
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     48.38%    73.02GiB / 96GiB    76.06%    0B / 0B   44.9GB / 4.1kB   19
+2025-02-17 06:51:56.931739
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     47.89%    73.02GiB / 96GiB    76.06%    0B / 0B   45.6GB / 4.1kB   19
+2025-02-17 06:51:58.936995
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     48.59%    73.02GiB / 96GiB    76.07%    0B / 0B   46.4GB / 4.1kB   19
+2025-02-17 06:52:00.941530
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     46.90%    73.02GiB / 96GiB    76.07%    0B / 0B   47.2GB / 4.1kB   19
+2025-02-17 06:52:02.946558
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     48.03%    73.03GiB / 96GiB    76.07%    0B / 0B   47.9GB / 4.1kB   19
+2025-02-17 06:52:04.951442
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     47.10%    73.03GiB / 96GiB    76.07%    0B / 0B   48.6GB / 4.1kB   19
+2025-02-17 06:52:06.957612
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     47.54%    73.03GiB / 96GiB    76.07%    0B / 0B   49.4GB / 4.1kB   19
+2025-02-17 06:52:08.961753
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     47.38%    73.03GiB / 96GiB    76.07%    0B / 0B   50.1GB / 4.1kB   19
+2025-02-17 06:52:10.967061
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     47.52%    73.03GiB / 96GiB    76.08%    0B / 0B   50.8GB / 4.1kB   19
+2025-02-17 06:52:12.971740
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     48.00%    73.03GiB / 96GiB    76.08%    0B / 0B   51.6GB / 4.1kB   19
+2025-02-17 06:52:14.976527
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     47.96%    73.04GiB / 96GiB    76.08%    0B / 0B   52.3GB / 4.1kB   19
+2025-02-17 06:52:16.982513
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     48.27%    73.04GiB / 96GiB    76.08%    0B / 0B   53.1GB / 4.1kB   19
+2025-02-17 06:52:18.987621
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     47.54%    73.04GiB / 96GiB    76.08%    0B / 0B   53.8GB / 4.1kB   19
+2025-02-17 06:52:20.992997
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     47.83%    73.04GiB / 96GiB    76.08%    0B / 0B   54.6GB / 4.1kB   19
+2025-02-17 06:52:22.997708
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     50.43%    73.04GiB / 96GiB    76.09%    0B / 0B   55.4GB / 4.1kB   19
+2025-02-17 06:52:25.002817
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     49.29%    73.05GiB / 96GiB    76.09%    0B / 0B   56.2GB / 4.1kB   19
+2025-02-17 06:52:27.008509
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+e91ad98355ef   faiss     48.80%    73.05GiB / 96GiB    76.09%    0B / 0B   57GB / 4.1kB   19
+2025-02-17 06:52:29.014221
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     46.96%    73.05GiB / 96GiB    76.09%    0B / 0B   57.7GB / 4.1kB   19
+2025-02-17 06:52:31.019988
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     48.59%    73.05GiB / 96GiB    76.09%    0B / 0B   58.5GB / 4.1kB   19
+2025-02-17 06:52:33.024685
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     48.68%    73.05GiB / 96GiB    76.10%    0B / 0B   59.3GB / 4.1kB   19
+2025-02-17 06:52:35.029574
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     48.99%    73.05GiB / 96GiB    76.10%    0B / 0B   60.1GB / 4.1kB   19
+2025-02-17 06:52:37.035770
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     45.89%    73.06GiB / 96GiB    76.10%    0B / 0B   60.8GB / 4.1kB   19
+2025-02-17 06:52:39.041333
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     49.05%    73.06GiB / 96GiB    76.10%    0B / 0B   61.6GB / 4.1kB   19
+2025-02-17 06:52:41.046467
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     47.17%    73.06GiB / 96GiB    76.10%    0B / 0B   62.4GB / 4.1kB   19
+2025-02-17 06:52:43.051729
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     48.06%    73.06GiB / 96GiB    76.11%    0B / 0B   63.1GB / 4.1kB   19
+2025-02-17 06:52:45.056325
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     47.73%    73.06GiB / 96GiB    76.11%    0B / 0B   63.8GB / 4.1kB   19
+2025-02-17 06:52:47.061003
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     50.31%    73.06GiB / 96GiB    76.11%    0B / 0B   64.6GB / 4.1kB   19
+2025-02-17 06:52:49.067031
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     51.11%    73.07GiB / 96GiB    76.11%    0B / 0B   65.3GB / 4.1kB   19
+2025-02-17 06:52:51.072519
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     54.70%    73.07GiB / 96GiB    76.12%    0B / 0B   66.1GB / 4.1kB   19
+2025-02-17 06:52:53.077237
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     50.70%    73.08GiB / 96GiB    76.12%    0B / 0B   66.8GB / 4.1kB   19
+2025-02-17 06:52:55.082564
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     50.30%    73.08GiB / 96GiB    76.13%    0B / 0B   67.4GB / 4.1kB   19
+2025-02-17 06:52:57.087914
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     53.18%    73.09GiB / 96GiB    76.14%    0B / 0B   68.1GB / 4.1kB   19
+2025-02-17 06:52:59.092652
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     51.14%    73.1GiB / 96GiB     76.14%    0B / 0B   68.8GB / 4.1kB   19
+2025-02-17 06:53:01.098457
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     52.40%    73.1GiB / 96GiB     76.15%    0B / 0B   69.5GB / 4.1kB   19
+2025-02-17 06:53:03.102974
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     53.96%    73.11GiB / 96GiB    76.15%    0B / 0B   70.2GB / 4.1kB   19
+2025-02-17 06:53:05.108134
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     51.07%    73.11GiB / 96GiB    76.16%    0B / 0B   70.8GB / 4.1kB   19
+2025-02-17 06:53:07.113528
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     52.40%    73.13GiB / 96GiB    76.17%    0B / 0B   71.5GB / 4.1kB   19
+2025-02-17 06:53:09.118754
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     53.31%    73.14GiB / 96GiB    76.19%    0B / 0B   72.3GB / 4.1kB   19
+2025-02-17 06:53:11.123814
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+e91ad98355ef   faiss     54.51%    73.18GiB / 96GiB    76.23%    0B / 0B   73GB / 4.1kB   19
+2025-02-17 06:53:13.128933
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     51.44%    73.21GiB / 96GiB    76.26%    0B / 0B   73.7GB / 4.1kB   19
+2025-02-17 06:53:15.134015
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     53.30%    73.23GiB / 96GiB    76.29%    0B / 0B   74.4GB / 4.1kB   19
+2025-02-17 06:53:17.140218
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+e91ad98355ef   faiss     50.75%    73.26GiB / 96GiB    76.31%    0B / 0B   75GB / 4.1kB   19
+2025-02-17 06:53:19.147273
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     51.41%    73.29GiB / 96GiB    76.35%    0B / 0B   75.6GB / 4.1kB   19
+2025-02-17 06:53:21.151779
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     52.50%    73.31GiB / 96GiB    76.37%    0B / 0B   76.3GB / 4.1kB   19
+2025-02-17 06:53:23.155783
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O      PIDS
+e91ad98355ef   faiss     51.94%    73.31GiB / 96GiB    76.37%    0B / 0B   77GB / 4.1kB   19
+2025-02-17 06:53:25.161157
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     4798.00%   73.33GiB / 96GiB    76.39%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:53:27.169736
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     4669.28%   73.33GiB / 96GiB    76.39%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:53:29.183350
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     4506.91%   73.33GiB / 96GiB    76.39%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:53:31.194145
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     4940.96%   73.33GiB / 96GiB    76.39%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:53:33.198937
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     4677.71%   73.33GiB / 96GiB    76.39%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:53:35.204138
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     4637.75%   73.33GiB / 96GiB    76.39%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:53:37.214379
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     4678.36%   73.33GiB / 96GiB    76.39%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:53:39.220157
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     4693.58%   73.33GiB / 96GiB    76.39%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:53:41.224635
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     4376.51%   73.33GiB / 96GiB    76.39%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:53:43.233793
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     4730.86%   73.33GiB / 96GiB    76.39%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:53:45.238931
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     4475.23%   73.33GiB / 96GiB    76.39%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:53:47.249325
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     4659.59%   73.33GiB / 96GiB    76.39%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:53:49.261794
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+e91ad98355ef   faiss     4280.02%   73.33GiB / 96GiB    76.39%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:53:51.265580
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     100.24%    86.01MiB / 96GiB    0.09%     0B / 0B   0B / 0B          1
+e91ad98355ef   faiss     4575.09%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:53:53.287383
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4181.27%   118.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4084.31%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:53:55.311057
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4273.61%   120.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4052.04%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:53:57.325602
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4250.84%   119.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4121.52%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:53:59.341099
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4348.90%   121MiB / 96GiB      0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     3936.60%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:01.364520
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4352.77%   119.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4388.66%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:03.385804
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4432.21%   118.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     3465.09%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:05.401407
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4214.08%   120MiB / 96GiB      0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     3922.26%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:07.421413
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3970.90%   118.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4445.37%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:09.436763
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4018.13%   117.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4357.91%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:11.461959
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4103.95%   117.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4121.09%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:13.476502
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4588.24%   116.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     2329.94%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:15.497221
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4384.47%   116.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     3101.16%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:17.519624
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4562.23%   116.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     2814.68%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:19.536793
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4585.04%   115.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4191.95%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:21.549534
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3892.36%   115.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4618.18%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:23.571914
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4114.64%   115MiB / 96GiB      0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4383.71%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:25.606114
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4034.53%   117.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4287.62%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:27.624057
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4017.35%   117.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4468.63%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:29.645877
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4136.97%   116.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4183.49%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:31.660125
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4165.08%   119.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4479.26%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:33.688372
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4097.57%   119.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4440.86%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:35.716687
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4384.65%   119MiB / 96GiB      0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     3772.02%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:37.728882
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4010.15%   119.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4430.56%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:39.736073
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3875.48%   119.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4440.92%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:41.752774
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4101.01%   118MiB / 96GiB      0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4369.90%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:43.782288
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4017.78%   118.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4400.13%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:45.799899
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4034.05%   117.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4056.49%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:47.813171
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4170.46%   119.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4271.42%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:49.829351
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3965.32%   119.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4309.67%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:51.841278
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4043.86%   119.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4463.76%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:53.855579
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4279.32%   118.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4413.36%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:55.880709
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4150.09%   116.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     3923.87%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:57.901291
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4015.61%   118.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4453.37%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:54:59.922857
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4067.68%   117.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4182.32%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:01.936610
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4238.83%   116.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     3913.26%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:03.959030
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4118.86%   116.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     3839.40%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:05.971068
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3921.83%   116.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4423.64%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:07.994573
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3890.40%   116.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4381.59%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:10.016339
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4131.29%   117.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4091.77%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:12.037476
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3907.64%   116.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4413.46%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:14.055425
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3998.64%   117.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4506.51%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:16.081115
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4087.09%   117.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4006.78%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:18.103606
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3969.42%   117.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4468.58%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:20.127170
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4057.51%   118.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4280.54%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:22.136669
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4117.10%   116.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4036.25%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:24.151017
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4127.55%   116.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4347.02%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:26.179232
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4044.10%   119.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4630.95%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:28.208629
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4067.05%   118MiB / 96GiB      0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     3981.70%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:30.228621
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4234.36%   117.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4400.13%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:32.237430
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4162.02%   119.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4145.31%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:34.256741
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4082.14%   118.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     3924.43%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:36.283909
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3912.82%   118.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4410.12%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:38.305074
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3928.10%   118.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4457.89%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:40.326900
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4121.58%   117.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4166.14%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:42.346281
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4153.52%   117.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4266.07%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:44.374058
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3960.93%   117.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4411.76%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:46.397040
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3965.66%   117.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4201.39%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:48.416544
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3862.22%   117.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4432.84%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:50.437248
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4404.50%   117.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4227.29%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:52.451265
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4074.31%   116.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4359.61%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:54.471639
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3923.29%   118.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4527.58%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:56.497936
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4046.03%   118.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4277.46%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:55:58.521050
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4110.38%   119.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4238.39%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:00.542292
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4200.05%   118.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4080.51%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:02.558332
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4112.24%   120.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4365.78%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:04.577399
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4043.55%   119.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4404.99%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:06.615938
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3968.98%   119.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4231.01%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:08.627727
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3992.96%   118.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4390.97%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:10.682692
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4052.15%   120.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4325.37%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:12.712688
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4068.50%   119.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4163.14%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:14.722321
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3974.12%   119.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4098.44%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:16.739363
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4059.39%   119.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4245.79%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:18.758754
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4143.94%   118.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4215.11%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:20.773689
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4123.18%   118.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4334.55%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:22.793644
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4275.94%   118.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4229.40%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:24.817380
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4270.09%   118MiB / 96GiB      0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4198.44%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:26.833486
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4243.47%   119.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4104.67%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:28.853128
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4152.32%   118.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4352.02%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:30.880655
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4320.25%   118.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4491.66%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:32.908662
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4262.68%   118.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4033.39%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:34.919558
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4098.18%   118.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     3988.78%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:36.940835
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3855.11%   119.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4351.16%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:38.952995
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4245.91%   117.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4184.02%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:40.979090
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3986.91%   116.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4492.26%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:42.991948
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4091.12%   116.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4346.08%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:45.020377
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4467.29%   117.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4248.88%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:47.037175
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4162.98%   117.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4262.69%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:49.058916
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4360.84%   117.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     3917.08%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:51.081075
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4063.69%   118.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4360.76%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:53.109495
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4215.23%   117.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     3826.84%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:55.117934
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4163.52%   117.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4392.43%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:57.134339
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4235.46%   116.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4177.99%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:56:59.153229
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4353.95%   116.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     3872.71%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:01.165317
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4087.91%   118.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4240.79%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:03.190999
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4129.06%   117.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4507.41%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:05.215904
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4166.59%   119.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4108.04%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:07.230817
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4111.88%   119MiB / 96GiB      0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     3696.76%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:09.243306
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4098.91%   117MiB / 96GiB      0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4208.99%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:11.271488
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4141.51%   119.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4296.49%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:13.300053
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4304.15%   119MiB / 96GiB      0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4245.33%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:15.318603
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4128.85%   118.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     3825.93%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:17.338626
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3878.47%   120MiB / 96GiB      0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4435.92%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:19.363632
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4006.65%   119MiB / 96GiB      0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4461.79%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:21.383044
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4052.19%   118.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4400.04%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:23.404781
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4016.43%   120.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4420.56%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:25.426212
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4025.87%   119.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4117.22%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:27.444490
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3965.15%   118.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4195.59%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:29.466264
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4111.24%   119.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4332.31%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:31.493935
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4185.96%   118.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4378.30%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:33.528096
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4239.77%   115MiB / 96GiB      0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4023.87%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:35.538104
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4358.03%   115.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     3343.57%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:37.554180
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4151.89%   116.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     3946.07%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:39.577188
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4159.03%   116.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4298.04%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:41.607821
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4256.78%   119.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     3500.91%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:43.625130
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4119.81%   118.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4339.35%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:45.635939
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4013.44%   117.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4442.31%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:47.663414
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4103.53%   120.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4222.18%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:49.685156
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4199.34%   118.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4335.42%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:51.708336
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3904.00%   118MiB / 96GiB      0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4385.34%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:53.722846
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3928.61%   118.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4321.32%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:55.741683
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4313.22%   118.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     3689.92%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:57.765218
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4223.09%   117.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4302.01%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:57:59.787148
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4061.83%   117.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4398.72%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:58:01.816254
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4245.99%   117.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     3922.01%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:58:03.827225
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4519.31%   119.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4004.33%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:58:05.851251
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4464.31%   118.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     3490.55%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:58:07.875003
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4010.83%   117.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4382.59%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:58:09.887680
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4261.55%   118.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4425.91%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:58:11.915799
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4244.27%   118.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4267.29%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:58:13.933445
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3972.53%   119.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4492.36%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:58:15.944200
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3954.31%   118.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4516.93%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:58:17.978336
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4590.59%   117.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4096.17%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:58:19.998039
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3842.00%   118MiB / 96GiB      0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4323.25%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:58:22.020512
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4156.57%   117MiB / 96GiB      0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     3995.38%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:58:24.037151
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4159.04%   116.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4266.92%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:58:26.067974
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4095.74%   116.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4523.90%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:58:28.089504
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4214.06%   118MiB / 96GiB      0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4445.73%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:58:30.122174
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4065.55%   118MiB / 96GiB      0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4174.38%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:58:32.136514
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4317.66%   116.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     3828.58%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:58:34.155657
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4228.40%   119.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     3734.75%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:58:36.166552
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4250.52%   117.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     3990.79%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:58:38.192984
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     3891.27%   117.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     4389.64%   73.33GiB / 96GiB    76.38%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:58:40.217227
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4790.03%   117.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     100.02%    44.78GiB / 96GiB    46.65%    0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:58:42.239019
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O        PIDS
+b835956db94b   llama     4793.82%   119.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B          48
+e91ad98355ef   faiss     99.60%     5.224GiB / 96GiB    5.44%     0B / 0B   77.2GB / 4.1kB   114
+2025-02-17 06:58:44.245153
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4780.36%   118.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:58:46.256627
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4804.00%   118.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:58:48.262943
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4795.24%   120.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:58:50.272005
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4778.26%   120.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:58:52.283026
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4798.70%   120.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:58:54.292592
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4814.93%   119.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:58:56.299569
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4784.17%   119.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:58:58.309126
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4792.56%   119.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:00.318555
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4820.27%   119.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:02.326739
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4798.05%   119.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:04.337386
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4802.44%   119.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:06.344136
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4799.19%   119.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:08.352289
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4801.83%   119MiB / 96GiB      0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:10.363971
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4795.56%   118.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:12.370124
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4787.38%   119.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:14.381629
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4786.15%   118.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:16.394134
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4799.10%   118.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:18.407497
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4800.05%   117.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:20.415188
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4800.55%   117.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:22.428772
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4811.45%   117.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:24.431429
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4790.72%   117MiB / 96GiB      0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:26.441723
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4814.34%   116.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:28.457440
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4800.94%   116.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:30.461026
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4798.19%   116.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:32.469406
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4813.87%   116.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:34.478969
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4777.97%   116.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:36.489186
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4812.99%   116.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:38.500269
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4789.40%   116.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:40.508425
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4789.56%   116.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:42.520053
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4819.70%   116.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:44.527512
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4801.38%   116.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:46.539296
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4786.11%   117.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:48.553126
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4793.12%   117.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:50.568733
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4794.10%   117.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:52.569821
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4795.53%   117.8MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:54.581400
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4795.50%   117.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:56.593912
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4787.10%   117.1MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 06:59:58.598117
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4808.86%   116.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 07:00:00.607809
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4778.57%   116.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 07:00:02.618802
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4795.25%   116.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 07:00:04.627661
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4795.02%   117.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 07:00:06.640295
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4817.87%   117.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 07:00:08.656211
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4814.24%   117.2MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 07:00:10.661008
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4801.87%   117MiB / 96GiB      0.12%     0B / 0B   0B / 0B     48
+2025-02-17 07:00:12.673875
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4784.21%   116.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 07:00:14.684299
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4814.41%   116.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 07:00:16.691860
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4810.75%   116.6MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 07:00:18.703951
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4788.20%   116.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 07:00:20.722719
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4782.15%   116MiB / 96GiB      0.12%     0B / 0B   0B / 0B     48
+2025-02-17 07:00:22.731645
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4790.24%   115.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 07:00:24.740086
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4812.37%   115.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 07:00:26.743733
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4786.14%   115.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 07:00:28.756213
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4796.40%   115.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 07:00:30.771310
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4781.97%   115.5MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 07:00:32.777496
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4778.50%   116.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 07:00:34.788201
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4790.13%   116.4MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 07:00:36.796606
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4793.87%   116.3MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 07:00:38.807762
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4761.35%   115.9MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 07:00:40.813837
+CONTAINER ID   NAME      CPU %      MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b835956db94b   llama     4775.99%   115.7MiB / 96GiB    0.12%     0B / 0B   0B / 0B     48
+2025-02-17 07:00:42.822397
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
