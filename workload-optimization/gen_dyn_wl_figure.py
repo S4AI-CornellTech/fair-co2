@@ -246,11 +246,11 @@ if __name__ == '__main__':
     ax[3].set_xlabel('Time (days)', fontsize=14)
     handles_cpu, labels_cpu = ax[3].get_legend_handles_labels()
     handles_mem, labels_mem = ax_mem_ci.get_legend_handles_labels()
-    ax[3].legend(handles_cpu + handles_mem, labels_cpu + labels_mem, fontsize = legend_font_size)
+    ax_mem_ci.legend(handles_cpu + handles_mem, labels_cpu + labels_mem, fontsize = legend_font_size)
 
     # Change the margins
     
     plt.tight_layout()
     plt.subplots_adjust(left=0.1, right=0.9, top=0.95, bottom=0.09)
-    plt.savefig(f'{fair_co2_path}/figures/13_faiss_US_CA_Azure2017_dynamic_wl_config.png', dpi=300)
+    plt.savefig(f'{fair_co2_path}/figures/13_faiss_US_CA_Azure2017_dynamic_wl_config.pdf', dpi=300)
     plt.close()

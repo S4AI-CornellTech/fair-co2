@@ -6,6 +6,7 @@ import concurrent.futures
 from scipy.ndimage import gaussian_filter1d
 from scipy import stats
 import os
+# plt.rcParams['text.usetex'] = True
 
 fair_co2_path = os.environ.get('FAIR_CO2')
 
@@ -15,7 +16,7 @@ xlabel_fontsize = 22
 ylabel_fontsize = 22
 tick_fontsize = 20
 title_fontsize = 20
-legend_fontsize = 14
+legend_fontsize = 17.5
 dpi = 200
 base_palette = "Dark2"
 palette = sns.color_palette(base_palette)
@@ -31,7 +32,7 @@ edgewidth = 0
 linewidth = 1
 violin_width = 0.8
 baseline_name = 'RUP-Baseline'
-demand_proportional_name = 'Demand-Proportional'
+demand_proportional_name = 'Demand-Prop.'
 temporal_shapley_name = 'FAIR-CO2'
 
 # Fig box and whisker comparison avg and max deviation from shapley attributions for different methods
@@ -50,7 +51,7 @@ def violinplot_all_values(df_val, output_dir):
     # plt.ylabel('Attribution Method', fontsize=14)
     # plt.title(f'Deviation', fontsize=title_fontsize)
     plt.tight_layout()
-    output_file = f'{output_dir}/all_values_violin_absolute_time_slices.png'
+    output_file = f'{output_dir}/all_values_violin_absolute_time_slices.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -72,7 +73,7 @@ def violinplot_all_values_absolute(df_val, output_dir):
     # plt.ylabel('Attribution Method', fontsize=14)
     # plt.title(f'Deviation', fontsize=title_fontsize)
     plt.tight_layout()
-    output_file = f'{output_dir}/all_values_violin_absolute.png'
+    output_file = f'{output_dir}/all_values_violin_absolute.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -95,7 +96,7 @@ def violinplot_all_values_absolute_time_slices(df_val, output_dir):
     # plt.ylabel('Attribution Method', fontsize=14)
     # plt.title(f'Deviation', fontsize=title_fontsize)
     plt.tight_layout()
-    output_file = f'{output_dir}/all_values_violin_absolute_time_slices.png'
+    output_file = f'{output_dir}/all_values_violin_absolute_time_slices.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -115,7 +116,7 @@ def box_and_whisker_overall_avg(df, output_dir):
     # plt.ylabel('Attribution Method', fontsize=14)
     # plt.title(f'Average Deviation', fontsize=title_fontsize)
     plt.tight_layout()
-    output_file = f'{output_dir}/overall_deviation_box_and_whisker_avg.png'
+    output_file = f'{output_dir}/overall_deviation_box_and_whisker_avg.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -143,7 +144,7 @@ def violinplot_overall_avg(df, output_dir):
                fontsize=legend_fontsize)
     # plt.legend(title='Method', loc='lower right', labels=['Baseline', 'Interference-Aware'], fontsize=legend_fontsize)   
     plt.tight_layout()
-    output_file = f'{output_dir}/7a_overall_deviation_violin_avg.png'
+    output_file = f'{output_dir}/7a_overall_deviation_violin_avg.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -167,7 +168,7 @@ def box_and_whisker_overall_worst(df, output_dir):
     plt.legend(fontsize=legend_fontsize)
     # plt.title(f' Worst Case Deviation (%)', fontsize=title_fontsize)
     plt.tight_layout()
-    output_file = f'{output_dir}/overall_deviation_box_and_whisker_worst.png'
+    output_file = f'{output_dir}/overall_deviation_box_and_whisker_worst.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -192,7 +193,7 @@ def violinplot_overall_worst(df, output_dir):
     plt.legend(bbox_to_anchor=(1, 0.5), bbox_transform=ax.transAxes, \
             fontsize=legend_fontsize)
     plt.tight_layout()
-    output_file = f'{output_dir}/7e_overall_deviation_violin_worst.png'
+    output_file = f'{output_dir}/7e_overall_deviation_violin_worst.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -214,7 +215,7 @@ def box_and_whisker_time_slices_avg(synthetic_schedule_data_df, output_dir):
     plt.legend(fontsize=legend_fontsize)
     #plt.title(f' Average Deviation', fontsize=title_fontsize)
     plt.tight_layout()
-    output_file = f'{output_dir}/n_time_slices_deviation_box_and_whisker_avg.png'
+    output_file = f'{output_dir}/n_time_slices_deviation_box_and_whisker_avg.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -223,17 +224,17 @@ def violinplot_time_slices_avg(synthetic_schedule_data_df, output_dir):
     fig, ax = plt.subplots(figsize=figsize)
     vp = sns.violinplot(
         data=synthetic_schedule_data_df, x="Num Time Slices", y="Average Deviation (%)", hue="Attribution Method",
-        width=.6, palette=palette, ax=ax, linewidth=linewidth,
+        width=.9, palette=palette, ax=ax, linewidth=linewidth,
     )
     plt.xlabel('Number of Time Slices', fontsize=xlabel_fontsize)
     plt.ylabel('Deviation (%)', fontsize=ylabel_fontsize)
     plt.yticks(fontsize=tick_fontsize)
     plt.xticks(fontsize=tick_fontsize)
     plt.legend(fontsize=legend_fontsize, loc='upper left')
-    plt.ylim(-10, 220)
+    plt.ylim(-10, 170)
     #plt.title(f' Average Deviation', fontsize=title_fontsize)
     plt.tight_layout()
-    output_file = f'{output_dir}/7b_n_time_slices_deviation_violin_avg.png'
+    output_file = f'{output_dir}/7b_n_time_slices_deviation_violin_avg.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -243,7 +244,7 @@ def violinplot_time_slices_avg_only_demand(synthetic_schedule_data_df, output_di
     df = synthetic_schedule_data_df[synthetic_schedule_data_df['Attribution Method'] != baseline_name]
     vp = sns.violinplot(
         data=df, x="Num Time Slices", y="Average Deviation (%)", hue="Attribution Method",
-        width=.6, palette=palette_1, ax=ax, linewidth=linewidth,
+        width=.8, palette=palette_1, ax=ax, linewidth=linewidth,
     )
     plt.xlabel('Number of Time Slices', fontsize=xlabel_fontsize)
     plt.ylabel('Deviation (%)', fontsize=ylabel_fontsize)
@@ -253,7 +254,7 @@ def violinplot_time_slices_avg_only_demand(synthetic_schedule_data_df, output_di
     plt.ylim(-5, 70)
     #plt.title(f' Average Deviation', fontsize=title_fontsize)
     plt.tight_layout()
-    output_file = f'{output_dir}/7c_n_time_slices_deviation_violin_avg_only_demand.png'
+    output_file = f'{output_dir}/7c_n_time_slices_deviation_violin_avg_only_demand.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -273,7 +274,7 @@ def violinplot_time_slices_avg_only_temporal_shapley(synthetic_schedule_data_df,
     plt.ylim(-10, 40)
     #plt.title(f' Average Deviation', fontsize=title_fontsize)
     plt.tight_layout()
-    output_file = f'{output_dir}/n_time_slices_deviation_violin_avg_only_temporal_shapley.png'
+    output_file = f'{output_dir}/n_time_slices_deviation_violin_avg_only_temporal_shapley.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -293,7 +294,7 @@ def box_and_whisker_time_slices_worst(synthetic_schedule_data_df, output_dir):
     plt.xticks(fontsize=tick_fontsize)
     #plt.title(f' Average Deviation', fontsize=title_fontsize)
     plt.tight_layout()
-    output_file = f'{output_dir}/n_time_slices_deviation_box_and_whisker_worst.png'
+    output_file = f'{output_dir}/n_time_slices_deviation_box_and_whisker_worst.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -302,17 +303,17 @@ def violinplot_time_slices_worst(synthetic_schedule_data_df, output_dir):
     fig, ax = plt.subplots(figsize=figsize)
     vp = sns.violinplot(
         data=synthetic_schedule_data_df, x="Num Time Slices", y="Worst-Case Deviation (%)", hue="Attribution Method",
-        width=.6, palette=palette, ax=ax, linewidth=linewidth,
+        width=.9, palette=palette, ax=ax, linewidth=linewidth,
     )
     plt.xlabel('Number of Time Slices', fontsize=xlabel_fontsize)
     plt.ylabel('Deviation (%)', fontsize=ylabel_fontsize)
     plt.yticks(fontsize=tick_fontsize)
     plt.xticks(fontsize=tick_fontsize)
     plt.legend(fontsize=legend_fontsize, loc='upper left')
-    plt.ylim(-50, 750)
+    plt.ylim(-50, 550)
     #plt.title(f' Average Deviation', fontsize=title_fontsize)
     plt.tight_layout()
-    output_file = f'{output_dir}/7f_time_slices_deviation_violin_worst.png'
+    output_file = f'{output_dir}/7f_time_slices_deviation_violin_worst.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -322,7 +323,7 @@ def violinplot_time_slices_worst_only_demand(synthetic_schedule_data_df, output_
     df = synthetic_schedule_data_df[synthetic_schedule_data_df['Attribution Method'] != baseline_name]
     vp = sns.violinplot(
         data=df, x="Num Time Slices", y="Worst-Case Deviation (%)", hue="Attribution Method",
-        width=.6, palette=palette_1, ax=ax, linewidth=linewidth,
+        width=.8, palette=palette_1, ax=ax, linewidth=linewidth,
     )
     plt.xlabel('Number of Time Slices', fontsize=xlabel_fontsize)
     plt.ylabel('Deviation (%)', fontsize=ylabel_fontsize)
@@ -332,7 +333,7 @@ def violinplot_time_slices_worst_only_demand(synthetic_schedule_data_df, output_
     plt.ylim(-20, 250)
     #plt.title(f' Average Deviation', fontsize=title_fontsize)
     plt.tight_layout()
-    output_file = f'{output_dir}/7g_n_time_slices_deviation_violin_worst_only_demand.png'
+    output_file = f'{output_dir}/7g_n_time_slices_deviation_violin_worst_only_demand.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -387,7 +388,7 @@ def scatter_num_workloads_avg(df, p95_df, avg_df, output_dir):
     # Plot x ticks as integers
     plt.gca().xaxis.set_major_locator(plt.MaxNLocator(integer=True))
     plt.tight_layout()
-    output_file = f'{output_dir}/7d_num_workloads_deviation_scatter_avg.png'
+    output_file = f'{output_dir}/7d_num_workloads_deviation_scatter_avg.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -441,7 +442,7 @@ def scatter_num_workloads_worst(df, p95_df, avg_df, output_dir):
     # Plot x ticks as integers
     plt.gca().xaxis.set_major_locator(plt.MaxNLocator(integer=True))
     plt.tight_layout()
-    output_file = f'{output_dir}/7h_num_workloads_deviation_scatter_worst.png'
+    output_file = f'{output_dir}/7h_num_workloads_deviation_scatter_worst.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -658,8 +659,20 @@ def main():
                             'Deviation (%)': 'float64',
                             'CPUs': 'int32',
                             'Runtime': 'float64'})
+    # Rename Demand-Proportional to Demand-Prop.
+    df['Attribution Method'] = df['Attribution Method'].replace({'Demand-Proportional': 'Demand-Prop.'})
+    df_val['Attribution Method'] = df_val['Attribution Method'].replace({'Demand-Proportional': 'Demand-Prop.'})
+    # Process data
     p95_num_workloads_df = process_p95_num_workloads_data(df)
     avg_num_workloads_df = process_avg_num_workloads_data(df)
+    # Save p95_num_workloads_df and avg_num_workloads_df to csv
+    p95_num_workloads_df.to_csv(f'{fair_co2_path}/monte-carlo-simulations/dynamic-demand/sim-results/synthetic_schedule_p95_num_workloads.csv')
+    avg_num_workloads_df.to_csv(f'{fair_co2_path}/monte-carlo-simulations/dynamic-demand/sim-results/synthetic_schedule_avg_num_workloads.csv')
+    
+    # # Read p95_num_workloads_df and avg_num_workloads_df from csv
+    # p95_num_workloads_df = pd.read_csv(f'{fair_co2_path}/monte-carlo-simulations/dynamic-demand/sim-results/synthetic_schedule_p95_num_workloads.csv')
+    # avg_num_workloads_df = pd.read_csv(f'{fair_co2_path}/monte-carlo-simulations/dynamic-demand/sim-results/synthetic_schedule_avg_num_workloads.csv')
+    
     violinplot_overall_avg(df, output_dir=f'{fair_co2_path}/figures')
     violinplot_overall_worst(df, output_dir=f'{fair_co2_path}/figures')
     violinplot_time_slices_avg(df, output_dir=f'{fair_co2_path}/figures')

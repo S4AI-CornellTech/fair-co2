@@ -12,7 +12,7 @@ xlabel_fontsize = 22
 ylabel_fontsize = 22
 tick_fontsize = 20
 title_fontsize = 20
-legend_fontsize = 16
+legend_fontsize = 18.5
 dpi = 200
 palette = "Dark2"
 scatter_marker_size = 20
@@ -43,7 +43,7 @@ def violinplot_all_values(df_val, output_dir):
     # plt.ylabel('Attribution Method', fontsize=14)
     # plt.title(f'Deviation', fontsize=title_fontsize)
     plt.tight_layout()
-    output_file = f'{output_dir}/all_values_violin_absolute_samples.png'
+    output_file = f'{output_dir}/all_values_violin_absolute_samples.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -65,7 +65,7 @@ def violinplot_all_values_absolute(df_val, output_dir):
     # plt.ylabel('Attribution Method', fontsize=14)
     # plt.title(f'Deviation', fontsize=title_fontsize)
     plt.tight_layout()
-    output_file = f'{output_dir}/all_values_violin_absolute.png'
+    output_file = f'{output_dir}/all_values_violin_absolute.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -88,7 +88,7 @@ def violinplot_all_values_absolute_samples(df_val, output_dir):
     # plt.ylabel('Attribution Method', fontsize=14)
     # plt.title(f'Deviation', fontsize=title_fontsize)
     plt.tight_layout()
-    output_file = f'{output_dir}/all_values_violin_absolute_samples.png'
+    output_file = f'{output_dir}/all_values_violin_absolute_samples.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -108,7 +108,7 @@ def box_and_whisker_overall_avg(df, output_dir):
     # plt.ylabel('Attribution Method', fontsize=14)
     # plt.title(f'Average Deviation', fontsize=title_fontsize)
     plt.tight_layout()
-    output_file = f'{output_dir}/overall_deviation_box_and_whisker_avg.png'
+    output_file = f'{output_dir}/overall_deviation_box_and_whisker_avg.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -127,10 +127,10 @@ def violinplot_overall_avg(df, output_dir):
     plt.xlabel('Deviation (%)', fontsize=xlabel_fontsize)
     plt.xticks(fontsize=tick_fontsize)
     # Add legend with color and labels for each attribution method
-    plt.legend(bbox_to_anchor=(1, 0.6), bbox_transform=ax.transAxes, \
+    plt.legend(bbox_to_anchor=(1, 0.5), bbox_transform=ax.transAxes, \
                fontsize=legend_fontsize)
     plt.tight_layout()
-    output_file = f'{output_dir}/8a_overall_deviation_violin_avg.png'
+    output_file = f'{output_dir}/8a_overall_deviation_violin_avg.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -153,7 +153,7 @@ def violinplot_per_workload(df, output_dir, order, labels):
     plt.xlabel('Workload', fontsize=xlabel_fontsize, labelpad=0)
     plt.title(baseline_name, fontsize=title_fontsize, pad=5)
     plt.tight_layout()
-    output_file = f'{output_dir}/per_workload_deviation_violin.png'
+    output_file = f'{output_dir}/per_workload_deviation_violin.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -176,7 +176,7 @@ def violinplot_per_workload_adjusted(df, output_dir, order, labels):
     plt.xlabel('Workload', fontsize=xlabel_fontsize, labelpad=0)
     plt.title(adjusted_name, fontsize=title_fontsize, pad=5)
     plt.tight_layout()
-    output_file = f'{output_dir}/per_workload_deviation_violin_adjusted.png'
+    output_file = f'{output_dir}/per_workload_deviation_violin_adjusted.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -199,7 +199,7 @@ def violinplot_per_workload_absolute(df, output_dir, order, labels):
     plt.xlabel('Workload', fontsize=xlabel_fontsize, labelpad=0)
     plt.title(baseline_name, fontsize=title_fontsize, pad=5)
     plt.tight_layout()
-    output_file = f'{output_dir}/9a_per_workload_deviation_violin_absolute.png'
+    output_file = f'{output_dir}/9a_per_workload_deviation_violin_absolute.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -222,7 +222,7 @@ def violinplot_per_workload_absolute_adjusted(df, output_dir, order, labels):
     plt.xlabel('Workload', fontsize=xlabel_fontsize, labelpad=0)
     plt.title(adjusted_name, fontsize=title_fontsize, pad=5)
     plt.tight_layout()
-    output_file = f'{output_dir}/9b_per_workload_deviation_violin_absolute_adjusted.png'
+    output_file = f'{output_dir}/9b_per_workload_deviation_violin_absolute_adjusted.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -242,7 +242,7 @@ def violinplot_per_partner_workload(df, output_dir, order, labels):
     plt.xlabel('Partner Workload', fontsize=xlabel_fontsize, labelpad=0)
     plt.title(baseline_name, fontsize=title_fontsize, pad=5)
     plt.tight_layout()
-    output_file = f'{output_dir}/per_partner_workload_deviation_violin.png'
+    output_file = f'{output_dir}/per_partner_workload_deviation_violin.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -266,7 +266,7 @@ def violinplot_per_partner_workload_absolute(df, output_dir, order, labels):
     plt.xlabel('Partner Workload', fontsize=xlabel_fontsize, labelpad=0)
     plt.title(baseline_name, fontsize=title_fontsize, pad=5)
     plt.tight_layout()
-    output_file = f'{output_dir}/9c_per_partner_workload_deviation_violin_absolute.png'
+    output_file = f'{output_dir}/9c_per_partner_workload_deviation_violin_absolute.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -289,7 +289,7 @@ def violinplot_per_partner_workload_absolute_adjusted(df, output_dir, order, lab
     plt.xlabel('Partner Workload', fontsize=xlabel_fontsize, labelpad=0)
     plt.title(adjusted_name, fontsize=title_fontsize, pad=5)
     plt.tight_layout()
-    output_file = f'{output_dir}/9d_per_partner_workload_deviation_violin_absolute_adjusted.png'
+    output_file = f'{output_dir}/9d_per_partner_workload_deviation_violin_absolute_adjusted.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -313,7 +313,7 @@ def box_and_whisker_overall_worst(df, output_dir):
     plt.legend(fontsize=legend_fontsize)
     # plt.title(f' Worst Case Deviation (%)', fontsize=title_fontsize)
     plt.tight_layout()
-    output_file = f'{output_dir}/overall_deviation_box_and_whisker_worst.png'
+    output_file = f'{output_dir}/overall_deviation_box_and_whisker_worst.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -337,7 +337,7 @@ def violinplot_overall_worst(df, output_dir):
     plt.legend(bbox_to_anchor=(1, 0.56), bbox_transform=ax.transAxes, \
             fontsize=legend_fontsize)
     plt.tight_layout()
-    output_file = f'{output_dir}/8e_overall_deviation_violin_worst.png'
+    output_file = f'{output_dir}/8e_overall_deviation_violin_worst.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -359,7 +359,7 @@ def box_and_whisker_samples_avg(interference_data_df, output_dir):
     plt.legend(fontsize=legend_fontsize)
     #plt.title(f' Average Deviation', fontsize=title_fontsize)
     plt.tight_layout()
-    output_file = f'{output_dir}/n_samples_deviation_box_and_whisker_avg.png'
+    output_file = f'{output_dir}/n_samples_deviation_box_and_whisker_avg.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -374,7 +374,7 @@ def violinplot_samples_avg(interference_data_df, output_dir):
     df_filtered = pd.concat([df_filtered, df_filtered_baseline])
     vp = sns.violinplot(
         data=df_filtered, x="Num Samples", y="Average Deviation (%)", hue="Attribution Method",
-        width=.6, palette=palette, ax=ax, linewidth=linewidth,
+        width=.9, palette=palette, ax=ax, linewidth=linewidth,
     )
     plt.xlabel('Number of Samples', fontsize=xlabel_fontsize)
     plt.ylabel('Deviation (%)', fontsize=ylabel_fontsize)
@@ -386,11 +386,11 @@ def violinplot_samples_avg(interference_data_df, output_dir):
     # Shift y label to right
     ax.xaxis.set_label_coords(0.55, -0.13)
     # Set y lim
-    ax.set_ylim(-0.5, 14.5)
+    ax.set_ylim(-0.5, 12.5)
     plt.legend(fontsize=legend_fontsize)
     #plt.title(f' Average Deviation', fontsize=title_fontsize)
     plt.tight_layout()
-    output_file = f'{output_dir}/8b_n_samples_deviation_violin_avg.png'
+    output_file = f'{output_dir}/8b_n_samples_deviation_violin_avg.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -410,7 +410,7 @@ def box_and_whisker_samples_worst(interference_data_df, output_dir):
     plt.xticks(fontsize=tick_fontsize)
     #plt.title(f' Average Deviation', fontsize=title_fontsize)
     plt.tight_layout()
-    output_file = f'{output_dir}/n_samples_deviation_box_and_whisker_worst.png'
+    output_file = f'{output_dir}/n_samples_deviation_box_and_whisker_worst.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -425,7 +425,7 @@ def violinplot_samples_worst(interference_data_df, output_dir):
     df_filtered = pd.concat([df_filtered, df_filtered_baseline])
     vp = sns.violinplot(
         data=df_filtered, x="Num Samples", y="Worst-Case Deviation (%)", hue='Attribution Method',
-        width=violin_width, palette=palette, ax=ax, linewidth=linewidth,
+        width=.9, palette=palette, ax=ax, linewidth=linewidth,
     )
     plt.xlabel('Number of Samples', fontsize=xlabel_fontsize)
     plt.ylabel('Deviation (%)', fontsize=ylabel_fontsize)
@@ -435,11 +435,11 @@ def violinplot_samples_worst(interference_data_df, output_dir):
     ax.set_xticks([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15])
     # Shift y label to right
     ax.xaxis.set_label_coords(0.55, -0.13)
-    ax.set_ylim(-0.5, 50)
+    ax.set_ylim(-0.5, 37)
     plt.legend(fontsize=legend_fontsize)
     #plt.title(f' Average Deviation', fontsize=title_fontsize)
     plt.tight_layout()
-    output_file = f'{output_dir}/8f_n_samples_deviation_violin_worst.png'
+    output_file = f'{output_dir}/8f_n_samples_deviation_violin_worst.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -487,7 +487,7 @@ def scatter_grid_ci_avg(df, p95_df, avg_df, output_dir):
     plt.xticks(fontsize=tick_fontsize)
     # plt.title(f'Grid CI vs Deviation', fontsize=title_fontsize)
     plt.tight_layout()
-    output_file = f'{output_dir}/8d_grid_ci_deviation_scatter_avg.png'
+    output_file = f'{output_dir}/8d_grid_ci_deviation_scatter_avg.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -532,7 +532,7 @@ def scatter_grid_ci_worst(df, p95_df, avg_df, output_dir):
     plt.xticks(fontsize=tick_fontsize)
     # plt.title(f'Grid CI vs Deviation', fontsize=title_fontsize)
     plt.tight_layout()
-    output_file = f'{output_dir}/8h_grid_ci_deviation_scatter_worst.png'
+    output_file = f'{output_dir}/8h_grid_ci_deviation_scatter_worst.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -580,7 +580,7 @@ def scatter_num_workloads_avg(df, p95_df, avg_df, output_dir):
     plt.xticks(fontsize=tick_fontsize)
 
     plt.tight_layout()
-    output_file = f'{output_dir}/8c_num_workloads_deviation_scatter_avg.png'
+    output_file = f'{output_dir}/8c_num_workloads_deviation_scatter_avg.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -625,7 +625,7 @@ def scatter_num_workloads_worst(df, p95_df, avg_df, output_dir):
     plt.xticks(fontsize=tick_fontsize)
     # plt.title(f'Grid CI vs Deviation', fontsize=title_fontsize)
     plt.tight_layout()
-    output_file = f'{output_dir}/8g_num_workloads_deviation_scatter_worst.png'
+    output_file = f'{output_dir}/8g_num_workloads_deviation_scatter_worst.pdf'
     print(f'Saving figure to {output_file}')
     plt.savefig(output_file, dpi=dpi)
     return
@@ -939,6 +939,12 @@ def main():
     p95_num_workloads_df.to_csv(f'{fair_co2_path}/monte-carlo-simulations/colocation/sim-results/interference_adjustment_results_p95_num_workloads.csv')
     avg_num_workloads_df.to_csv(f'{fair_co2_path}/monte-carlo-simulations/colocation/sim-results/interference_adjustment_results_avg_num_workloads.csv')
 
+    # Read p95 and avg dataframes
+    # p95_grid_ci_df = pd.read_csv(f'{fair_co2_path}/monte-carlo-simulations/colocation/sim-results/interference_adjustment_results_p95_grid_ci.csv')
+    # avg_grid_ci_df = pd.read_csv(f'{fair_co2_path}/monte-carlo-simulations/colocation/sim-results/interference_adjustment_results_avg_grid_ci.csv')
+    # p95_num_workloads_df = pd.read_csv(f'{fair_co2_path}/monte-carlo-simulations/colocation/sim-results/interference_adjustment_results_p95_num_workloads.csv')
+    # avg_num_workloads_df = pd.read_csv(f'{fair_co2_path}/monte-carlo-simulations/colocation/sim-results/interference_adjustment_results_avg_num_workloads.csv')
+    
     avg_avg_deviation = np.mean(df[df['Attribution Method'] == adjusted_name]['Average Deviation (%)'])
     avg_worst_deviation = np.mean(df[df['Attribution Method'] == adjusted_name]['Worst-Case Deviation (%)'])
     print('Adjusted average deviation for average case:', avg_avg_deviation)

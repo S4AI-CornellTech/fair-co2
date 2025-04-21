@@ -419,7 +419,7 @@ def latency_99_carbon_pareto_front_1x2_grid(grid_ci_list, grid_ci_labels, pareto
     fig.legend(handles=legend_handles, loc='upper center', ncol=2, fontsize=18)
     plt.tight_layout()
     plt.subplots_adjust(bottom=0.15, left=0.1, top=0.81)
-    plt.savefig(f'{fair_co2_path}/figures/12_faiss_pareto_front_latency_99_vs_cf_1x2_grid.png', dpi=300)
+    plt.savefig(f'{fair_co2_path}/figures/12_faiss_pareto_front_latency_99_vs_cf_1x2_grid.pdf', dpi=300)
     # plt.show()
     plt.close()
 

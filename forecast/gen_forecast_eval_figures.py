@@ -69,7 +69,7 @@ def forecast(inputs):
     plt.ylabel('CPUs Allocated', fontsize=12)
     plt.subplots_adjust(left=0.05, right=0.99, top=0.95, bottom=0.25)
     plt.legend(['Actual (Past)', 'Actual (Future)', 'Forecast'], fontsize=12)
-    plt.savefig(f'{fair_co2_path}/figures/5_forecast_demand.png', dpi=300)
+    plt.savefig(f'{fair_co2_path}/figures/5_forecast_demand.pdf')
     plt.close()
 
 def forecast_plot():
@@ -123,7 +123,7 @@ def forecast_plot():
     axs[1].set_ylabel('Error (%)', fontsize=14)
     axs[1].set_xlabel('Time (Days)', fontsize=14)
     plt.tight_layout()
-    plt.savefig(f'{fair_co2_path}/figures/11_forecast_ci_error_5_min.png')
+    plt.savefig(f'{fair_co2_path}/figures/11_forecast_ci_error_5_min.pdf')
     plt.close()
 
     # Find average error

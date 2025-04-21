@@ -156,7 +156,9 @@ def plot_summary_normalized_2x5(workload_list, workload_label_list, grid_ci_list
     fig.tight_layout()
     # Add more space at the top for the legend
     fig.subplots_adjust(top=0.83)
-    plt.savefig(f'{figures_dir}/10_summary_normalized_2x5.png')
+    plt.savefig(f'{figures_dir}/10_summary_normalized_2x5.pdf')
+    plt.show()
+    plt.close()
 
 
 if __name__ == '__main__':
