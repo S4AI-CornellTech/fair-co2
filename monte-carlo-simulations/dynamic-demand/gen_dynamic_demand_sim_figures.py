@@ -33,7 +33,7 @@ linewidth = 1
 violin_width = 0.8
 baseline_name = 'RUP-Baseline'
 demand_proportional_name = 'Demand-Prop.'
-temporal_shapley_name = 'FAIR-CO2'
+temporal_shapley_name = 'Fair-CO$_2$'
 
 # Fig box and whisker comparison avg and max deviation from shapley attributions for different methods
 def violinplot_all_values(df_val, output_dir):

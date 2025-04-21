@@ -154,7 +154,7 @@ def plot_summary_normalized_2x5(workload_list, workload_label_list, grid_ci_list
         axs[i//5, i%5].plot(grid_ci_list, min_energy[:len(grid_ci_list)], color='blue', linestyle='dotted', linewidth=linewidth)
         axs[i//5, i%5].plot(grid_ci_list, min_embodied[:len(grid_ci_list)], color='orange', linestyle='dashdot', linewidth=linewidth)
         axs[i//5, i%5].plot(grid_ci_list, min_cf[:len(grid_ci_list)], color='green', linestyle='dashed', linewidth=linewidth)
-        fig.legend(['Min Runtime', 'Min Operational', 'Min Embodied', 'Min Carbon Footprint'], loc='upper center', ncol=4, fontsize=18)
+        fig.legend(['Min. Runtime', 'Min. Operational', 'Min. Embodied', 'Min. Carbon Footprint'], loc='upper center', ncol=4, fontsize=18)
         region_colors = ['green', 'lightgreen']
         region_offsets = [0, 0.2, -0.1, 0.1, -0.2]
         for k, region in enumerate(regions):
@@ -184,7 +184,7 @@ def plot_summary_normalized_2x5(workload_list, workload_label_list, grid_ci_list
         axs[i//5, i%5].tick_params(axis='x', which='major', labelsize=16)
 
     # Label the x-axis centered in the whole plot
-    fig.text(0.5, 0.02, 'Grid Carbon Intensity (gCO2eq/kWh)', ha='center', fontsize=20)
+    fig.text(0.5, 0.02, 'Grid Carbon Intensity ($gCO_2eq/kWh$)', ha='center', fontsize=20)
     # Label the y-axis centered in the whole plot
     fig.text(0, 0.5, 'Norm. Carbon Footprint', va='center', rotation='vertical', fontsize=20)
     

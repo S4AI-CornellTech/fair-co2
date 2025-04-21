@@ -23,7 +23,7 @@ edgewidth = 0
 linewidth = 1
 violin_width = 0.8
 baseline_name = 'RUP-Baseline'
-adjusted_name = 'FAIR-CO2'
+adjusted_name = 'Fair-CO$_2$'
 
 fair_co2_path = os.environ.get('FAIR_CO2')
 
@@ -928,6 +928,11 @@ def main():
                             'Num Samples': 'int32', 
                             'Grid CI': 'float64',
                             'Deviation (%)': 'float64'})
+    
+    # Rename FAIR-CO2 to Fair-CO$_2$ in the dataframe
+    df['Attribution Method'] = df['Attribution Method'].replace({'FAIR-CO2': 'Fair-CO$_2$'})
+    df_val['Attribution Method'] = df_val['Attribution Method'].replace({'FAIR-CO2': 'Fair-CO$_2$'})
+
     p95_grid_ci_df = process_p95_grid_ci_data(df)
     avg_grid_ci_df = process_avg_grid_ci_data(df)
     p95_num_workloads_df = process_p95_num_workloads_data(df)
