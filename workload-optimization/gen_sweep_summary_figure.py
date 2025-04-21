@@ -184,7 +184,7 @@ def plot_summary_normalized_2x5(workload_list, workload_label_list, grid_ci_list
         axs[i//5, i%5].tick_params(axis='x', which='major', labelsize=16)
 
     # Label the x-axis centered in the whole plot
-    fig.text(0.5, 0.02, 'Grid Carbon Intensity ($gCO_2eq/kWh$)', ha='center', fontsize=20)
+    fig.text(0.5, 0.02, 'Grid Carbon Intensity (gCO$_2$eq/kWh)', ha='center', fontsize=20)
     # Label the y-axis centered in the whole plot
     fig.text(0, 0.5, 'Norm. Carbon Footprint', va='center', rotation='vertical', fontsize=20)
     

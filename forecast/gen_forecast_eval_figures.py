@@ -55,7 +55,7 @@ def forecast(inputs):
     # Split forecast_demand into before and after t
     forecast_demand_after = forecast_demand[forecast_demand['timestamp'] >= day]
 
-    plt.figure(figsize=(5, 2))
+    plt.figure(figsize=(5, 1.5))
     plt.plot(df_before['timestamp'], df_before['cpu allocated'], linewidth=1)
     plt.plot(df_after['timestamp'], df_after['cpu allocated'], linewidth=1)
     # plt.plot(untuned_forecast_demand_after['timestamp'], untuned_forecast_demand_after['cpu allocated'], linestyle='dotted', linewidth=1)
@@ -63,12 +63,12 @@ def forecast(inputs):
     # Vertical line at t
     # plt.axvline(x=t, color='r', linestyle='--')
     plt.yticks([])
-    plt.xticks(fontsize=12)
+    plt.xticks(fontsize=10)
     # x-axis break from 7 days to 14 days
-    plt.xlabel('Time (Days)', fontsize=12)
-    plt.ylabel('CPUs Allocated', fontsize=12)
-    plt.subplots_adjust(left=0.05, right=0.99, top=0.95, bottom=0.25)
-    plt.legend(['Actual (Past)', 'Actual (Future)', 'Forecast'], fontsize=12)
+    plt.xlabel('Time (days)', fontsize=10)
+    plt.ylabel('CPUs Allocated', fontsize=10)
+    plt.subplots_adjust(left=0.05, right=0.99, top=0.95, bottom=0.29)
+    plt.legend(['Actual (Past)', 'Actual (Future)', 'Forecast'], fontsize=10)
     plt.savefig(f'{fair_co2_path}/figures/5_forecast_demand.pdf')
     plt.close()
 
@@ -100,16 +100,16 @@ def forecast_plot():
     baseline_ci_error_relative['error (%)'] = baseline_ci_error['embodied ci (gCO2eq/core-second)'] / df_ci_5_min['embodied ci (gCO2eq/core-second)'] * 100
 
     # Plot two subplots stacked
-    fig, axs = plt.subplots(2, 1, figsize=(7, 4), sharex=True)
+    fig, axs = plt.subplots(2, 1, figsize=(7, 3), sharex=True)
     axs[0].plot(df_ci_5_min['timestamp'], df_ci_5_min['embodied ci (gCO2eq/core-second)'], linewidth=1.5)
     axs[0].plot(forecast_ci_5_min['timestamp'], forecast_ci_5_min['embodied ci (gCO2eq/core-second)'], linewidth=1.5)
     # axs[0].plot(baseline_ci['timestamp'], baseline_ci['embodied ci (gCO2eq/core-second)'], linewidth=1.5)
     # Vertical line at t
     axs[0].axvline(x=day, color='r', linestyle='--')
     # y axis labels
-    axs[0].set_ylabel('Embodied CI\n(gCO2eq/core-s)', fontsize=14)
+    axs[0].set_ylabel('Embodied CI\n(gCO$_2$eq/core-s)', fontsize=12)
     # set axis tick fontsize
-    axs[0].yaxis.set_tick_params(labelsize=14)
+    axs[0].yaxis.set_tick_params(labelsize=12)
 
     # Plot relative error
     axs[1].plot(forecast_ci_error_relative['timestamp'], forecast_ci_error_relative['error (%)'], linewidth=1.5)
@@ -117,12 +117,13 @@ def forecast_plot():
     # Vertical line at t
     axs[1].axvline(x=day, color='r', linestyle='--')
     # set axis tick fontsize
-    axs[1].yaxis.set_tick_params(labelsize=14)
-    axs[1].xaxis.set_tick_params(labelsize=14)
+    axs[1].yaxis.set_tick_params(labelsize=12)
+    axs[1].xaxis.set_tick_params(labelsize=12)
     # axis labels
-    axs[1].set_ylabel('Error (%)', fontsize=14)
-    axs[1].set_xlabel('Time (Days)', fontsize=14)
+    axs[1].set_ylabel('Error (%)', fontsize=12)
+    axs[1].set_xlabel('Time (days)', fontsize=12)
     plt.tight_layout()
+    plt.subplots_adjust(left=0.12, right=0.99, top=0.94, bottom=0.165)
     plt.savefig(f'{fair_co2_path}/figures/11_forecast_ci_error_5_min.pdf')
     plt.close()
 

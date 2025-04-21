@@ -411,9 +411,9 @@ def latency_99_carbon_pareto_front_1x2_grid(grid_ci_list, grid_ci_labels, pareto
         axs[i].tick_params(axis='y', labelsize=14)
         axs[i].set_title(f'{grid_ci_labels[i]} - {grid_ci} gCO2eq/kWh', fontsize=18)
 
-    fig.text(0.5, 0.02, '99th Percentile Tail Latency ($s$)', ha='center', fontsize=20)
+    fig.text(0.5, 0.02, '99th Percentile Tail Latency (s)', ha='center', fontsize=20)
     # Label the y-axis centered in the whole plot
-    fig.text(0.01, 0.5, 'Carbon ($CO_{2}eq/query$)', va='center', rotation='vertical', fontsize=20)
+    fig.text(0.01, 0.5, 'Carbon (CO$_{2}$eq/query)', va='center', rotation='vertical', fontsize=20)
     # Legend for the whole plot on top center, items horizontally aligned for the line types, x for ivf, o for hnsw
     legend_handles = [mlines.Line2D([0], [0], marker='x', color='w', label='IVF', markerfacecolor='black', markeredgecolor='black', markersize=15), mlines.Line2D([0], [0], marker='o', color='w', label='HNSW', markerfacecolor='black', markeredgecolor='black', markersize=15)]
     fig.legend(handles=legend_handles, loc='upper center', ncol=2, fontsize=18)

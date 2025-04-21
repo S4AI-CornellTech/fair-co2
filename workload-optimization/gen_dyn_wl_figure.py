@@ -233,15 +233,15 @@ if __name__ == '__main__':
 
     # 3rd plot grid CI
     ax[2].plot(df['Time (days)'], df['grid CI (gCO2eq/kWh)'], label='Grid CI (gCO2eq/kWh)')
-    ax[2].set_ylabel('$gCO_{2}e/kWh$', fontsize = label_font_size)
+    ax[2].set_ylabel('gCO$_{2}$e/kWh', fontsize = label_font_size)
     ax[2].set_title('Grid Carbon Intensity', fontsize = title_font_size)
 
     # 4th plot embodied CI (CPU on left y-axis, memory on right y-axis)
     ax[3].plot(df['Time (days)'], df['cpu CI (gCO2eq/core-second)'], label='CPU')
     ax_mem_ci = ax[3].twinx()
     ax_mem_ci.plot(df['Time (days)'], df['mem CI (gCO2eq/GB-second)'], label='Memory', color='red')
-    ax_mem_ci.set_ylabel('Mem. Emb. CI\n($gCO_{2}e/GB$-$s$)', fontsize = label_font_size)
-    ax[3].set_ylabel('CPU Emb. CI\n($gCO_{2}eq/core$-$s$)', fontsize = label_font_size)
+    ax_mem_ci.set_ylabel('Mem. Emb. CI\n(gCO$_{2}$e/GB-s)', fontsize = label_font_size)
+    ax[3].set_ylabel('CPU Emb. CI\n(gCO$_{2}$eq/core-s)', fontsize = label_font_size)
     ax[3].set_title('Embodied Carbon Intensity', fontsize = title_font_size)
     ax[3].set_xlabel('Time (days)', fontsize=14)
     handles_cpu, labels_cpu = ax[3].get_legend_handles_labels()

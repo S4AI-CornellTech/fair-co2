@@ -481,7 +481,7 @@ def scatter_grid_ci_avg(df, p95_df, avg_df, output_dir):
 
     # legend as 2 columns
     plt.legend(loc='upper left', fontsize=legend_fontsize, ncol=2)
-    plt.xlabel('Grid Carbon Intensity ($gCO_{2}e/kWh$)', fontsize=xlabel_fontsize)
+    plt.xlabel('Grid Carbon Intensity (gCO$_{2}$e/kWh)', fontsize=xlabel_fontsize)
     plt.ylabel('Deviation (%)', fontsize=ylabel_fontsize)
     plt.yticks(fontsize=tick_fontsize)
     plt.xticks(fontsize=tick_fontsize)
@@ -526,7 +526,7 @@ def scatter_grid_ci_worst(df, p95_df, avg_df, output_dir):
 
     plt.legend(loc='upper left', fontsize=legend_fontsize, ncol=2)
     plt.ylim(0, 81)
-    plt.xlabel('Grid Carbon Intensity ($gCO_{2}e/kWh$)', fontsize=xlabel_fontsize)
+    plt.xlabel('Grid Carbon Intensity (gCO$_{2}$e/kWh)', fontsize=xlabel_fontsize)
     plt.ylabel('Deviation (%)', fontsize=ylabel_fontsize)
     plt.yticks(fontsize=tick_fontsize)
     plt.xticks(fontsize=tick_fontsize)
