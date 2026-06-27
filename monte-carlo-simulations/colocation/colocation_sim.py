@@ -274,7 +274,7 @@ def run_simulation(args):
     cooling_cf = 24210 # gCO2eq
     gb_per_node = 192
     dram_cf = 146875 # gCO2eq 
-    ssd_cf_per_gb =  160 # gCO2eq, from Dirty Secrets of SSDs paper
+    ssd_cf_per_gb =  10 # gCO2eq/GB, act_core SSDModel nand_10nm (ssd_hynix.yaml); aligned with ACT/MicroGreen/EServe (was 160, "Dirty Secrets of SSDs" whole-device). NB: deviation-from-Shapley %s are ratios -> scale-invariant in this coefficient, so committed ref-sim-results are unchanged.
     ssd_cap_per_node = 480 # GB
     ssd_cf = ssd_cf_per_gb * ssd_cap_per_node # gCO2eq
     mb_cf = 109670 # gCO2eq
