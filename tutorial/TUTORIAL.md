@@ -6,7 +6,9 @@ shares the machine. You'll see why the industry's proportional split is unfair, 
 server's carbon yourself — the fair way — using Fair-CO2's own Shapley code. This follows the 5-minute
 Fair-CO2 intro (`TALKING_POINTS.md`).
 
-The helper:
+Fair-CO2 ships as a Python **library** (no CLI for this), so a thin helper, `tutorial.sh`, drives its real
+Shapley code on an editable schedule. Each run also **prints the exact Fair-CO2 API it called** (it imports
+`emb_shapley_lib` directly), so you can drive the library yourself:
 ```bash
 cd Fair-CO2/tutorial
 ./tutorial.sh --workloads exercises/workloads.json   # proportional (RUP) vs fair (Shapley) split

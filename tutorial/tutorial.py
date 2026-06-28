@@ -164,11 +164,14 @@ def main():
         row = emb.loc[args.swing]
         lo, hi = float(row.min()), float(row.max())
         results["swing"] = round(hi / lo, 2)
-        print(f"[06_fairco2 tutorial] '{args.swing}' attributed embodied carbon across co-location partners:")
+        print(f"[Fair-CO2 tutorial] '{args.swing}' attributed embodied carbon across co-location partners:")
         print(f"    isolated (nothing):  {float(row['nothing']):.4f} gCO2e")
         print(f"    sharing with spark:  {float(row['spark']):.4f} gCO2e")
         print(f"    min {lo:.4f} (w/ {row.idxmin()})    max {hi:.4f} (w/ {row.idxmax()})")
         print(f"  -> the same job's attributed bill swings {results['swing']}x just from its neighbor")
+        print("\n  the Fair-CO2 data this read (a committed matrix you load yourself):")
+        print("      import pandas as pd")
+        print('      pd.read_csv("colocation/ref-results/embodied_cf_colocation_matrix.csv").set_index("workload")')
     else:
         cfg = json.loads(_resolve(args.workloads).read_text())
         jobs, time = cfg["jobs"], int(cfg["time"])
@@ -185,7 +188,7 @@ def main():
         dem = demand_series(jobs, time)
         peak_t = max(range(time), key=lambda t: dem[t])
 
-        print(f"[06_fairco2 tutorial] one {time}-slot schedule, splitting {budget:,.1f} kgCO2e "
+        print(f"[Fair-CO2 tutorial] one {time}-slot schedule, splitting {budget:,.1f} kgCO2e "
               f"across {len(jobs)} co-located jobs")
         print(f"  concurrent demand peaks at {max(dem)} cores (slot {peak_t})")
         print(f"  {'job':<22}{'RUP':>10}{'Shapley(fair)':>15}{'Fair-CO2':>11}   {'RUP err':>8}{'F-CO2 err':>10}")
@@ -212,6 +215,11 @@ def main():
                 ylabel="attributed embodied carbon (kgCO₂e)",
                 colors=["#bb5566", "#3b7a57", "#ddaa33"], unit="", ann_fmt="{:.0f}",
             )
+        print("\n  the Fair-CO2 API behind this (a library, not a CLI — call it yourself):")
+        print("      from emb_shapley_lib import shapley_attribution   # ../forecast/emb_shapley_lib.py")
+        print("      # RUP      = each job's cpu*runtime, normalized            (Fair-CO2 baseline_attribution)")
+        print("      # Shapley  = avg marginal contribution to peak-of-concurrent-demand, all coalitions")
+        print("      # Fair-CO2 = shapley_attribution(demand_series) -> per-slot CI; job pays CI*cpu over its active slots")
 
     failures = []
     for spec in args.expect:
