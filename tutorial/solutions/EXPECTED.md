@@ -1,12 +1,11 @@
-# Expected results — segment-6 Fair-CO2 tutorial
+# Expected results — Fair-CO2 tutorial
 
 Reference numbers. The three attribution methods reproduce Fair-CO2's own algorithms
 (`baseline_attribution` / `ground_truth_shapley_attribution` / `temporal_shapley` in
-`Fair-CO2/monte-carlo-simulations/dynamic-demand/dynamic_demand_sim.py`), building on the hierarchical
-Shapley in `Fair-CO2/forecast/emb_shapley_lib.py`. Recompute with `./tutorial.sh …` from
-`walkthrough/06_fairco2/`.
+`monte-carlo-simulations/dynamic-demand/dynamic_demand_sim.py`), building on the hierarchical
+Shapley in `forecast/emb_shapley_lib.py`. Recompute with `./tutorial.sh …` from `Fair-CO2/tutorial/`.
 
-## Stage 1 — the verdict (`make demo-fairco2`)
+## Stage 1 — the verdict
 RUP deviates from the fair Shapley share by **80.3% avg / 279% worst**; Fair-CO2 → **19.1% / 54.8%**
 (≈4.2–5.1×), at **~600,000×** less compute. (Fair-CO2's committed 10k-sim Monte-Carlo result.)
 

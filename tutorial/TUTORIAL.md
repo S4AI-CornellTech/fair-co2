@@ -1,10 +1,9 @@
 # Fair-CO2 — hands-on: split shared carbon fairly (≈20 min)
 
-The data center is built (**ACT**) and provisioned (**EServe**) — the upstream steps of the
-full-stack-carbon walkthrough. Now its embodied carbon has to be **charged back** to the software that
-shares the machine. You'll see why the industry's proportional split is unfair, then attribute a shared
-server's carbon yourself — the fair way — using Fair-CO2's own Shapley code. This follows the 5-minute
-Fair-CO2 intro (`TALKING_POINTS.md`).
+The data center is built (**ACT**) and provisioned (**EServe**); now its embodied carbon has to be
+**charged back** to the software that shares the machine. You'll see why the industry's proportional
+split is unfair, then attribute a shared server's carbon yourself — the fair way — using Fair-CO2's own
+Shapley code.
 
 Fair-CO2 ships as a Python **library** (no CLI for this), so a thin helper, `tutorial.sh`, drives its real
 Shapley code on an editable schedule. Each run also **prints the exact Fair-CO2 API it called** (it imports
@@ -30,8 +29,8 @@ enough (~600,000×) to bill per-job, live. We'll see all three on one schedule.
 
 ## Stage 1 — Read the verdict (≈3 min)
 
-From the **full-stack-carbon** suite: `make demo-fairco2`. (Standalone, these headline numbers come
-straight from Fair-CO2's committed 10,000-sim results under `../monte-carlo-simulations/*/ref-sim-results/`.)
+These headline numbers come straight from Fair-CO2's committed 10,000-sim results under
+`../monte-carlo-simulations/*/ref-sim-results/`.
 
 Over those results: **RUP misattributes each job by ~80% on average
 (up to 279%)** vs the fair Shapley ground truth; **Fair-CO2 cuts that to ~19% (≈4.2×)** — at **~600,000×
@@ -55,8 +54,8 @@ can't capture.
 
 ## Stage 3 — Attribute a shared node yourself (≈8 min)
 
-Three jobs co-locate on one server for a 10-slot window and share its embodied carbon — ACT's **R740 =
-1,523 kg** from segment 1. Open `exercises/workloads.json`: each job is a **schedule** entry — `cpu`
+Three jobs co-locate on one server for a 10-slot window and share its embodied carbon — ACT's **R740
+server = 1,523 kg**. Open `exercises/workloads.json`: each job is a **schedule** entry — `cpu`
 (cores), `runtime` (slots), `start` (slot). The cluster is built for the **peak of concurrent demand**.
 Run it:
 

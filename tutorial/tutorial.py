@@ -75,7 +75,7 @@ def _resolve(p):
 
 
 def default_budget():
-    """Shared embodied budget = ACT's R740 from segment 1 (committed handoff), in kg."""
+    """Shared embodied budget in kg — ACT's R740 server (1,523.1 kg), or inputs/from_01_act.json if present."""
     p = HERE / "inputs" / "from_01_act.json"
     if p.exists():
         return float(json.loads(p.read_text())["server_embodied_kgco2e"])
