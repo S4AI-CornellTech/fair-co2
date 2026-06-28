@@ -1,0 +1,10 @@
+{
+  "_help": "One schedule of co-located jobs sharing a server's embodied carbon. Each job has `cpu` (cores), `runtime` (how many time-slots it runs), and `start` (which slot it starts). The cluster is built for the PEAK of concurrent demand. Edit the schedule and re-run: ./tutorial.sh --workloads exercises/workloads.json . Watch RUP (bills by cpu x runtime), Shapley (fair, bills by who drives the peak), and Fair-CO2 (cheap approximation of Shapley). Shared budget defaults to ACT's R740 (1523.1 kg); override with --budget <kg>.",
+  "time": 10,
+  "budget_source": "from_01_act",
+  "jobs": [
+    {"name": "llama (LLM serving)",  "cpu": 40,  "runtime": 10, "start": 0},
+    {"name": "spark (batch ETL)",    "cpu": 60,  "runtime": 10, "start": 0},
+    {"name": "faiss (index rebuild)","cpu": 100, "runtime": 2,  "start": 4}
+  ]
+}
