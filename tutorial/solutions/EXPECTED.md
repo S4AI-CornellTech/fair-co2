@@ -3,11 +3,11 @@
 Shared budget: a 1,523.1 kg server. Three jobs over a 10-slot window — llama (40 cores, 10 slots),
 spark (60, 10), faiss (100, 2, starting slot 4). Concurrent demand peaks at 200 cores in slots 4-5.
 
-| job | RUP | Shapley | Fair-CO2 | RUP error |
-|---|---|---|---|---|
-| llama (LLM serving) | 507.7 | 304.6 | 380.8 | 67% |
-| spark (batch ETL) | 761.5 | 456.9 | 571.2 | 67% |
-| faiss (vector search) | 253.8 | 761.5 | 571.2 | 67% |
+| job | RUP | Shapley | Fair-CO2 | RUP error | Fair-CO2 error |
+|---|---|---|---|---|---|
+| llama (LLM serving) | 507.7 | 304.6 | 380.8 | 67% | 25% |
+| spark (batch ETL) | 761.5 | 456.9 | 571.2 | 67% | 25% |
+| faiss (vector search) | 253.8 | 761.5 | 571.2 | 67% | 25% |
 
 RUP charges faiss the least (it runs only briefly), but its fair Shapley share is the most — it is
 what doubles the peak the server was sized for.

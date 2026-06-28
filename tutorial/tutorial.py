@@ -151,17 +151,19 @@ def main():
     results = {}
     print(f"Splitting {budget:,.1f} kgCO2e across {len(jobs)} co-located jobs over {time} time slots.")
     print(f"Concurrent demand peaks at {max(dem)} cores (slot {peak_t}).\n")
-    print(f"  {'job':<24}{'RUP':>11}{'Shapley':>11}{'Fair-CO2':>11}{'RUP err':>9}")
+    print(f"  {'job':<24}{'RUP':>11}{'Shapley':>11}{'Fair-CO2':>11}{'RUP err':>9}{'Fair-CO2 err':>13}")
     for i, j in enumerate(jobs):
         r, s, f = rup[i] * budget, shap[i] * budget, fco[i] * budget
-        err = abs(r - s) / s * 100 if s else 0.0
+        rup_err = abs(r - s) / s * 100 if s else 0.0
+        f_err = abs(f - s) / s * 100 if s else 0.0
         tok = token(j["name"])
         results[f"{tok}_rup"] = round(r, 1)
         results[f"{tok}_shapley"] = round(s, 1)
         results[f"{tok}_fairco2"] = round(f, 1)
-        print(f"  {j['name']:<24}{r:>9,.1f}kg{s:>9,.1f}kg{f:>9,.1f}kg{err:>8.0f}%")
+        print(f"  {j['name']:<24}{r:>9,.1f}kg{s:>9,.1f}kg{f:>9,.1f}kg{rup_err:>8.0f}%{f_err:>12.0f}%")
     print("\nRUP charges by CPU x runtime. Shapley charges by a job's contribution to the peak the")
     print("server was sized for. Fair-CO2 approximates the Shapley share cheaply enough to bill per job.")
+    print("The two error columns are each method's distance from the fair Shapley share.")
 
     if args.fig:
         attribution_chart(HERE / "figures" / "attribution.png", jobs, rup, shap, fco, budget)

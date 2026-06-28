@@ -35,10 +35,10 @@ provisioned for a 200-core peak.
 ## What it prints
 
 ```
-  job                             RUP    Shapley   Fair-CO2  RUP err
-  llama (LLM serving)         507.7kg    304.6kg    380.8kg      67%
-  spark (batch ETL)           761.5kg    456.9kg    571.2kg      67%
-  faiss (vector search)       253.8kg    761.5kg    571.2kg      67%
+  job                             RUP    Shapley   Fair-CO2  RUP err Fair-CO2 err
+  llama (LLM serving)         507.7kg    304.6kg    380.8kg      67%          25%
+  spark (batch ETL)           761.5kg    456.9kg    571.2kg      67%          25%
+  faiss (vector search)       253.8kg    761.5kg    571.2kg      67%          25%
 ```
 
 - **RUP** splits the budget by CPU x runtime. faiss runs only two slots, so RUP charges it the least
@@ -46,8 +46,8 @@ provisioned for a 200-core peak.
 - **Shapley** charges each job by how much it adds to the peak the server was built for. faiss is
   what pushes demand from 100 to 200 cores, so its fair share is the largest (762 kg) — about three
   times what RUP charges it. RUP gets the ranking backwards, and is off by 67%.
-- **Fair-CO2** approximates the Shapley share (faiss 571 kg): close to fair, but cheap enough to
-  compute for every job.
+- **Fair-CO2** approximates the Shapley share (faiss 571 kg) — 25% off the fair share here, versus
+  RUP's 67% — and is cheap enough to compute for every job.
 
 ## Change the schedule and re-run
 
