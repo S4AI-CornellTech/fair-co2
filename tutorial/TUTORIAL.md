@@ -51,12 +51,8 @@ provisioned for a 200-core peak.
 
 ## Change the schedule and re-run
 
-Edit `exercises/workloads.json` and run `python tutorial.py` again:
-
-- Set faiss's `runtime` to 10 so it runs the whole window instead of as a burst. RUP's error drops to
-  0% — with no spike, RUP matches the fair Shapley share. RUP only misattributes because of the burst.
-- Move faiss's `start` away from slots 4-5, or give llama or spark its own short burst, and watch
-  which job the fair share charges most.
+Edit `exercises/workloads.json` and run `python tutorial.py` again — move faiss's `start` away from
+slots 4-5, or give llama or spark its own short burst, and watch which job the fair share charges most.
 
 ## Notes
 

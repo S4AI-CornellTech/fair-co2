@@ -11,8 +11,3 @@ spark (60, 10), faiss (100, 2, starting slot 4). Concurrent demand peaks at 200 
 
 RUP charges faiss the least (it runs only briefly), but its fair Shapley share is the most — it is
 what doubles the peak the server was sized for.
-
-Variation — set faiss's `runtime` to 10 (no burst): RUP's error drops to 0%, i.e. RUP equals the fair
-Shapley share (304.6 / 456.9 / 761.5 for llama / spark / faiss). With steady demand, proportional
-billing is fair; the 67% error above comes entirely from faiss's burst. (Fair-CO2 stays a close
-approximation: 338.5 / 507.7 / 676.9.)
